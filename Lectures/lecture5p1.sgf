@@ -1,0 +1,947 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[2700]OT[5x15 byo-yomi]
+DT[2007-09-03]PC[The KGS Go Server at http://www.gokgs.com/]C[Lecture 5 - Game Review
+
+Direction and Complicated fightingUnplugged [-\]: will you use the micro?
+yithril [1d\]: yes
+bourbaki [1k\]: yo
+Unplugged [-\]: aw, ill have trouble to understand then
+yithril [1d\]: ill have to have someone volunteer to be the scribe
+Unplugged [-\]: don't bother
+Unplugged [-\]: ^^
+yithril [1d\]: i was going to anyway
+yithril [1d\]: because the sgf file
+yithril [1d\]: needs typed explanations
+Unplugged [-\]: oki
+yithril [1d\]: my voice wont be saved
+Unplugged [-\]: right
+yithril [1d\]: i think this is lecture 5
+yithril [1d\]: already
+Unplugged [-\]: :)
+wildseven [-\]: yes
+Unplugged [-\]: yup
+Jamal [3k\]: let me crank up the bose
+mello917 [1d\]: wheres the  music
+wildseven [-\]: its kinda staticy
+wildseven [-\]: static
+Jamal [3k\]: it is good
+wildseven [-\]: its understandable :)
+shogre44 [3k\]: im here
+]RE[B+Resign]
+;B[cd]BL[2682.098]
+;W[qp]WL[2690.87]
+;B[dp]BL[2657.023]
+;W[pc]WL[2687.452]C[mello917 [1d\]: dames, scarlett johanson is a nice one
+]
+;B[ec]BL[2641.746]C[bourbaki [1k\]: like i said, we normally start from the corners then go to the side then the center
+Jamal [3k\]: what about c11?
+bourbaki [1k\]: locally we would like to finish the corner at A
+]
+(;W[ld]WL[2682.84]LB[cj:A][fq:B]C[Bad Move.  Doesn't really limit black on the left nor does it take hold of the corner.Jamal [3k\]: missclick
+mello917 [1d\]: not very good
+wildseven [-\]: m16 kinda out of place
+mello917 [1d\]: cuz 
+wildseven [-\]: it doesnt do much
+hidan18 [1k\]: short
+bourbaki [1k\]: shall i scribe?
+bourbaki [1k\]: ok i'll start now
+bourbaki [1k\]: moving on
+bourbaki [1k\]: this stone really is not doing much
+]
+(;B[dj]BL[2619.924]TR[ec][cd][dp]C[Perfect.bourbaki [1k\]: black moves here
+bourbaki [1k\]: black makes a nice shape on the left
+bourbaki [1k\]: white sees a big moyo and he must move in immediately
+]
+(;W[dm]CR[ec][cd][dj][dp]WL[2678.233]C[Very weird.bourbaki [1k\]: all of the stones on the left side are making a nice looking moyo
+bourbaki [1k\]: this is an extremely weird move
+bourbaki [1k\]: we can tell immediately that white is a jealous player
+bourbaki [1k\]: try to build up on the side beforey ou move in
+bourbaki [1k\]: this is on the 4th line so it will not be easy to make eyes
+bourbaki [1k\]: black's stone is backed up by his two stones in the corner
+shika12 [8k\]: wrong direction?
+bourbaki [1k\]: basically, the idea of this review is: when looking at moves like this, they are theoretically unsound because one should build strength before diving in
+]
+(;B[cn]BL[2586.403]C[Very active plan.  My only complaint would be that maybe white would get thicker this way.wildseven [-\]: ahh
+bourbaki [1k\]: don't be scared of moyos: make strength first then come in
+]
+(;W[cm]WL[2674.222]
+;B[dn]BL[2584.699]C[bourbaki [1k\]: the corner gets big, and d10 cannot be attacked very easily
+]
+(;W[bj]WL[2672.373]C[So white is the type of player who sees a framework and runs in and quickly tries to live depsite the fact it earns him few points and gives his opponent thickness a well as territory.bourbaki [1k\]: i'm not going to knock this, because when people come in you shoudl try to mess with them
+]
+(;B[cj]BL[2576.556]C[bourbaki [1k\]: eventually white will have so many groups he will have lost control of the game
+]
+;W[bk]WL[2669.008]
+;B[bi]BL[2574.331]LB[bh:A]TR[ee][cf][ef][dg][eg]C[Also possible to build the upper right.  A could be a possible problem.bourbaki [1k\]: let jealous players be jealous
+bourbaki [1k\]: white continues on the 2nd line
+bourbaki [1k\]: this move also creates a moyo in the upper left
+]
+(;W[fm]WL[2659.865]SQ[cm][dm][cn][dn]C[bourbaki [1k\]: however white does have this attachment later
+bourbaki [1k\]: personally i would take this
+bourbaki [1k\]: if white gets this move he attacks black rather than the other way around
+Jamal [3k\]: tiger mouth
+bourbaki [1k\]: however, directional mistakes are hard to punish becasue they require lots of moves
+shika12 [8k\]: ah
+]
+(;B[gq]BL[2568.32]C[Jamal [3k\]: c12 better shape
+bourbaki [1k\]: whtie comes out
+bourbaki [1k\]: what do you think of this move?
+Jamal [3k\]: meh
+hidan18 [1k\]: bad shape
+hidan18 [1k\]: g5 better
+hidan18 [1k\]: ☺
+]
+;W[fp]WL[2657.214]
+(;B[fq]BL[2565.695]C[bourbaki [1k\]: i would play this
+]
+;W[ep]WL[2655.604]
+;B[eq]BL[2564.445]
+;W[en]WL[2654.111]C[Now white makes strong shape and greatly makes a weak group stronger.  ]
+;B[el]BL[2492.006]
+;W[em]WL[2652.225]
+(;B[gk]BL[2371.41]
+;W[cp]WL[2646.304]
+(;B[do]BL[2358.69]
+;W[cq]WL[2643.112]C[bourbaki [1k\]: now white's shape is much stronger which is mor than he deserves
+]
+;B[dq]BL[2357.006]
+;W[bo]WL[2633.816]
+;B[bn]BL[2353.918]
+;W[dr]WL[2631.679]
+;B[er]BL[2348.264]
+;W[cr]WL[2626.049]
+(;B[hm]BL[2334.74]C[bourbaki [1k\]: now whtie does this
+]
+;W[ho]WL[2619.862]
+;B[ip]BL[2333.135]
+(;W[hp]WL[2617.283]
+;B[hq]BL[2331.844]
+;W[io]WL[2616.152]
+;B[jp]BL[2330.464]C[bourbaki [1k\]: any time these players see a territorial framework they must move in
+]
+;W[fl]WL[2598.323]LB[el:A]C[bourbaki [1k\]: i don't like this much because it pushes from behidn and makes black stronger
+Jamal [3k\]: kikashi
+bourbaki [1k\]: what was the original meaning of e9?
+mello917 [1d\]: isnt it best to kill those kinds of players? 
+bourbaki [1k\]: *e8?
+bourbaki [1k\]: right, a kikashi
+Jamal [3k\]: so don't worry about 1 stone!
+]
+(;B[ek]BL[2320.934]LB[gj:A]C[This leaves a problem at Abourbaki [1k\]: if white wants to kill this stone, we still have very good outside shape and white is not yet alive
+]
+;W[bm]WL[2591.236]
+;B[an]BL[2317.739]
+;W[fk]WL[2583.885]
+;B[fj]BL[2315.818]
+;W[gj]WL[2583.189]C[bourbaki [1k\]: however this leads to a push and cut
+]
+;B[hk]BL[2305.852]
+;W[fi]WL[2580.287]
+;B[ej]BL[2304.449]
+;W[gi]WL[2579.543]
+;B[ch]BL[2297.137]
+;W[jm]WL[2576.259]
+(;B[kl]BL[2247.956]C[bourbaki [1k\]: now whtie covers black
+bourbaki [1k\]: this move i thought was ok
+]
+(;W[jl]WL[2572.958]C[Jamal [3k\]: l8 at tengen
+]
+;B[jk]BL[2246.387]
+;W[kk]WL[2571.496]
+;B[jj]BL[2242.288]
+(;W[lk]WL[2570.038]C[bourbaki [1k\]: this looks threatening, but g11 stones are weak so it should be managable
+]
+(;B[lm]BL[2238.915]C[bourbaki [1k\]: if the two stones in the middle die, g11 is much weaker
+bourbaki [1k\]: what do you think of this move?
+wildseven [-\]: waste
+Jamal [3k\]: still k6
+]
+;W[ln]WL[2567.666]
+(;B[mm]BL[2234.336]C[bourbaki [1k\]: i'm not sure how it works out
+]
+;W[mn]WL[2565.778]
+;B[om]BL[2228.024]
+;W[km]WL[2553.221]
+(;B[li]BL[2196.697]
+;W[ll]CR[jj][jk][lm][mm][om]WL[2549.215]C[bourbaki [1k\]: black decides to extend, and now this really hurts
+bourbaki [1k\]: now black must move on the other side and white captures
+]
+;B[jh]BL[2189.643]
+;W[il]WL[2540.47]
+;B[hj]BL[2152.131]C[HonFu [4k\]: not manageable
+]
+;W[fd]WL[2534.173]C[bourbaki [1k\]: now observe that whtie started with a bad move, but black made some mistakes and black has a weak group and a group that is not too solid
+]
+(;B[jd]BL[2136.629]C[bourbaki [1k\]: this is a failure for black
+bourbaki [1k\]: now black tries k17
+]
+;W[jc]WL[2528.832]
+;B[ic]BL[2134.443]
+;W[kc]WL[2527.943]
+;B[id]BL[2132.92]
+;W[ed]WL[2520.876]
+;B[dc]BL[2124.587]
+;W[df]WL[2516.18]LB[fe:1][ff:2][fg:3][fh:4]C[bourbaki [1k\]: in these situations, you can't play soft moves
+bourbaki [1k\]: whtie's strategy is clear: he wants to press black low and make ey space in the middle
+]
+(;B[cf]BL[2119.823]C[too submissive.bourbaki [1k\]: hard to decide between k17 and k16, but i like the idea
+]
+;W[ce]WL[2510.046]C[bourbaki [1k\]: if you don't like the keima, can just kosumi
+]
+;B[be]BL[2117.273]
+;W[de]WL[2507.44]
+;B[bf]BL[2111.914]
+;W[ig]WL[2496.085]
+;B[jg]BL[2109.241]
+;W[if]WL[2494.136]
+;B[jf]BL[2108.002]
+;W[ie]WL[2484.938]
+;B[je]BL[2106.568]
+;W[hh]WL[2478.809]C[White lives pretty easily in the middle.]
+(;B[eh]BL[2098.953]
+;W[fg]WL[2476.303]
+;B[eg]BL[2093.522]
+;W[ef]WL[2474.21]
+(;B[fh]BL[2080.995]
+;W[gh]WL[2472.023]
+;B[ff]BL[2053.893]LB[fc:A][lm:C][mm:B][om:D]SQ[oi][pi][nj][oj]C[bourbaki [1k\]: black decided to defend... i won't knock it, the other way is a little scary
+bourbaki [1k\]: still a little touchy whether white can live
+]
+;W[gg]WL[2469.113]C[hidan18 [1k\]: white lived in the game?
+]
+(;B[pe]BL[2011.389]C[hidan18 [1k\]: =O
+bourbaki [1k\]: black doesn't necessarily have enough eyespace because n7 is weak
+]
+;W[oe]WL[2466.909]
+;B[of]BL[2009.317]
+;W[od]WL[2465.26]
+(;B[nf]BL[2007.843]
+(;W[pk]WL[2457.865]C[bourbaki [1k\]: black is stronger on the outside, but white gets a ton of territory
+]
+(;B[nk]BL[2005.293]
+;W[nj]WL[2448.997]
+(;B[ok]BL[1991.904]
+;W[oj]WL[2447.116]C[these moves help white.]
+;B[pl]BL[1990.664]
+;W[qk]WL[2445.938]
+;B[mj]BL[1989.347]
+;W[mk]WL[2444.172]
+;B[nn]BL[1978.355]C[B's not in good shape here]
+(;W[lq]WL[2429.086]LB[jr:A]C[Overplay.bourbaki [1k\]: black can let whtie take two stones and take sente on the bottom
+bourbaki [1k\]: however in game black fights
+]
+;B[ql]BL[1966.468]
+(;W[qh]WL[2423.805]C[Bad Shape.bourbaki [1k\]: m3 threatens to come under at A
+bourbaki [1k\]: what do you think of this move?
+hidan18 [1k\]: doesnt protect the cut
+wildseven [-\]: life saver
+Unplugged [-\]: q11 has a bad aji
+bourbaki [1k\]: paul speaking: a bit overconcentrated
+bourbaki [1k\]: i prefer r14 because it removes eyespace
+bourbaki [1k\]: i would do this before q11 to squeeze white in a small area
+hidan18 [1k\]: 3 and 4k
+]
+(;B[pg]BL[1962.884]TR[qf][rf][qg][rg]C[shika12 [8k\]: i dont like it
+]
+;W[rf]WL[2420.508]
+;B[qe]BL[1957.183]
+;W[re]WL[2418.597]
+(;B[qd]BL[1954.419]
+;W[gb]WL[2411.709]C[bourbaki [1k\]: the problem with this is white can slide under and make eyspace
+]
+(;B[ib]BL[1939.385]
+;W[lf]WL[2406.741]
+;B[lg]BL[1930.208]C[bourbaki [1k\]: now white tries to split black, because if you look at the larger picture black is split off
+]
+;W[mh]WL[2400.273]
+(;B[mg]BL[1924.07]
+;W[lh]WL[2396.377]
+;B[kh]BL[1922.207]
+;W[mi]WL[2391.118]
+;B[lj]BL[1920.009]
+;W[kj]WL[2386.903]
+;B[ki]BL[1918.176]
+;W[oh]WL[2378.036]C[bourbaki [1k\]: just kill these stones off
+]
+(;B[ph]BL[1908.305]
+;W[pi]WL[2375.18]
+;B[rk]BL[1900.411]
+;W[rj]WL[2372.832]
+;B[rl]BL[1899.35]
+;W[rn]WL[2369.312]
+;B[ri]BL[1896.663]C[DrJoseki [7k?\]: watashi wa inu Tyson desu baka
+]
+;W[qj]WL[2360.004]
+;B[sj]BL[1893.855]
+;W[qi]WL[2357.543]
+;B[nh]BL[1888.387]
+;W[ni]WL[2355.576]
+;B[ng]BL[1887]
+;W[rh]WL[2353.43]
+;B[si]BL[1885.58]
+;W[sk]WL[2350.488]C[bourbaki [1k\]: this gorup is looking pretty weak... i don't think the middle group will die, but it looks scary
+]
+;B[sl]BL[1884.047]C[bourbaki [1k\]: white will try to take eyspace away from r8
+]
+;W[sh]WL[2349.947]
+;B[sk]BL[1882.643]TR[pl][ql][rl][sl][om][nn]C[shika12 [8k\]: b in trouble now
+bourbaki [1k\]: this way whtie is actually alive and black has problems
+]
+;W[nl]WL[2329.736]
+;B[ol]BL[1877.902]
+;W[kl]WL[2318.578]
+;B[np]BL[1872.23]
+;W[jr]WL[2315.005]
+(;B[lo]BL[1862.065]
+(;W[mo]WL[2307.152]
+;B[mp]BL[1857.364]
+;W[ko]WL[2304.089]
+;B[lp]BL[1855.621]
+;W[kp]WL[2300.034]
+;B[jq]BL[1849.393]
+(;W[ir]WL[2291.44]
+;B[kq]BL[1835.113]C[HonFu [4k\]: cut him off
+]
+;W[lr]WL[2289.921]
+;B[iq]BL[1825.167]
+;W[kr]WL[2283.195]
+;B[nr]BL[1819.468]
+;W[hr]WL[2271.562]
+;B[jo]BL[1813.545]
+;W[kn]WL[2269.015]
+;B[gm]BL[1803.852]
+;W[in]WL[2262.254]
+;B[gn]BL[1794.771]
+;W[fo]WL[2251.131]
+;B[ap]BL[1730.637]
+;W[ar]WL[2234.273]
+;B[ao]BL[1722.122]
+;W[bs]WL[2202.252]
+;B[bq]BL[1714.699]
+;W[br]WL[2197.204]
+;B[ds]BL[1713.167]C[HonFu [4k\]: and live here
+]
+;W[gr]WL[2193.953]
+;B[es]BL[1707.709]
+;W[am]WL[2183.328]
+;B[no]BL[1676.674]C[HonFu [4k\]: also troubled me
+]
+;W[fr]WL[2170.899]
+;B[co]BL[1638.283]
+;W[ii]WL[2141.385]
+;B[ji]BL[1634.664]
+;W[ck]WL[2130.68]
+;B[ls]BL[1609.85]
+;W[ks]WL[2125.043]
+;B[is]BL[1584.686]
+;W[fs]WL[2121.283]
+;B[hs]BL[1582.546]
+;W[gp]WL[2117.482]
+;B[bp]BL[1569.417]
+;W[eo]WL[2113.056]
+;B[cs]BL[1561.94]C[HonFu [4k\]: even found time for this :-P
+]
+;W[jn]WL[2109.174]
+;B[pq]BL[1503.424]
+;W[mr]WL[2106.131]
+;B[ms]BL[1501.347]
+;W[ns]WL[2102.789]
+;B[ms]BL[1500.006]
+;W[nq]WL[2098.615]
+;B[or]BL[1498.717]
+;W[qr]WL[2089.038]
+;B[qq]BL[1495.51]
+;W[rq]WL[2087.56]
+;B[pr]BL[1493.505]
+;W[rr]WL[2079.867]
+;B[qo]BL[1485.773]
+;W[ro]WL[2077.901]
+;B[pp]BL[1484.671]
+;W[rp]WL[2076.412]
+;B[qn]BL[1483.721]
+;W[mq]WL[2068.768]
+;B[oq]BL[1479.026]
+;W[qm]WL[2060.07]
+;B[rm]BL[1473.455]
+;W[po]WL[2057.543]
+;B[pn]BL[1468.35]
+;W[ps]WL[2056.632]
+;B[oo]BL[1462.718]
+;W[ls]WL[2054.062]
+;B[os]BL[1460.739]
+;W[qf]WL[2039.512]C[HonFu [4k\]: and now final fight
+]
+;B[pf]BL[1457.672]
+;W[kf]WL[2028.979]
+;B[kg]BL[1455.635]
+;W[hd]WL[2018.791]
+;B[qc]BL[1435.522]
+;W[qb]WL[2015.711]
+;B[rb]BL[1434.391]
+;W[pb]WL[2014.122]
+;B[rd]BL[1431.598]
+;W[ra]WL[2010.798]
+;B[sc]BL[1427.292]
+;W[dl]WL[1997.263]
+;B[aj]BL[1420.675]
+;W[ak]WL[1994.609]
+;B[bl]BL[1419.601]
+;W[ai]WL[1993.084]
+;B[ah]BL[1417.102]
+;W[cg]WL[1984.664]
+;B[bg]BL[1413.985]
+;W[dg]WL[1975.862]C[HonFu [4k\]: here I close the eye
+]
+;B[dh]BL[1412.094]
+;W[se]WL[1966.352]
+;B[sd]BL[1405.596]
+;W[hc]WL[1958.822]
+;B[dd]BL[1392.923]C[HonFu [4k\]: did t want a ko there
+]
+;W[ee]WL[1956.446]
+;B[hi]BL[1385.613]
+;W[ih]WL[1951.715]
+;B[nm]BL[1381.222]
+;W[jb]WL[1945.835]
+;B[ml]BL[1332.373]
+;W[qg]WL[1785.237]
+;B[sb]BL[1278.311]C[HonFu [4k\]: now
+]
+;W[ne]WL[1780.641]
+;B[dk]BL[1261.549]
+;W[mf]WL[1770.038]
+;B[cl]BL[1243.835]
+;W[hb]WL[1757.894]
+;B[aj]BL[1238.334]
+;W[aq]WL[1738.124]
+;B[as]BL[1227.063]
+;W[ai]WL[1736.604]
+;B[fc]BL[1195.355]
+;W[ia]WL[1728.594]
+(;B[gd]BL[1190.324]
+;W[ge]WL[1719.847]
+;B[fe]BL[1187.335]
+;W[kd]WL[1707.122]
+;B[aj]BL[1185.055]
+;W[al]WL[1704.186]
+;B[ai]BL[1182.571]C[HonFu [4k\]: and before?
+]
+;W[ke]WL[1700.413]
+;B[cl]BL[1176.592]
+;W[pd]WL[1697.772]
+;B[qs]BL[1151.555]
+;W[rs]WL[1695.179]
+;B[sn]BL[1147.764]
+;W[so]WL[1693.446]
+;B[fb]BL[1145.011]
+;W[qa]WL[1689.687]C[HonFu [4k\]: i'm alive
+]
+;B[ga]BL[1134.362]
+;W[sa]WL[1688.064]
+;B[fa]BL[1125.498]
+(;W[oi]WL[1686.695]
+;B[ha]BL[1120.882]C[HonFu [4k\]: wow what a dumba..
+HonFu [4k\]: hey, you were watching?
+booyah [7k\]: me?
+HonFu [4k\]: yeah,
+HonFu [4k\]: and tucan
+booyah [7k\]: yep yep
+HonFu [4k\]: this was scary ...
+HonFu [4k\]: '' o_O
+HonFu [4k\]: one of those games where you just can imagine that ANYONE wins!
+HonFu [4k\]: cant
+booyah [7k\]: he wasnt payin attention to the top at all
+HonFu [4k\]: yeah, that was bad
+HonFu [4k\]: middle was already seki
+HonFu [4k\]: but he still thought he could kill
+booyah [7k\]: oh u counted?
+HonFu [4k\]: yeah ^^
+HonFu [4k\]: see: 
+HonFu [4k\]: since I have an eye
+HonFu [4k\]: he has to approach from the inside first
+HonFu [4k\]: but he cant
+HonFu [4k\]: because then I kill him at B8
+booyah [7k\]: yea all u had to do was refuse to move
+HonFu [4k\]: yeah, take points elsewhere
+HonFu [4k\]: so I did
+HonFu [4k\]: more than I could m,  haha ^^
+HonFu [4k\]: man, this was crazy ...
+HonFu [4k\]: I imagine mistakes from both sides are above counting
+HonFu [4k\]: now more than that
+HonFu [4k\]: oh man ...
+HonFu [4k\]: thanks for watching! ^_^
+])
+(;W[ha]
+;B[gf]C[booyah [7k\]: good game
+]
+;W[he]C[HonFu [4k\]: thank you!
+HonFu [4k\]: haha ^^
+HonFu [4k\]: score estimator
+booyah [7k\]: you already won after the cap in top left
+HonFu [4k\]: shows a huuuuuuge seki
+HonFu [4k\]: and seldom enough - hes right ^_°
+HonFu [4k\]: yes
+]))
+(;B[ci]
+;W[qs]
+;B[sn]
+;W[so]C[HonFu [4k\]: yes
+HonFu [4k\]: 30 points
+HonFu [4k\]: says score estimator
+booyah [7k\]: oh ok
+HonFu [4k\]: but it must be right
+HonFu [4k\]: bottom also dead
+booyah [7k\]: right
+HonFu [4k\]: this was so scary ...
+HonFu [4k\]: okay, thanks for watchin g ad see you!
+booyah [7k\]: cya
+]))
+(;W[kq]
+;B[ir]
+;W[jo]
+;B[iq]
+;W[kr]
+;B[gr]
+(;W[nr])
+(;W[hl])))
+(;W[ko]
+(;B[mo]
+(;W[kn]
+;B[kp]
+;W[lp]
+;B[ir]
+;W[jq]
+;B[iq]
+;W[nr]
+;B[or]
+;W[nq]
+;B[oq]
+;W[op])
+(;W[kp]
+;B[kn]
+;W[jo]))
+(;B[lp]
+;W[kp]
+;B[kq]
+;W[jq]
+;B[jo]
+;W[kn]
+;B[iq]
+;W[hl]C[This looks dangerous for Black])))
+(;B[ir]C[Its probably best to defend the cutting point]))
+(;B[pi]
+(;W[ph]
+;B[pj]C[bourbaki [1k\]: bnow white's strating to get moves for the inside group
+]
+;W[oi]
+;B[qj]
+;W[rk]C[bourbaki [1k\]: i wonder if black cando this
+]
+;B[rj]
+;W[ri]
+;B[rl]
+;W[qg]
+;B[nh]
+;W[ni]
+;B[ng]
+;W[rc]
+;B[rd]
+;W[sd]
+;B[qc]
+;W[qb]
+;B[rb]
+;W[sb]
+;B[pb]
+;W[ra]
+;B[oc]
+;W[nc]
+;B[pd]
+;W[nd]
+;B[nb]
+;W[mb]
+;B[ma]
+;W[lb]
+;B[jb]C[Ridiculous ;)])
+(;W[pj]
+;B[ph]
+;W[qi]
+;B[ni]
+;W[jb]
+;B[qc]
+;W[rd]
+;B[nc]
+;W[pb]
+;B[me]
+;W[md]
+;B[le]C[B can fight.])))
+(;B[lh]
+;W[mg]
+;B[mf]
+;W[me]C[bourbaki [1k\]: i don't think they should qutie die, but it is pretty scary
+]
+;B[ni]
+;W[mi]
+;B[lj]
+;W[nh]
+;B[oh]
+;W[oi]
+;B[ng]
+;W[ni]
+;B[pi]
+;W[pj]
+;B[ph]
+;W[qi]
+;B[rk]
+;W[qj]C[DrJoseki [7k?\]: But isnt g18 bad?
+]
+;B[qg]
+;W[rg]
+;B[rd]C[bourbaki [1k\]: i think black can just connect, not much to worry about
+]
+;W[qf]
+;B[pf]
+(;W[qc]
+;B[rj]
+;W[ri]
+;B[si]
+;W[rh]
+;B[se]C[hidan18 [1k\]: lol
+])
+(;W[rj]
+;B[rl]
+;W[qc]
+;B[sj]
+;W[si]
+;B[rh]
+;W[sk]
+;B[se]
+;W[sh]
+;B[sf]
+;W[ri]
+;B[sd]
+;W[sg]
+;B[sl]C[white doesnt have a chace])))
+(;B[hb]
+;W[gc]
+;B[jb]
+;W[kb]
+;B[pi]
+;W[ph]
+;B[oi]
+;W[oh]
+;B[ni]))
+(;B[rd]
+(;W[qd]
+;B[pd]
+;W[qc]
+;B[oc]
+;W[nc]
+;B[ob]
+;W[nd]
+;B[rc])
+(;W[rc]
+;B[qd]
+;W[qc]
+;B[sd]C[B can still cut.])))
+(;B[pi]C[Weak point.wildseven [-\]: treaten a cut
+Jamal [3k\]: ginormous
+bourbaki [1k\]: white has a gigantic weakness here
+]
+(;W[qi]
+;B[pj]
+;W[qj])
+(;W[ph]
+;B[qi]
+;W[oi]
+;B[ri]
+(;W[rj]
+;B[pj]
+;W[rh]
+;B[rk])
+(;W[pj]
+;B[rk]
+;W[rl]
+;B[rj]
+;W[rm]
+;B[oh])))
+(;B[qf]C[this puts more pressure on white.wildseven [-\]: q12?
+DrJoseki [7k?\]: who are the levels playing?
+bourbaki [1k\]: in the game black does this
+DrJoseki [7k?\]: what are the dans or kyus?
+]))
+(;W[qi]))
+(;W[mp]C[much better]))
+(;B[mj]
+;W[mk]
+;B[oj]
+;W[nl]C[bourbaki [1k\]: white tries to attack on the bottom, which is a good idea
+]
+;B[ni]
+;W[nm]
+;B[oq]))
+(;B[op]))
+(;W[pf]
+;B[pg]
+;W[qf]
+;B[qg]
+;W[re]
+;B[rf]
+;W[qe]C[This is a lot of territory for white to just have.bourbaki [1k\]: i like this kind of plan, but black leaves a shape problem
+]))
+(;B[pf]C[might be better to connect or ])
+(;B[pg]))
+(;B[op]C[This move seems biger because it helps the weaker group.]))
+(;B[he]
+;W[hd]
+;B[gd]
+(;W[hc]
+;B[gc]
+;W[hb]
+;B[fe]
+;W[fc]
+;B[gb])
+(;W[ge]
+;B[hc]
+;W[hf]
+;B[fc]C[b could take lots of points just like this])))
+(;B[eg])
+(;B[mc]
+;W[md]
+;B[nc]
+;W[nd]
+;B[oc]
+;W[od]
+;B[pb]
+;W[qc]
+;B[qb]
+;W[rc]
+;B[rb]
+;W[ok]C[this plan would not be advisable.]))
+(;B[eh]
+(;W[fg]
+;B[eg]
+;W[ff]
+;B[ef]
+;W[de]
+;B[fh]
+;W[gh]
+;B[gg]C[b is so strong here so we can fight])
+(;W[bf]
+(;B[fg]C[bourbaki [1k\]: white has nothing against black's corner
+])
+(;B[gg]C[bourbaki [1k\]: white is not strong at all: looking closely, he has 4 spaces between two weak groups next to two strong black groups
+bourbaki [1k\]: i would try to separate
+]))))
+(;B[jc]
+;W[jd]
+;B[id]
+;W[je]
+;B[kc]
+;W[lc]
+;B[ie]C[Building thickness here seems better.]
+;W[fc]
+;B[ed]
+;W[hc]
+;B[ic]))
+(;B[jh]C[This move puts more pressure on the weaker stones in the middle since the side white stones are stronger.]))
+(;B[mn]C[bourbaki [1k\]: so i'm not sure how well this works for white
+]
+(;W[mm]C[if b hane white cuts.bourbaki [1k\]: the tesuji in this shape is normally l6
+]
+(;B[ml]
+;W[ll]
+;B[nm]
+;W[km])
+(;B[kn]C[bourbaki [1k\]: there is still the problem of the cut
+]
+;W[km]
+(;B[ll]C[bourbaki [1k\]: the reason it is not good is: what if whtie attaches?
+]
+;W[ml])
+(;B[lo]
+;W[ll]
+;B[jn]
+;W[in]
+;B[im]C[bourbaki [1k\]: white cconnects
+])))
+(;W[kn]
+;B[nm]
+;W[lp]
+;B[mo]
+;W[kp]
+;B[nq]C[bourbaki [1k\]: this gets really complicated
+]
+;W[jr]C[Jamal [3k\]: m8
+])))
+(;B[kn]C[This is the tesuji.]
+;W[km]
+;B[ll]
+;W[lm]
+;B[ml]
+;W[mm]
+;B[nl]
+;W[ki]
+;B[ji]
+;W[kh]
+;B[ig]))
+(;W[ll]C[bourbaki [1k\]: white breaks through black shape and extends
+]
+;B[jn]C[bourbaki [1k\]: i thought about just laddering this stone, but...
+bourbaki [1k\]: this might screw over white
+Jamal [3k\]: yea
+bourbaki [1k\]: what do you think?
+masek [-\]: trobule some
+Jamal [3k\]: dual purpose move
+masek [-\]: trouble
+]))
+(;W[il]SQ[fi][gi][gj]C[bourbaki [1k\]: first you think k9, but there is the cool factor
+]))
+(;B[jk]))
+(;B[fk]C[It's time to cash in on whites weak group.]
+;W[ek]
+;B[ej]C[E8 has done its job. It was a forcing move so it can be thrown away easily.  E10 is worth more to black than E9.bourbaki [1k\]: actually it is more fun to make their groups make small territory and suffer
+]))
+(;W[io]C[Simply come out.]))
+(;B[ip]
+;W[hn]LB[jc:A][op:B]C[bourbaki [1k\]: remember: if a jealous player sees an opportunity to make territory he will take it
+mello917 [1d\]: so is this a lesson on ohw to play jealous players/
+bourbaki [1k\]: black already has a stone at g9, so he should come from the bottom
+bourbaki [1k\]: this way black can aim to make territory at the top or bottom
+mello917 [1d\]: but wouldnt greedy be a better word 
+bourbaki [1k\]: i picked this game because white is very jealous and it can be tough to play against
+Jamal [3k\]: i like jealous
+]))
+(;B[cq]C[Doesn't work.]
+;W[do]
+;B[dq])
+(;B[dq]
+;W[co]
+;B[do]
+;W[bn]))
+(;B[cp]C[Black should protect his territory like this])
+(;B[gj]C[bourbaki [1k\]: that's why in the beginning it is a much more active plan to make whtie deal with his weaknesses
+]))
+(;B[fn]C[bourbaki [1k\]: jealous players tend to use yoru slack moves to get ahead
+]
+(;W[gn]C[bourbaki [1k\]: in the game black did this
+]
+(;B[em]
+;W[el]
+;B[en]
+;W[gl]
+;B[go]
+;W[gp]
+;B[hn]
+;W[hp]
+;B[gm]
+;W[fl]
+(;B[dl]
+;W[dk]
+;B[cl]
+;W[ck]
+;B[bm]
+;W[ci]
+;B[ej]
+;W[ek]
+;B[ch])
+(;B[bm]
+;W[bl]
+;B[bn]
+;W[cl]
+;B[fi]))
+(;B[en]
+;W[em]
+;B[go]))
+(;W[en]
+;B[eo]
+;W[em]
+;B[fo]
+;W[gp]
+;B[gm]
+;W[gl]
+;B[hl]
+;W[hm]
+;B[gn]
+;W[gk]
+;B[il])))
+(;B[en]C[you absolutely must get this point.mello917 [1d\]: boring
+hidan18 [1k\]: low
+bourbaki [1k\]: it's kind of loose shape.. what else?
+DrJoseki [7k?\]: yithril;
+DrJoseki [7k?\]: are you stronger than 1 dan?
+bourbaki [1k\]: and when one makes mistakes, like not hitting vital points
+DrJoseki [7k?\]: : /
+bourbaki [1k\]: one moment of slackness will allow your opponent to make shape
+DrJoseki [7k?\]: AGA is about same as kgs
+DrJoseki [7k?\]: yea
+bourbaki [1k\]: paul speaking: he's kgs 2d at least
+DrJoseki [7k?\]: yea
+DrJoseki [7k?\]: thats what i was about to say
+]
+;W[em]C[bourbaki [1k\]: the reason being we have two stones lined up next to ours like this
+]
+;B[ho]C[and run ahead of white.])
+(;B[]
+;W[en]C[bourbaki [1k\]: black moves ahead like this.. .remember white is not alive yet and black can make big territory on the bottom
+]))
+(;W[bh]))
+(;B[em]C[If white wants to crawl on the second line give him what he wants.]
+;W[el]C[bourbaki [1k\]: you just continue to attack
+]
+;B[fl]C[white is really suffering.bourbaki [1k\]: white decides to make 2nd line territory as quickly as possible
+]
+;W[ek]
+;B[fm]
+(;W[ej]C[you could play directly from d10 but...]
+(;B[di]
+;W[ei]
+;B[ck]
+;W[bk]
+;B[dh]
+;W[cl]
+;B[eh]
+;W[gj]
+;B[op])
+(;B[op]LB[ek:D][el:A][fl:C][em:B]C[It's best to leave that as very bad aji and make a huge moyo on the bottom.bourbaki [1k\]: i personally would hane, always good to hane at the head of two stones
+bourbaki [1k\]: d10 can be put in motion later, but in this position i would go for the bototm as quickly as possible
+bourbaki [1k\]: in this exchange, black gets more than white
+wildseven [-\]: yes
+bourbaki [1k\]: does everybody agree?
+Jamal [3k\]: yes but white would be jealous of the bottom now
+]
+;W[jq]C[bourbaki [1k\]: oh yes, white woudl be jealous... i could picture a move like this
+]))
+(;W[fk]
+;B[ck]C[white has this problem so he has to do something about it.])))
+(;W[em]C[bourbaki [1k\]: now we see how jealous white is... this is terrible
+]
+;B[en]
+(;W[ch]
+;B[bj]C[however this would be fine for B])
+(;W[fm]C[bourbaki [1k\]: 2nd line at move 12
+]
+;B[ho]C[bourbaki [1k\]: if anything whtie should come out
+]
+;W[ch]C[bourbaki [1k\]: but black comes out and gets ahead
+]
+;B[bj])))
+(;W[dn]
+;B[do]
+;W[cm]
+;B[bn]
+;W[gn]C[bourbaki [1k\]: personally i would not have done this, because the shoulder hit from below is not usually very good
+]))
+(;B[fp]C[My own personal style is to just let the stone sit there and do nothing.  Its already being heavily attacked and its high so it cannot easily make a base within the next move.bourbaki [1k\]: d4 can move along the side
+bourbaki [1k\]: so white's stone cannot do much
+bourbaki [1k\]: if it were me, i would play very calmly and build from the weaker stone
+wildseven [-\]: i think w is scared of b's moyo  thats why he is trying to break it
+bourbaki [1k\]: now white's stone is not doing much... i will make territory while white's stone is weak
+]))
+(;W[jp]C[bourbaki [1k\]: normally when there is a big moyo you want to make strength ratther than immediately jump in
+]))
+(;B[qf]
+;W[qd]
+;B[qi]))
+(;W[ci]C[bourbaki [1k\]: what about c11?
+bourbaki [1k\]: possible
+]))

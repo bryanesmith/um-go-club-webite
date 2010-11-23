@@ -1,0 +1,997 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Lecture]PB[8]DT[2007-10-07]PC[The KGS Go Server at http://www.gokgs.com/]C[Lecture 9
+
+Attack and Defense (1)
+Basics of Attack and Defense
+
+Topics :
+
+Capping Moves
+Keima
+Leaning Attacks
+Splitting Attacks
+Attacking for Profit
+
+Important Concepts:
+"Build strength before attacking"
+"Attack from afar"
+"Always be careful with your reading"
+"Defend by attacking"Shana [1k\]: again? O.o
+Iink [-\]: hi yithril
+yithril [2d\]: my friend is an idiot
+Seakneeboy [8k\]: lol
+Iink [-\]: ?
+yithril [2d\]: thats my excuse
+Shana [1k\]: yes we know ^^
+Iink [-\]: wht???
+Rukawa [7k?\]: lecture?
+yithril [2d\]: yeah in 2 minutes
+saru411 [9k\]: where is the lecture?
+Iink [-\]: lol
+Rukawa [7k?\]: cool
+yithril [2d\]: umm here
+saru411 [9k\]: ok
+Shana [1k\]: fine mr punctual
+Seakneeboy [8k\]: audio
+Seakneeboy [8k\]: ?
+yithril [2d\]: yes
+wildseven [-\]: no audio
+Iink [-\]: :D
+wildseven [-\]: ??
+Shana [1k\]: aww now i cant listen to music
+yithril [2d\]: not yet
+HonFu [3k\]: hmm ... audio?
+HonFu [3k\]: a scribe?
+yithril [2d\]: i will thype
+yithril [2d\]: macht dir keine sorgen
+HonFu [3k\]: ah, great ^_^
+Iink [-\]: I put the misuc in low volume :D
+HonFu [3k\]: danke schoen
+wildseven [-\]: is your mic broke ?
+Shana [1k\]: still the voices mix up and sound horrible
+Seakneeboy [8k\]: just yithril's voice
+Iink [-\]: don´t have a outside soun system?
+Seakneeboy [8k\]: oh ok
+Iink [-\]: let´s rock :D
+Shana [1k\]: i drank like 2 gallons of water today ^ _ ^
+Rukawa [7k?\]: lol
+Shana [1k\]: not all at once
+Iink [-\]: lol
+wildseven [-\]: iam allmost done with my 1 gallon of apple juice
+Shana [1k\]: ooh i just noticed the players name place says lecture 8
+Rukawa [7k?\]: 2 liter a day is just fine
+tenseiga [-\]: hi
+yithril [2d\]: actually its a typo
+yithril [2d\]: we're on 9
+Rukawa [7k?\]: yes
+Seakneeboy [8k\]: yes
+Iink [-\]: yes
+tenseiga [-\]: yeah
+inochi33 [8k\]: yes
+Shana [1k\]: yes
+Shana [1k\]: xD
+wildseven [-\]: again ?
+Seakneeboy [8k\]: yeah
+wildseven [-\]: not yet
+volatile [10k\]: one :D
+Shana [1k\]: i can hear really loud but cant her clearly =/
+Iink [-\]: speack slower xD
+Seakneeboy [8k\]: get closer to the mic
+wildseven [-\]: lol
+Iink [-\]: thx
+Seakneeboy [8k\]: yeah
+Shana [1k\]: yup
+wildseven [-\]: yeah\\
+Seakneeboy [8k\]: :-)
+HonFu [3k\]: link - are you the scribe?
+Iink [-\]: me xD
+volatile [10k\]: it's helpful :D
+Seakneeboy [8k\]: nice to have
+Rukawa [7k?\]: sfg?
+Seakneeboy [8k\]: almost too much
+HonFu [3k\]: really. dont have a sound card 
+volatile [10k\]: it was a lot to go through
+Shana [1k\]: sgf
+Rukawa [7k?\]: cool
+wildseven [-\]: i will dl it later
+wildseven [-\]: it will be very helpfull
+yithril [2d\]: http://www.umich.edu/~goclub/index.html
+yithril [2d\]: under resources
+wildseven [-\]: thnx
+Seakneeboy [8k\]: nit it
+Seakneeboy [8k\]: notit
+Seakneeboy [8k\]: !!
+inochi33 [8k\]: me
+saru411 [9k\]: try what?
+wildseven [-\]: iam def
+inochi33 [8k\]: sure
+wildseven [-\]: inochi will ?
+Seakneeboy [8k\]: way to take one for the team
+inochi33 [8k\]: what does it mean
+wildseven [-\]: type what he says
+wildseven [-\]: XD
+Seakneeboy [8k\]: lol!!!
+inochi33 [8k\]: lol
+wildseven [-\]: omg
+wildseven [-\]: lol
+wildseven [-\]: my god
+Rukawa [7k?\]: lol
+Shana [1k\]: heh
+wildseven [-\]: sory yithril
+Shana [1k\]: WOOHOO!
+wildseven [-\]: blair you scrib 
+wildseven [-\]: e*
+blairz74 [3k\]: huh?
+blairz74 [3k\]: oh sound is off
+saru411 [9k\]: topic = attack and defence
+yithril [2d\]: So todays lecture is on basics of attack and defense
+Iink [-\]: *scriber* *scriber*
+Iink [-\]: xD
+]
+(;B[pd]
+;W[dp]
+(;B[pq]
+;W[dd]
+;B[fq]
+;W[cn]
+;B[jp]
+;W[qn]
+;B[qp]
+;W[qk]
+;B[qi]
+(;W[on]
+;B[pm]
+;W[pn]
+;B[mp]
+;W[ok])
+(;W[jc]
+;B[on]
+;W[cf]
+;B[ok]))
+(;B[qp]
+;W[dd]
+;B[fq]
+;W[cn]
+;B[kq]
+;W[op]
+;B[pn]
+;W[qq]
+;B[rq]
+;W[pq]
+;B[rr]
+;W[mq]
+;B[nn]
+;W[mo]
+;B[no]
+;W[np]
+;B[lp]
+;W[kr]
+;B[jr]
+;W[lr]
+;B[jq]
+;W[mp]
+;B[qg]))
+(;B[qd]C[inochi33 [8k\]: i've studied a little on attack and tesuji, hehe nothing else though
+BenBinder [16k\]: how can I get audio?
+Shana [1k\]: dot dot dot
+Rukawa [7k?\]: does it means something about a slow and fast moves?
+yithril [2d\]: one of the important concepts of attack and defense
+yithril [2d\]: is staying ahead of your opponent
+Shana [1k\]: r u playing drums?
+Seakneeboy [8k\]: are you wrestling with the mic
+wildseven [-\]: ill scribe for you
+Shana [1k\]: oh sorry
+tenseiga [-\]: haha xD
+Iink [-\]: *scriber* funny noise
+wildseven [-\]: -_-
+wildseven [-\]: ok
+HonFu [3k\]: whsts happening?
+inochi33 [8k\]: oh that what it means
+saru411 [9k\]: i think the mic won
+BenBinder [16k\]: HOW TO GET AUDIO???
+ChemBoy613 [7k\]: pro game ino
+]
+(;W[od]C[Shana [1k\]: turn on ur speakers
+PRIMOXVR [3k\]: yithril
+PRIMOXVR [3k\]: i must know
+blairz74 [3k\]: calm down please....
+wildseven [-\]: *ill show you basic joseki to be ahead*
+Iink [-\]: 2 scribers is better, cuz what one don´t get, the other will say
+BenBinder [16k\]: they are on
+PRIMOXVR [3k\]: who is that attractive lady in the picture 
+Shana [1k\]: turn on ur volume
+tenseiga [-\]: lol
+inochi33 [8k\]: lol mello duh
+wildseven [-\]: *that is a guy first off*
+Seakneeboy [8k\]: this is insane
+wildseven [-\]: *laugh*
+Shana [1k\]: have u ever watched death note?...
+saru411 [9k\]: LOL
+]
+;B[ld]
+;W[of]
+;B[qf]C[PRIMOXVR [3k\]: omg thats a guy
+wildseven [-\]: *b play pincer*
+]
+;W[oh]
+;B[qh]LB[od:A][qd:D][of:B][qf:E][oh:C][qh:F]SQ[rd][re][rf][rg][rh]C[wildseven [-\]: w jumps*
+wildseven [-\]: w jumps again*
+Seakneeboy [8k\]: black and white are keeping pace
+HonFu [3k\]: always this oftten?
+wildseven [-\]: *d,e,f are for territory
+inochi33 [8k\]: case a shadow
+]
+;W[id]TR[id][ld][od][qd][of][qf][oh][qh]C[inochi33 [8k\]: over that one stone
+wildseven [-\]: w moves how ever do not necesarriry make territory
+wildseven [-\]: talk slowly
+wildseven [-\]: -_-
+Seakneeboy [8k\]: whites aim is to attack m16
+Iink [-\]: and clearly
+saru411 [9k\]: just scribe the ideas he is saying, dont worry about every word
+wildseven [-\]: ok
+]
+(;B[lg]C[wildseven [-\]: **b plays 2 space to run to the center*
+])
+(;B[dp]
+;W[ke]C[wildseven [-\]: *now black has to deal with m16 stone*
+])
+(;B[lf]C[wildseven [-\]: *w is all ready ahead*
+]
+;W[lh]C[Seakneeboy [8k\]: white is ahead so we have to play faster
+]))
+(;W[dc]C[Seakneeboy [8k\]: in middle game fighting the center determines who has control of the fight
+inochi33 [8k\]: two 9ks?
+]
+;B[dq]C[Rukawa [7k?\]: *control center, control fight, in middle game
+]
+;W[pq]C[wildseven [-\]: *who ever controls center ,controls the fight*
+inochi33 [8k\]: what level game was this
+]
+;B[ce]
+;W[ci]
+;B[fe]
+;W[gc]
+;B[hd]C[Seakneeboy [8k\]: b h16 is to press white
+]
+(;W[hc]C[Iink [-\]: *scriber* going for the middle game
+]
+;B[id]C[Seakneeboy [8k\]: white submissive and gets sealed
+]
+;W[ic]
+;B[jd]C[Seakneeboy [8k\]: this is from a pro game
+]
+;W[kc]TR[gc][hc][ic][kc][hd][id][jd]C[wildseven [-\]: -_- k iam not gonna scribe no more
+Seakneeboy [8k\]: same idea of getting ahead
+Iink [-\]: =\]
+Iink [-\]: *scriber* if tenuki, b h17 
+Seakneeboy [8k\]: these moves are a struggle to get ahead
+Seakneeboy [8k\]: white = territory black = thickness
+]
+;B[ck]TR[hd][id][jd]C[skamus [-\]: is that joseki??? looks too ugly for w.
+Seakneeboy [8k\]: this is effective use of black thiness
+Iink [-\]: *scriber* black attack c11 
+Seakneeboy [8k\]: thickness
+Rukawa [7k?\]: *attack to make territory from the thickness
+skamus [-\]: thank you
+]
+;W[ei]
+;B[ek]TR[cl][cm][dn][do][dp]SQ[hd][id][jd][fe]C[ChemBoy613 [7k\]: lots of pincer joseki look like this, if you know the basic idea you will more or less know about 10-20 joseki
+Seakneeboy [8k\]: guage points on both sides and look for joseki
+inochi33 [8k\]: it seems to easy for white to escape at c11
+Rukawa [7k?\]: *keep  close
+saru411 [9k\]: profit normally comes somewhere else than your thickness
+]
+;W[gi]
+;B[dh]
+;W[di]
+;B[ii]SQ[hd][id][jd][fe]C[ChemBoy613 [7k\]: referance - lessons in the fundamentals of go chapter four for "the struggle to get ahead" by Kageyama
+Seakneeboy [8k\]: capping is useful for keeping control of center (very important
+]
+;W[hj]
+;B[jk]SQ[ii][pi][pj][jk][pk][pl]
+;W[hl]
+;B[do]
+;W[qo]C[Seakneeboy [8k\]: black gets profit from his attack
+]
+;B[hn]
+;W[fl]C[ChemBoy613 [7k\]: also attack and defense is great as well, good read
+]
+;B[dm]C[Iink [-\]: *scriber* k9 moves looks to r10 area
+])
+(;W[cl]
+;B[hc])))
+(;B[]C[wildseven [-\]: control is points
+Shana [1k\]: points is win
+wildseven [-\]: yup
+Iink [-\]: *scribe* win is the way ro pro
+Seakneeboy [8k\]: what about defense against the dark arts?
+Iink [-\]: ups
+Iink [-\]: sry, without *scribe*
+ChemBoy613 [7k\]: expellliamus!
+volatile [10k\]: thank you yithril
+sensei418 [12k\]: thanks 
+Shana [1k\]: it was so helpful xD thx
+ChemBoy613 [7k\]: yeahs jon, informative
+Seakneeboy [8k\]: lol
+skamus [-\]: bye bye good lecture
+firstaid [1k\]: it was great! thanks a lot
+joekun [10k\]: yup thanks ^^
+wildseven [-\]: this lecture  is been sponsored by "a death gods tale"   under social 
+Iink [-\]: thx
+wildseven [-\]: xD thnx jon
+yithril [2d\]: http://www.umich.edu/~goclub/index.html 
+HonFu [3k\]: thx !
+ChemBoy613 [7k\]: attack and defense is really really excellent book too
+Seakneeboy [8k\]: beer at my place and a scary movie if you want in yith
+yithril [2d\]: under resources
+Seakneeboy [8k\]: later all
+ChemBoy613 [7k\]: later guys
+ChemBoy613 [7k\]: have fun
+yithril [2d\]: fun lecture
+Seakneeboy [8k\]: yep
+volatile [10k\]: hm,i like the examples.  can we have more examples in the future? :D
+wildseven [-\]: hmm
+Seakneeboy [8k\]: ciao
+]
+(;AW[kc][rc][qd][qe][qh]AB[qb][dc][ic][oc][qc][pd][ce][of]C[ChemBoy613 [7k\]: 9p
+firstaid [1k\]: 9p
+inochi33 [8k\]: oh
+inochi33 [8k\]: sorry
+katonjutsu [1d\]: XD
+Iink [-\]: xD
+skamus [-\]: lol
+ChemBoy613 [7k\]: i hear you fine jon btw
+wildseven [-\]: 9p vs 9p
+inochi33 [8k\]: looks to one sided
+Seakneeboy [8k\]: calm dow yith :-)
+Iink [-\]: *scriber* 2 9 pros
+Seakneeboy [8k\]: lol
+]
+(;W[pp]
+;B[je])
+(;W[]LB[jd:D][ie:C][je:B][ke:A]SQ[qb][oc][qc][pd][of]C[Iink [-\]: *scriber* two damn pros xD
+ChemBoy613 [7k\]: kemia looks appropriate here
+ChemBoy613 [7k\]: mobility
+Seakneeboy [8k\]: keima
+inochi33 [8k\]: cap
+Iink [-\]: *scriber* lots of ways
+firstaid [1k\]: jump
+firstaid [1k\]: C
+Shana [1k\]: b
+volatile [10k\]: jump
+volatile [10k\]: c
+Iink [-\]: *scriber* attack, run, ...
+ChemBoy613 [7k\]: B looks best in my opinion
+tenseiga [-\]: b
+skamus [-\]: A
+Seakneeboy [8k\]: no C
+freeugh: a ! : D
+wildseven [-\]: b
+BenBinder [16k\]: B
+Rukawa [7k?\]: A
+wildseven [-\]: peep
+]
+(;B[ke]CR[ic][jd][ke])
+(;B[je]C[ChemBoy613 [7k\]: like a self-peep ben
+wildseven [-\]: exactly
+wildseven [-\]: xD
+Seakneeboy [8k\]: love the theatrics
+]
+;W[ke]C[wildseven [-\]: whats funny jon ? ;)
+]
+;B[kf]
+;W[le]
+;B[jf]C[Iink [-\]: *scriber*  makes it suffers *.*
+])
+(;B[jd]
+;W[le])
+(;B[ie]C[BenBinder [16k\]: B for BenBinder
+Iink [-\]: *scriber* A,B,C or D
+wildseven [-\]: running the stones
+Iink [-\]: *scriber* D is more correct
+wildseven [-\]: xD
+]
+;W[ke]C[ChemBoy613 [7k\]: lol you at ER still?
+])))
+(;AW[fc][kc][ed][gd][ke][nl][pl][cm][mm][pm][nn][pn][dp][fp][lp][pp][qp][mq][rq]AB[dc][ec][mc][oc][cd][qd][cf][qj][dk][ok][pk][ql][oo][op][iq][oq][qq][nr][qr][rr]LB[oe:B][qe:D][dh:E][ej:A][jj:C]C[Iink [-\]: *scriber* next exemple
+wildseven [-\]: leading and attack
+wildseven [-\]: an*
+firstaid [1k\]: leaning attack
+wildseven [-\]: lol iam def
+Princy [1d\]: i tinhk its leaning  attack)*
+ChemBoy613 [7k\]: make thickness by a shoulder hit on D9
+ChemBoy613 [7k\]: ?
+wildseven [-\]: kk
+Princy [1d\]: p15?
+wildseven [-\]: it will
+ChemBoy613 [7k\]: E10
+Princy [1d\]: p15
+Seakneeboy [8k\]: tengen
+ChemBoy613 [7k\]: LOL sean
+firstaid [1k\]: r15 
+wildseven [-\]: d12
+Seakneeboy [8k\]: ahh go back
+wildseven [-\]: yes
+]
+(;W[qg]
+;B[og]C[ChemBoy613 [7k\]: ju8st cap and it will probably die
+])
+(;W[qe]C[Princy [1d\]: hmm
+Iink [-\]: *scriber* r15 is correct
+Seakneeboy [8k\]: black r 14
+Iink [-\]: he destroy 
+Seakneeboy [8k\]: o 14
+Seakneeboy [8k\]: sry
+Seakneeboy [8k\]: o14
+volatile [10k\]: nice
+Seakneeboy [8k\]: k
+Seakneeboy [8k\]: thx
+wildseven [-\]: r15 is perfect for this situation
+]
+(;B[pe]C[Iink [-\]: *scriber* w runs out
+Seakneeboy [8k\]: reduction move
+HonFu [3k\]: but white hasnt made too many points, had he?
+]
+;W[qf]C[Iink [-\]: *scriber* attack r16 
+]
+;B[rd]C[Princy [1d\]: yup
+Seakneeboy [8k\]: after the attach
+]
+;W[og]C[wildseven [-\]: r15 is preety complex 
+Seakneeboy [8k\]: throw away two stones right?
+]
+(;B[]C[Princy [1d\]: nice
+]
+;W[ni])
+(;B[mj]C[Iink [-\]: *scriber* hane makes weak
+Seakneeboy [8k\]: sac two stones
+wildseven [-\]: kill
+wildseven [-\]: useless
+]
+;W[mh]
+;B[kj]C[Iink [-\]: *scriber*  o10 no points
+]
+(;W[kh])
+(;W[nk]
+;B[nj]
+;W[oi]
+;B[oj]
+;W[lk]
+;B[lj]
+;W[kh]CR[kj][lj][mj][nj][oj]C[Princy [1d\]: ya
+ChemBoy613 [7k\]: no points
+])))
+(;B[nf]C[Seakneeboy [8k\]: yeah
+]
+;W[rd]C[Seakneeboy [8k\]: pull back
+]
+;B[qc]C[Seakneeboy [8k\]: really?
+Seakneeboy [8k\]: guess I dont see it
+wildseven [-\]: yeah
+]
+;W[qh]
+;B[nh]
+;W[rc]))
+(;W[oe]
+;B[pf]C[ChemBoy613 [7k\]: this is a great probe
+]))
+(;AW[db][eb][cc][dc][fc][gc][oc][id][ie][bf][if][cg][di][fi][dj][bk][ck][kl][qm][kn][kp][qp][bq][dq][br][cr][dr][er][fr]AB[fb][ec][dd][ed][qd][be][ce][fe][he][pe][hf][hg][hi][dk][fk][bl][cl][dl][on][bp][cp][dp][ip][cq][eq][fq][hq][mq][oq]LB[kq:1][qr:2]TR[hg][hi][dk][fk][dl][kl][kn][on][ip][kp][eq][fq][hq][mq][oq]C[Iink [-\]: *scriber* another pro game
+ChemBoy613 [7k\]: P17 looks weak
+Iink [-\]: too fast @.@
+ChemBoy613 [7k\]: ssshhh just listen link
+Iink [-\]: k
+HonFu [3k\]: L4 line weak?
+Iink [-\]: sry
+Iink [-\]: TT.TT
+wildseven [-\]: yithril your breaking 
+Seakneeboy [8k\]: attacking weak groups ios about timing
+ChemBoy613 [7k\]: might be your shotty connection ben
+ChemBoy613 [7k\]: he soudns fine here
+wildseven [-\]: internet much be going down
+wildseven [-\]: yes
+ChemBoy613 [7k\]: however, since N3 isn't really settled, we attack from direction?
+wildseven [-\]: weak group are liabilities
+Iink [-\]: *scriber* l4 no base
+wildseven [-\]: L line is a liability
+]
+;W[]C[Cho Chikun vs Otake Hideowildseven [-\]: 2
+skamus [-\]: q8 
+Rukawa [7k?\]: p8?
+wildseven [-\]: p9
+Rukawa [7k?\]: i mean q8
+ChemBoy613 [7k\]: L11 or M5
+firstaid [1k\]: l10 
+ChemBoy613 [7k\]: ? XD
+BenBinder [16k\]: what was the question?
+Seakneeboy [8k\]: r10
+ChemBoy613 [7k\]: black to play
+wildseven [-\]: c
+Rukawa [7k?\]: r3
+HonFu [3k\]: hasnt black not L2 and R2?
+skamus [-\]: o16 
+HonFu [3k\]: why not attack immediately K10?
+Rukawa [7k?\]: settle down first and attack later?
+ChemBoy613 [7k\]: L10 maybe?
+]
+(;B[kj]TR[id][ie][if]SQ[jc][kc][lc][mc][md][je][ke][le][me]C[Shana [1k\]: he said its already settled
+ChemBoy613 [7k\]: XD  barely got it in
+Seakneeboy [8k\]: attack top
+Iink [-\]: not let it run?
+skamus [-\]: because youre a pro?
+Iink [-\]: lol
+ChemBoy613 [7k\]: he is going to build thickniess while chasting this group to make a sever attack on O17
+Rukawa [7k?\]: p6 to attack both group?
+Iink [-\]: *scriber* open space at the top
+wildseven [-\]: that move is hardcore its insane !!
+Iink [-\]: *scriber* keep white weak
+])
+(;B[mc]
+;W[oe]
+;B[of]
+;W[ne])
+(;B[im])
+(;B[pl]C[ChemBoy613 [7k\]: looks like 20-30 points at most
+Shana [1k\]: well... this lecture is on attacking xD
+]
+;W[ql]
+;B[pk]
+;W[kj]C[wildseven [-\]: attack and defence
+Seakneeboy [8k\]: seems like a good idea also
+Seakneeboy [8k\]: l12
+Seakneeboy [8k\]: L12
+skamus [-\]: yeah... maybe kindda lacks direction
+HonFu [3k\]: yes, now certainly y<es?
+]))
+(;AW[dd][pf][ng][og][nh][om][pm][cn][on][qn][dp]AB[nc][pd][oh][qh][oi][pn][po][qo][np][pp][fq][jq]LB[og:1][oi:2][mj:A][qj:B][mk:C][om:3]C[ChemBoy613 [7k\]: who to play?
+ChemBoy613 [7k\]: R10
+Iink [-\]: *scriber* white turn
+ChemBoy613 [7k\]: R10 looks idea tho :S
+skamus [-\]: n10 
+Shana [1k\]: n10 
+Seakneeboy [8k\]: what the question
+tenseiga [-\]: n10
+Seakneeboy [8k\]: oh
+skamus [-\]: n9 
+wildseven [-\]: B
+Shana [1k\]: tenuki? xD
+wildseven [-\]: c11
+ChemBoy613 [7k\]: N10 looks good if we are trying to seal black
+wildseven [-\]: hmm tricky
+ChemBoy613 [7k\]: both look good to me
+]
+(;W[dj]C[skamus [-\]: lol
+]
+;B[nj])
+(;W[mj]C[ChemBoy613 [7k\]: this is more important than the dual-purpose move of R10?
+])
+(;W[qj]C[wildseven [-\]: ok slightly pissed ?
+Shana [1k\]: yup he sounds mad
+Seakneeboy [8k\]: POWER!!!!\\
+]
+;B[nj]C[Seakneeboy [8k\]: contains black
+wildseven [-\]: slack !!
+ChemBoy613 [7k\]: chase and make profit
+Seakneeboy [8k\]: weak
+Princy [1d\]: attackes 2 groups
+ChemBoy613 [7k\]: :)
+wildseven [-\]: yithril is mad now
+firstaid [1k\]: double attack
+wildseven [-\]: xD
+ChemBoy613 [7k\]: haha
+wildseven [-\]: lol
+Seakneeboy [8k\]: we love you yith
+ChemBoy613 [7k\]: no it doesn't, but it takes away any eye shape while settling P7
+Iink [-\]: *scriber* I`M NOT MAD
+BenBinder [16k\]: HAHA
+wildseven [-\]: we do !! ^^
+ChemBoy613 [7k\]: at least was my thgouht
+Seakneeboy [8k\]: they get weak
+ChemBoy613 [7k\]: XD
+ChemBoy613 [7k\]: right I see the point of N10 as well
+]))
+(;CR[fb][fc][pc][jd][pd][fe][pe][og][qh][pl][om][on]AW[ec][qc][dd][qd][df][qf][rf][dj][pn][co][no][qo][cp][fp][np][dq][kq][nq][oq][pr]AB[fb][fc][pc][jd][pd][fe][pe][og][qh][pl][om][cn][fn][on][do][po][op][qp][mq][pq][qq][rq][qr]LB[cn:A]C[freeugh: what over with that already?
+firstaid [1k\]: d5 
+Shana [1k\]: no?
+volatile [10k\]: bottom left?
+Seakneeboy [8k\]: b6 group
+wildseven [-\]: look for weak group
+ChemBoy613 [7k\]: most groups look setted byt the D5 group doesn't really ahve a complete shape
+Shana [1k\]: >.<
+Princy [1d\]: d7
+wildseven [-\]: n has this moyo
+wildseven [-\]: b
+ChemBoy613 [7k\]: yeah that is a lot of power
+Princy [1d\]: f10?
+ChemBoy613 [7k\]: cap?
+Seakneeboy [8k\]: say that one more time
+ChemBoy613 [7k\]: or kemia
+wildseven [-\]: have your opponent walk to thier moyo
+Princy [1d\]: but looks a lil thin
+Seakneeboy [8k\]: ok thanks
+]
+;W[em]
+;B[en]
+;W[dm]
+;B[dn]C[ChemBoy613 [7k\]: beautiful idea
+]
+;W[gl]
+;B[hn]
+;W[hp]LB[hn:A][hp:B]C[wildseven [-\]: if your opponent has huge moyo let them walk you in thier moyo
+ChemBoy613 [7k\]: such a great attack here
+ChemBoy613 [7k\]: strong white
+Seakneeboy [8k\]: indeed
+wildseven [-\]: PAY ATTENTION
+Princy [1d\]: ...
+skamus [-\]: nice
+Seakneeboy [8k\]: attacking gets you profit
+]
+;B[im]
+;W[ik]C[Seakneeboy [8k\]: defending doesn't
+Princy [1d\]: f13 is huge now
+Princy [1d\]: huuuge
+ChemBoy613 [7k\]: yes princy
+Seakneeboy [8k\]: yes!
+volatile [10k\]: yes
+])
+(;AW[ka][oa][pa][kb][mb][ob][dc][jc][kc][lc][nc][oc][nd][de][ie][oe][qe][cf][mf][nf][of][qf][lg][mg][og][lh][nh][li][ck][lk][np][pp][gq][jq][qq]AB[qa][jb][pb][rb][fc][hc][ic][mc][pc][id][jd][kd][ld][md][od][pd][qd][me][ne][kg][qg][jh][mh][oh][ph][mi][ni][jj][pl][cm][qn][cp][rp][eq]LB[mg:A][kp:D][lp:C][mp:B]C[wildseven [-\]: we wanna make that we dont have weak groups
+ChemBoy613 [7k\]: absolutely jon
+Iink [-\]: *scribe* one more exemple
+firstaid [1k\]: b to move?
+ChemBoy613 [7k\]: whit's group in the middle
+ChemBoy613 [7k\]: white's
+ChemBoy613 [7k\]: no eyes
+Iink [-\]: *scribe* where is the weak group
+skamus [-\]: m9 really weak..
+Iink [-\]: *scribe* 1st question to urs selfs
+firstaid [1k\]: n4 
+Iink [-\]: *scribe* 2nd how to attack
+ChemBoy613 [7k\]: play something around M4... force white to defend, get some thickness then come back to attack
+Shana [1k\]: l4 
+skamus [-\]: m7 
+Seakneeboy [8k\]: lean on it to attack lower side
+HonFu [3k\]: n4
+Seakneeboy [8k\]: l3
+ChemBoy613 [7k\]: hehe <3 link
+Iink [-\]: =\]
+volatile [10k\]: yah
+wildseven [-\]: yes
+]
+;W[]
+;B[kp]C[ChemBoy613 [7k\]: M7 is direct attack not leaning attack
+]
+(;W[kq]
+;B[lp]C[ChemBoy613 [7k\]: white is split and weak like that
+]
+;W[lq]
+;B[mp]
+;W[mq]
+;B[lm]C[ChemBoy613 [7k\]: ouch
+])
+(;W[oj]C[Iink [-\]: *scribe* if w tenuki b cut white
+Iink [-\]: *scribe* with this create more pressure
+skamus [-\]: lol
+]
+;B[oi]
+;W[jp]C[wildseven [-\]: offence is defence in this game
+]
+;B[nk]
+;W[kl]
+;B[kn]
+;W[jo]LB[jn:B][ko:A]C[ChemBoy613 [7k\]: B
+Seakneeboy [8k\]: B
+skamus [-\]: k6 '
+]
+;B[jn]C[Iink [-\]: *scribe* A or B?
+skamus [-\]: a is heavy..
+HonFu [3k\]: b
+]
+;W[il]
+;B[in]
+;W[nl]
+;B[ol]
+;W[nm]
+;B[mp]C[Iink [-\]: *scribe* keep w separete
+]
+;W[no]
+;B[mk]
+;W[ml]
+;B[lm]
+;W[ll]
+;B[kq]CR[jo][jp][gq][jq][kq]TR[lg][mg][lh][lk][ll][ml][nl][nm][no][np][pp]SQ[gm][hm][fn][gn][hn][in][jn][kn][fo]C[Seakneeboy [8k\]: yikes
+ChemBoy613 [7k\]: really a beautiful line of play
+Iink [-\]: *scribe* connect, but with no points
+firstaid [1k\]: b got lotsa points and destroyed lotsa points
+ChemBoy613 [7k\]: now both bottom groups are weak
+ChemBoy613 [7k\]: the B group is also weak
+Iink [-\]: *scribe* got a new weack group to attack :D
+ChemBoy613 [7k\]: right
+ChemBoy613 [7k\]: I mean K3 and L3 groups
+ChemBoy613 [7k\]: white isnt' strong enough to split?
+ChemBoy613 [7k\]: start with G6?
+]
+;W[gn]C[firstaid [1k\]: h7 
+ChemBoy613 [7k\]: elephat!
+ChemBoy613 [7k\]: elephan
+ChemBoy613 [7k\]: t
+Iink [-\]: *scribe* b can go out
+]
+;B[hm]LB[gp:B][hr:A]C[ChemBoy613 [7k\]: was looking at bottom group's shape
+])
+(;W[]
+;B[kq]C[Iink [-\]: *scribe* game path - l4 
+]))
+(;AW[pb][kc][nc][dd][fd][ce][bf][cm][qm][dn][po][dp][qp][cq][qq]AB[qc][pd][cf][pf][ci][qk][cl][dl][np][fq][iq][pq][dr][qr][rr]SQ[cm][dn][dp][cq]C[Iink [-\]: yes
+wildseven [-\]: ohh finaly
+Shana [1k\]: r7 
+ChemBoy613 [7k\]: yeah
+Princy [1d\]: yup
+ChemBoy613 [7k\]: r7 is weakest
+ChemBoy613 [7k\]: undercut
+Princy [1d\]: p9
+firstaid [1k\]: o6 
+]
+;W[]C[tenseiga [-\]: yes
+]
+;B[nn]C[BenBinder [16k\]: Thank you, yithril, gotta go.. 
+volatile [10k\]: mmhm
+Princy [1d\]: ya
+Shana [1k\]: yes sir!
+]
+;W[om]
+;B[ml]
+;W[dh]
+;B[di]
+;W[eh]
+;B[fj]
+;W[fn]
+(;B[hn]TR[ml][hn][jn][kn][ln][nn][jo][lo][jp][kp][lp]
+(;W[je]C[Princy [1d\]: o9 looks sente tho
+Princy [1d\]: p9*
+]
+;B[cr]
+;W[bl]
+;B[bk]
+;W[bm]
+;B[hj]
+;W[ok]
+;B[pi])
+(;W[cr]
+;B[je]))
+(;B[ok]
+;W[rk]C[Princy [1d\]: no
+Princy [1d\]: lol
+]
+(;B[rl]
+;W[ql]C[Princy [1d\]: r10
+]
+(;B[rj]
+;W[pk]
+;B[qj]
+;W[pj]C[firstaid [1k\]: just s10 
+])
+(;B[qj]
+;W[rj]C[Princy [1d\]: s11
+firstaid [1k\]: o_O
+]
+;B[ri]
+;W[rm]C[Princy [1d\]: s10
+]
+;B[sj]
+;W[sl]C[Princy [1d\]: hmm
+]))
+(;B[rj]
+;W[rl]C[firstaid [1k\]: yup
+firstaid [1k\]: b fine
+Princy [1d\]: s8
+Princy [1d\]:  but not s10
+]
+;B[qj]C[Princy [1d\]: no..
+])))
+(;AW[cc][dc][hc][kc][pc][cd][qd][ce][cf][df][dg][qg][cj][ck][dk][cl][cn][dn][pn][qn][jq][mq]AB[eb][ob][qb][ec][nc][dd][fd][de][cg][ch][di][dj][ek][dl][el][rm][co][qo][ro][dp][gp][np][pp]C[Two kgs 5 kyusChemBoy613 [7k\]: yes
+Iink [-\]: *scribe* next exemple
+Shana [1k\]: heh destroyed
+ChemBoy613 [7k\]: so white split the wrong way?
+yithril [2d\]: before you attack
+ChemBoy613 [7k\]: "maxium pain" I love it jon
+yithril [2d\]: you need to make it so your opponent suffers the maximum pain
+wildseven [-\]: o.o
+Shana [1k\]: ooh
+wildseven [-\]: attacking is control
+]
+(;W[ej]
+(;B[ei]
+;W[fj]
+;B[fi]
+;W[gj]C[Iink [-\]: *scribe* w cuts
+]
+;B[gl]
+(;W[gi]C[Seakneeboy [8k\]: I want your children yith
+])
+(;W[fn]C[tenseiga [-\]: o.o
+]
+;B[gn]
+;W[fm]
+;B[gk]
+;W[gm]
+;B[ik]
+;W[hj]
+;B[fg]
+;W[ff]
+;B[gf]
+;W[fe]
+;B[ge]
+;W[ed]
+;B[gc]
+;W[hd]
+;B[gd]
+;W[gg]
+;B[gh]
+;W[hg]
+;B[hh]
+;W[ee]
+;B[gb]
+;W[ig]
+;B[ij]C[ChemBoy613 [7k\]: ouch
+]))
+(;B[fj]
+;W[ei]
+;B[fi]
+;W[eh]C[Iink [-\]: *scribe* pain *mwahahahahaha
+]
+;B[hd]))
+(;W[ge]C[Iink [-\]: *scribe* prepare b4 attack
+Shana [1k\]: yay all better
+Iink [-\]: will try it too
+wildseven [-\]: yes\\
+ChemBoy613 [7k\]: yes yes yes
+firstaid [1k\]: yep, this is nice and enlightening
+]
+;B[fe]
+(;W[ff]
+;B[ee]
+;W[gf]
+;B[gb]
+;W[hb]
+;B[gc]
+(;W[ej]
+(;B[ei]
+;W[fj]
+;B[fi]
+;W[gj]
+;B[gi]
+;W[hj]
+;B[hi]
+;W[ij]
+;B[jh]
+(;W[fm])
+(;W[fn]))
+(;B[fj]
+;W[ei]
+;B[fi]
+;W[eh]
+;B[gl]))
+(;W[fj]
+(;B[ej]
+;W[fn]
+;B[gk]
+;W[hn]
+;B[ik]
+;W[cq])
+(;B[fi]
+;W[gj])))
+(;W[gf]C[wildseven [-\]: maximum pain = getting hit in the nuts with lightning
+]
+;B[ff]
+;W[fg]
+;B[gg]
+;W[fh]
+;B[gd]
+;W[hd]
+;B[hg]
+;W[he]C[Shana [1k\]: huh
+]
+;B[gb]
+;W[hb]
+;B[gc]
+;W[fj]
+;B[ej]
+;W[fn]TR[co][dp][gp]C[Shana [1k\]: dangit i think im laggy or something
+Shana [1k\]: yuki sounds like a girl!
+Shana [1k\]: i mean yith
+Shana [1k\]: xD
+ChemBoy613 [7k\]: he doesn't at all
+Shana [1k\]: brb
+ChemBoy613 [7k\]: *smacks shana*
+])))
+(;AW[mb][jc][mc][kd][ld][jf][ph][mi][pi][cj][dm][dn][fn][hn][rn][fo][go][po][cp][dq][gq][kq][mq][pq]AB[dc][hc][nc][md][nd][od][qd][de][he][le][mf][ch][qi][qj][ok][qm][en][gn][io][ko][ep][gp][hp][eq][iq]C[Shuusaku vs Ota Yuzo]
+;W[]LB[kg:A][lh:B][oi:C]C[firstaid [1k\]: l13 ?
+Shana [1k\]: m12 
+ChemBoy613 [7k\]: E5
+ChemBoy613 [7k\]: oh lol
+ChemBoy613 [7k\]: XD
+Shana [1k\]: lol
+ChemBoy613 [7k\]: he wouldn't
+inochi33 [8k\]: p11
+ChemBoy613 [7k\]: just woke up jon!
+wildseven [-\]: -_-
+ChemBoy613 [7k\]: hehe
+Shana [1k\]: never said u were angry xD
+ChemBoy613 [7k\]: :)
+wildseven [-\]: lol
+ChemBoy613 [7k\]: O11
+]
+;B[lh]TR[mb][jc][mc][kd][ld]C[ChemBoy613 [7k\]: if you want to cut
+ChemBoy613 [7k\]: yes
+ChemBoy613 [7k\]: very nice
+yithril [2d\]: white is in flux atthe top
+yithril [2d\]: we must keep the two seperated
+firstaid [1k\]: weird
+wildseven [-\]: you hungry ?
+Shana [1k\]: good job chem *thumbs up*
+firstaid [1k\]: ok
+Iink [-\]: somebudy was calling me
+ChemBoy613 [7k\]: was she cut?
+ChemBoy613 [7k\]: cute?
+]
+;W[mh]C[ChemBoy613 [7k\]: *pokes link*
+Princy [1d\]: ?_?
+firstaid [1k\]: i thought we attack the weaker ?
+Iink [-\]: oh
+Iink [-\]: sry
+]
+;B[kf]
+;W[qh]
+;B[qn]C[Shana [1k\]: lol
+]
+;W[qo]C[Iink [-\]: >.>
+]
+;B[rm]
+;W[cc]
+;B[cd]
+;W[hb]
+;B[gb]
+;W[ib]
+;B[fc]
+;W[dr]
+;B[fp]
+;W[bd]
+;B[be]
+;W[bh]
+;B[bg]
+;W[eo]
+;B[er]
+;W[jr]
+;B[ds]
+;W[br]
+;B[ir]
+;W[ro]
+;
+;B[mk]
+;W[pe]
+;B[qe]
+;W[qf]C[ChemBoy613 [7k\]: B's shape is beautifl will L14
+]
+;B[of]
+;W[dh]
+;B[ci]
+;W[di]
+;B[bi]
+;W[bj]
+;B[nb]TR[ei][fi][gi][hi][fj][hj][gk][hk][hl][hm]
+;W[li]
+;B[kk]TR[kk]C[volatile [10k\]: *scribe* black is walking into white's potential territory
+ChemBoy613 [7k\]: mmm i like the view
+]
+;W[kh]C[volatile [10k\]: *scribe* black keeps up the pressure and white has to live in gote
+]
+;B[jg]
+;W[kb]
+;B[lc]
+;W[lb]
+;B[pf]
+;W[rg]C[firstaid [1k\]: I see that now :)
+]
+;B[rf]
+;W[ri]
+;B[rj])))

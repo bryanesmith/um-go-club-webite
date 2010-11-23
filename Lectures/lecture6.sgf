@@ -1,0 +1,577 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[White]PB[Black]DT[2007-09-16]PC[The KGS Go Server at http://www.gokgs.com/]C[Ghostface is the scribe]
+(;B[qd]
+;W[dc]C[ghostface [1k\]: audiolessons.com?
+ghostface [1k\]: nevertheless there are some patterns that come up
+]
+(;B[pq]C[ghostface [1k\]: jon: no
+yithril [1d\]: audiogolessons.com
+]
+;W[dp]
+;B[de]
+;W[ce]
+(;B[dd]C[ghostface [1k\]: paul asks: were there any games where black ignores f15?
+]
+;W[cd]C[ghostface [1k\]: in all my years of watching games i have yet to see a high dan game begin like this
+]
+;B[ec]C[ghostface [1k\]: black decides to play this rather than normal boring joseki
+ghostface [1k\]: black begins the game by attacking white, and it is very diffiuclt for white to stabilize
+]
+(;W[cf]
+(;B[db]C[ghostface [1k\]: this joseki woudl take hours and hours to explain
+]
+;W[cc]C[Violence [?\]: "too much headache!" -Guo Juan
+ghostface [1k\]: if you want to avoid the headache, can just play simple
+]
+;B[kc]LB[kc:A][dd:B][de:C]TR[db][ec]C[Lecture 6
+
+Common Opening 2
+
+Questions:
+1.  What is the meaning of A?  
+2.  Why did black leave the stones on the left even though its clear they have shape weakness?  
+3. How would black fix his weakness if he had sente? 
+4. Does it matter if Q3 is at Q4?ghostface [1k\]: today we're going to go over another common opening
+
+
+ghostface [1k\]: white makes territory, and black plays l17
+ghostface [1k\]: what is the meaning of l17?
+DarkLife [-\]: look familiar with low chinese or mini
+shanku [17k\]: influence on the side?
+Violence [?\]: treat the wall lightly, focus on the komoku stone
+ghostface [1k\]: paul: his stones in the upper right are fairly light, so black can treat it as thick
+ghostface [1k\]: similarly,
+ghostface [1k\]: generally this is not a good move because l17 is already pincering
+Violence [?\]: yeah... I can't play this opening for black either
+ghostface [1k\]: the reason why i don't like this opening and the reason i chose it is because:
+ghostface [1k\]: black has these for thin stones on the left and white has solid territory
+ghostface [1k\]: i woudl try to warn against heavy moves, such as just connecting
+Violence [?\]: heavy moves = 削除
+ghostface [1k\]: we would like to treat B and C lightly
+ghostface [1k\]: also keep in mind that white can form big influence on the left side
+ghostface [1k\]: i brought this move up because even though it is theoretically unsound, you should not ignore it totally
+ghostface [1k\]: however, if you don't like this opening then don't use it - always use moves that you understand and are comfortable with
+]
+(;W[fc]C[ghostface [1k\]: in a lot of games, pros tried to just break the shape on the left
+ghostface [1k\]: the first one is f17
+ghostface [1k\]: looking at it this way, losing those two stones is not a huge deal
+Violence [?\]: right... it's still scary
+ghostface [1k\]: now we know how to handle moves like f17 and f16
+]
+(;B[fb]C[ghostface [1k\]: so that we do not end up ehavy
+]
+;W[ed]
+;B[eb]
+;W[fd]C[ghostface [1k\]: black's normal answer is to come under
+]
+;B[gc]
+;W[gd]
+;B[hd]C[ghostface [1k\]: white cuts and connects
+]
+;W[he]
+;B[id]
+;W[gf]C[ghostface [1k\]: double hane
+Violence [?\]: I just dunno how pros can play this
+ghostface [1k\]: and white defends his shape
+Violence [?\]: yeah
+]
+;B[ck]TR[dd][de][ee][fe][ge][df][ef][ff]C[ghostface [1k\]: a lot of people might think: "white is really big and just captured two stones"
+ghostface [1k\]: that is true, but black can take sente and break up the left side
+])
+(;B[eb]C[ghostface [1k\]: clamp the stone in the middle, try to break apart black
+])
+(;B[ed]))
+(;W[fd]C[Violence [?\]: hehe
+ghostface [1k\]: what if white tries to peep here?
+HonFu [4k\]: f17?
+ghostface [1k\]: paul: f17?
+]
+;B[fc]
+(;W[gd]
+;B[gc]
+(;W[hd]C[ghostface [1k\]: even if white comes out a bit he ends up a little short of liberties
+]
+;B[hc]
+;W[ed]
+;B[id]
+;W[ie]
+;B[je]
+;W[hf])
+(;W[ed]
+;B[hd]C[ghostface [1k\]: now the capture is small and he ends up with two strong stones
+]))
+(;W[ed]C[ghostface [1k\]: exactly
+HonFu [4k\]: ^^
+]
+;B[gd]
+;W[ef]
+;B[ge]
+;W[ff]LB[gd:A][ge:B]C[ghostface [1k\]: if white tries to cut these two stones immediately, then he finds himself losing liberties
+]))
+(;W[fe]
+;B[fd]
+;W[ge]
+;B[hc]TR[fe][ge]C[Note the positioning of these stones with respect to the lower right corner.ghostface [1k\]: paul asks: isn't the difference between r2 and s3 pretty small for this stage in the game?
+]
+(;W[po]C[Stable [15k\]: so only guaranteed if n4 present
+]
+(;B[pl]
+;W[mp]
+;B[oo]
+;W[on]
+;B[no]C[ghostface [1k\]: paul: ok, fair enough
+]
+;W[pp]
+;B[nq]
+;W[qq]
+;B[oq]
+;W[nn]
+;B[mo]
+;W[qr]
+;B[pn]
+;W[pm]
+;B[qn]
+;W[qm]
+(;B[ro]
+;W[qo]
+;B[rn]
+;W[rm]
+;B[rp]
+;W[qp]C[ghostface [1k\]: white does have the ladder
+]
+;B[om]
+;W[rk]
+;B[qk]
+;W[rl]
+;B[ml]C[ghostface [1k\]: now where should white play?
+DarkLife [-\]: p8?
+DarkLife [-\]: no
+shanku [17k\]: n7?
+]
+(;W[mm]
+;B[nm]
+;W[mn]
+(;B[ln]C[its ladder time.ghostface [1k\]: n7 is beautiful
+])
+(;B[lm]
+;W[ln]
+;B[kn]
+;W[lo]
+;B[lp]
+;W[ko]
+;B[jo]
+;W[kp]C[ghostface [1k\]: black can't go the other way
+]))
+(;W[ol]
+;B[nm]))
+(;B[rn]))
+(;B[qm]C[ghostface [1k\]: paul responds: n4 is a crucial move
+ghostface [1k\]: jon: that's the wya the joseki goes
+]
+;W[qq]C[ghostface [1k\]: there is also this one
+]
+;B[qp]
+;W[pp]C[Stable [15k\]: ?
+]
+;B[qo]
+;W[qn]
+(;B[pn]
+;W[rn]
+;B[rq]
+;W[qr]
+;B[ro]
+(;W[oq]
+;B[rm]
+;W[on]
+;B[pm]C[this would be nice for B.ghostface [1k\]: black would like for white to play like this
+ghostface [1k\]: now the right side is coming under heavy black influence
+])
+(;W[rm]C[But if the ladder is good white can play here.]
+(;B[pm]C[Black cannot play here]
+;W[so]C[ghostface [1k\]: if white has the ladder he can come out like this
+]
+;B[rp]C[ghostface [1k\]: black can't kill these two stones
+]
+;W[rr]
+;B[op]C[Oops.])
+(;B[oq]
+;W[np]
+;B[rr]C[ghostface [1k\]: black often comes at k4, but white already ahs a stone at d4  so the attack is difficult for black
+]
+;W[ql]
+;B[pm]
+;W[pl]
+;B[nm]
+;W[op]SQ[ol]C[ghostface [1k\]: in this cas black must play like this, and a fight begins
+]
+;B[ol]
+;W[so]
+;B[rp]
+;W[nq]
+;B[pr]
+;W[or]
+;B[qs]
+;W[pj]
+;B[ok]C[ghostface [1k\]: black must not let white get p8
+]
+;W[qh]LB[jp:A]TR[dp]C[Normally black attacks at A but this isn't as appealing wiht d4 in place.  Plus, white settling himself on the side makes it easier to break up the top so this is not as appealing to black.]
+;B[jp]C[shanku [17k\]: so you just have to read out the entire ladder to know if it's a breaker? or is there a faster way?
+ghostface [1k\]: lots of forcing moves, then protect shape
+HonFu [4k\]: try it a few times, shanku - ladder reading is ot very difficult
+shanku [17k\]: alright
+ghostface [1k\]: all ladders shoudl be read out, and when white plays f15 he has in mind the ladder josekis in the lower right
+])))
+(;B[rn]
+;W[oq]
+;B[pn]
+;W[pr]C[Another common variationHonFu [4k\]: I still know the joseki well enough for this speculations :-/
+ghostface [1k\]: here is another common joseki
+])))
+(;W[df]
+;B[ck]))
+(;W[od]C[Is this a good move?Violence [?\]: now it's bad
+ghostface [1k\]: there are pro games like this, and they are extremely insane
+ghostface [1k\]: in most games white did not play that way
+ghostface [1k\]: even though whtie started the fight, black turned it into his favor
+]
+;B[pf]
+(;W[qc]
+;B[rc]
+;W[pc]LB[rb:A][re:B]C[A or B]
+(;B[rb]C[ghostface [1k\]: we have agreed that this move is bad in theory, but there are lots of pro games where it is played
+ghostface [1k\]: btw: do not play s15, because white can settle more easily
+hidan18 [1k\]: s18 is wrong?
+]
+;W[mc]
+;B[ke])
+(;B[re]C[hidan18 [1k\]: ah ok
+ghostface [1k\]: s15 is too slow and not aggressive enough
+]
+;W[mc]
+;B[ke]
+;W[rb]))
+(;W[gc]
+;B[fe]
+;W[ge]
+;B[gd]C[ghostface [1k\]: after black answers, white instead fights on the left side
+]
+;W[fc]
+;B[ed]
+;W[hd]
+;B[fd]
+;W[ic]C[ghostface [1k\]: black defends his shape, and white tries to come out
+ghostface [1k\]: now, this is very interesting: by starting a fight on this side, white tries to isolate l17 to help p16 settle
+ghostface [1k\]: this was the game, and black ended up winning by resignation
+]
+(;B[ke]
+;W[gf]C[ghostface [1k\]: it gets to be very confusing
+]
+;B[eg]
+;W[of]
+;B[pg]
+;W[qc]
+;B[rc]
+;W[pc]
+;B[fb]
+;W[gb]
+;B[dh]
+;W[ie]C[Liu Shizen vs Li Huasongghostface [1k\]: in this game, both came out
+hidan18 [1k\]: w
+HonFu [4k\]: also w
+ghostface [1k\]: whtie tries to attack, but this is a bit crazy in my opinion
+ghostface [1k\]: who do you like more: black or white?
+ghostface [1k\]: i'm going to have to go with white myself
+ghostface [1k\]: the g17 group is very resilient
+])
+(;B[he]C[Yang Yi vs Tan Xiaoghostface [1k\]: the moves on the right side did not turn out to be that useful
+]
+;W[gf]
+;B[ie]C[ghostface [1k\]: in this game,
+]
+;W[fb]
+;B[eb]
+;W[kb]
+;B[dg]C[ghostface [1k\]: black cut and fought
+ghostface [1k\]: "we're just going to kill each other"
+]
+;W[lc]
+;B[kd]
+;W[mb]
+;B[cg]
+;W[cb]
+;B[hb]
+;W[hc]
+;B[bg]C[ghostface [1k\]: keep in mind, the left side group is a lot weaker
+]
+;W[bf]
+;B[hg]
+;AE[pq]AB[pp]C[B+R]
+;W[]
+;B[gg])))
+(;W[]
+;B[fd])
+(;W[gc]C[What about this attack?]
+;B[fe]
+;W[ge]
+;B[gd]
+;W[fc]
+;B[ed]
+;W[hd]
+;B[fd]
+;W[hc]
+;B[fg])
+(;W[qk]C[ghostface [1k\]: such moves can be useful for starting favorable fights
+]
+(;B[qo]
+;W[qh]C[ghostface [1k\]: black got what he wanted
+]
+;B[qf]
+;W[oh]
+;B[fd]C[Gu Li vs Song Taekon.  Very peaceful]
+;W[jq]C[ghostface [1k\]: paul: both become thick, but it is more useful for black
+Stable [15k\]: squeeze w in middle right?
+ghostface [1k\]: white has r12, r9, and p12... so he is pretty solid
+]
+;B[og]C[Very unique move!ghostface [1k\]: in this game, black shamaris and goes for territory
+ghostface [1k\]: white gets the big point at the bottom, and black plays this very interesting move
+ghostface [1k\]: what do you think?
+HonFu [4k\]: touching white ...
+ghostface [1k\]: paul: same idea as shoulder hit  iguess
+HonFu [4k\]: should we?
+hidan18 [1k\]: interesting indeed
+ghostface [1k\]: in case of an emergency, he also has r7
+]
+;W[ng]
+;B[nh]
+;W[mg]
+;B[of]
+;W[ni]
+;B[ph]
+;W[mh]
+;B[pi]
+;W[qi]
+;B[pj]
+;W[qj]
+;B[pk]
+;W[pl]
+;B[ol]
+;W[qm]
+;B[me]C[ghostface [1k\]: black wants to build the top, so he attaches; yes it makes white stronger, but if we're not going to attack anyway then perhaps we can get a favorable result
+]
+;W[qc]
+;B[pc]
+;W[pd]
+;B[oc]C[ghostface [1k\]: black even lets white ponnuki
+ghostface [1k\]: white attaches at r17 and cross cuts
+ghostface [1k\]: black was able to win because the upper right is so huge
+ghostface [1k\]: the ponnuki was not so useful
+ghostface [1k\]: paul: also this ponnuki is not as good because there is an extra move
+HonFu [4k\]: whites separation not so good?
+ghostface [1k\]: paul: n13 isn't really doing anything
+ghostface [1k\]: white only really has to worry about the middle group, and it's not going to get so weak
+])
+(;B[qn]C[ghostface [1k\]: paul asks: do pros ever do that stuff against the actual chinese opening?
+ghostface [1k\]: paul: play p16 and then start a fight
+ghostface [1k\]: jon: no, the reason being, there's no e17 weakness, just a stone
+ghostface [1k\]: paul: ok, makes sense
+]))
+(;W[po]
+(;B[pl]
+;W[fe]C[ghostface [1k\]: black does not want white to settle so quickly
+ghostface [1k\]: so he chooses the 2-space high pincer
+ghostface [1k\]: now white plays f15
+ghostface [1k\]: what is the meaning of this move?
+DarkLife [-\]: influence?
+Stable [15k\]: attack upper left too
+DarkLife [-\]: destroy moyo?
+Stable [15k\]: Possible ladder breaker?
+]
+;B[fd]
+;W[ge]
+(;B[gd]
+;W[he]
+;B[hd]
+;W[ie]C[White takes Gote here, why?]
+;B[np]
+;W[qj]
+;B[qm]
+;W[qg]
+(;B[jd]C[Why defend here.]
+;W[pd]
+;B[pc]
+;W[oc]
+;B[qe]
+;W[pe]
+;B[pf]
+;W[qf]
+;B[qc]
+;W[of]
+;B[od]
+;W[pg]
+;B[nd])
+(;B[]
+;W[jc]
+;B[jd]
+;W[id]
+;B[ic]
+;W[jb]
+;B[kb]
+;W[ib]
+;B[hc]
+;W[kd]
+;B[je]
+;W[ld]C[oops]))
+(;B[hc]
+;W[mp]C[ghostface [1k\]: if black defends
+]
+;B[oo]
+;W[on]
+;B[no]
+;W[pp]
+;B[nq]
+;W[qq]
+;B[oq]
+;W[nn]
+;B[mo]C[ghostface [1k\]: white can use the fact that he has a ladder breaker
+]
+(;W[qr]
+;B[pn]
+;W[pm])
+(;W[rp]C[ghostface [1k\]: for instance, white needs the ladder to play r2
+])))
+(;B[np]C[ghostface [1k\]: q5 is another interesting move, and shows how flexible this opening is
+]
+;W[qq]
+;B[qr]
+;W[qp]
+;B[or]
+;W[qk])))
+(;B[df]
+;W[dg]
+;B[cc]
+;W[db]
+;B[bc]C[Violence [?\]: giant ava is exciting
+]))
+(;W[df]
+;B[cc]
+;W[db]C[Violence [?\]: yeah
+]
+;B[bc]C[Violence [?\]: I usually see the small ava here
+]))
+(;B[cf]
+;W[cd]C[ghostface [1k\]: let's go over the very beginning
+]
+;B[dg]
+;W[fc]
+;B[ck]))
+(;B[pp]
+;W[dp]
+;B[de]
+;W[ce]
+;B[dd]
+;W[cd]C[ghostface [1k\]: look at guo juan's website for more details
+]
+;B[ec]
+;W[cf]
+;B[db]
+;W[cc]C[shanku [17k\]: what website?
+]
+;B[kc]
+(;W[qj]C[ghostface [1k\]: now the lower right stone is at the star point
+ghostface [1k\]: so white tries to come in on the right side
+]
+(;B[fd]
+;W[qn]C[ghostface [1k\]: remember, don't want to come in at p16 before white is strong on the right side
+]
+;B[nq]
+;W[od]C[Whats the difference between whites kakari here and in the failure diagram?ghostface [1k\]: what is the difference between white playing p16 right away and playing on the right side first?
+Stable [15k\]: support?
+DarkLife [-\]: attack r16?
+HonFu [4k\]: easier getaway
+]
+;B[qf]C[HonFu [4k\]: no profit for black from this side
+]
+;W[qc]
+;B[rc]
+;W[le]
+;B[mc]C[ghostface [1k\]: in this game, black simply takes territory
+])
+(;B[ql]
+;W[qg]C[ghostface [1k\]: m15 is an interesting move - it presses black down and white makes sabaki in the middle
+]
+;B[pf]C[ghostface [1k\]: this is another game
+]
+(;W[re]C[ghostface [1k\]: this is why white comes under
+])
+(;W[pg]C[ghostface [1k\]: black pushes white toward the top, and then plays the shoulder hit to build up on the top
+ghostface [1k\]: is q13 a good move?
+hidan18 [1k\]: helps b
+ghostface [1k\]: paul: pushing from behind
+hidan18 [1k\]: p14
+]
+(;B[of]C[ghostface [1k\]: paul: and gives black like 6th line territory
+Stable [15k\]: p13?
+])
+(;B[qf]
+(;W[of]
+;B[og])
+(;W[og]
+;B[of]C[ghostface [1k\]: in the game, black decides to fight
+]
+;W[ng]
+;B[nf]
+;W[mg]
+;B[le]LB[qh:1][qi:2]C[ghostface [1k\]: *black can decide to fight
+ghostface [1k\]: in reality whtie decides not to hane
+ghostface [1k\]: now white is overconcentrated: 5 stone wall, 2 space jump
+])))))
+(;W[od]C[ghostface [1k\]: in this game, black fixes at f16 and white establishes a base on the right side
+]))
+(;B[oc]
+;W[rd]C[yithril [1d\]: could do this move
+Kireta [10k\]: or cosmic go :) is there any possibility of that?
+yithril [1d\]: theres possibilities for everything really
+ghostface [1k\]: well sometimes this move is treated as a probe
+ghostface [1k\]: kind of an important aspect
+yithril [1d\]: probing is part of sabaki though
+yithril [1d\]: i was playing sean today
+yithril [1d\]: and i made a dumbass move
+yithril [1d\]: and my center group was dying
+yithril [1d\]: i mean really dying
+yithril [1d\]: no where to go
+yithril [1d\]: b all around
+ghostface [1k\]: lol, but you attached and he died?
+yithril [1d\]: i made the sweetest sabaki and lived ever
+ghostface [1k\]: cool
+yithril [1d\]: death makes one creative
+ghostface [1k\]: i played what i thought was a reasonably effective probe in one of my games the other day
+yithril [1d\]: at least the threat of death
+ghostface [1k\]: necessity is the mother of all invention
+]))
+(;B[pd]
+;W[dp]
+;B[pq]
+;W[dd]C[Violence [?\]: hey
+]
+(;B[pk])
+(;B[qk]C[Violence [?\]: there you go
+ghostface [1k\]: consider the low chinese opening
+]
+;W[po]C[DarkLife [-\]: no
+hidan18 [1k\]: no
+ghostface [1k\]: is this a good move?
+HonFu [4k\]: too early
+shanku [17k\]: no...can't make a base ?
+]
+;B[np]SQ[qk]C[ghostface [1k\]: let's say black plays like this
+Violence [?\]: this is playable
+Violence [?\]: :D
+DarkLife [-\]: lol
+ghostface [1k\]: now the main problem is r9 makes it dififcult to extend along the side
+]
+;W[qq]
+;B[qr]
+;W[qp]
+;B[rr]
+;W[qm])))

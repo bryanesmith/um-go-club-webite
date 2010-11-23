@@ -1,0 +1,911 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Lecture]PB[3]DT[2007-08-26]PC[The KGS Go Server at http://www.gokgs.com/]C[Essential Invasion Josekis :
+
+We will be studying a common invasion position but in context using examples from pro games to give us guidelines and ways of thinking to handle invasions.  Remember, never memorize joseki, create them.xthsense [2d\]: sup
+yithril [1d\]: yo
+xthsense [2d\]: this looks fun
+hidan18 [1k\]: ☺
+yithril [1d\]: lots of stuff
+xthsense [2d\]: yah
+hidan18 [1k\]: when does it start?
+yithril [1d\]: 3 minutes or until more peopel show ;)
+hidan18 [1k\]: ah
+hidan18 [1k\]: ill play simul later then
+hidan18 [1k\]: ☺
+yithril [1d\]: its the same time every week so hopefully people know the routine
+xthsense [2d\]: ^^
+xthsense [2d\]: last time 25 ppl watching
+yithril [1d\]: what did you guys think of las tweeks?
+xthsense [2d\]: pretty good
+hidan18 [1k\]: yeah
+xthsense [2d\]: trigge rhapp yspaceba ryithril.
+yithril [1d\]: i love the spacebar
+xthsense [2d\]: lol
+yithril [1d\]: its my friend
+hidan18 [1k\]: lol
+yithril [1d\]: hopefully a few more people show
+yithril [1d\]: we'll start at 5 after at the latest
+xthsense [2d\]:  l-l31P /\\/\\3
+yithril [1d\]: what?
+xthsense [2d\]: lol
+HonFu [4k\]: Hello everybody ^^
+xthsense [2d\]: hi
+oplk [12k\]: hi
+hidan18 [1k\]: hello
+hidan18 [1k\]: ☺
+kyosuke [-\]: hiya
+yithril [1d\]: okay
+yithril [1d\]: lets start
+yithril [1d\]: todays topic is a bit of a misnomer
+yithril [1d\]: while i did say invasion josekis
+yithril [1d\]: i am very anti joseki
+xthsense [2d\]: lol
+yithril [1d\]: because it makes us think that all we have to do is memorize tons of moves
+HonFu [4k\]: ^^
+yithril [1d\]: and that somehow it will make us better
+yithril [1d\]: studying joseki is fantastic
+HonFu [4k\]: and it never works ... ^^
+yithril [1d\]: you learn good shapes and good tactics
+yithril [1d\]: but then we forget about the rest of our stones
+xthsense [2d\]: and not the sequences
+yithril [1d\]: and the josekis we pick
+yithril [1d\]: dont work
+yithril [1d\]: so my approach to studying joseki is what we will be doing today
+yithril [1d\]: i picked a common shape
+yithril [1d\]: and tried to find as many real life pro examples of how that shape is dealt with
+yithril [1d\]: it helps develop a feel of how all the stones work together
+yithril [1d\]: which is your main concern when playing
+yithril [1d\]: okay
+yithril [1d\]: so
+yithril [1d\]: last one
+
+]
+(;B[pd]
+(;W[nc]
+;B[qf]
+;W[jd]
+;B[lc]C[We will be covering this invasion but in context.yithril [1d\]: this is the shape we will do today
+yithril [1d\]: i wont be covering everything
+yithril [1d\]: cuz there are lots
+yithril [1d\]: we'll mainly be covering two moves
+yithril [1d\]: anyone know what is one way white can respond?
+HonFu [4k\]: m16
+kittkatt [18k?\]: nice names
+yithril [1d\]: when b invades here?
+HonFu [4k\]: yeah
+yithril [1d\]: there are many more variations
+HonFu [4k\]: gotta try them though ^_°
+xthsense [2d\]: n16 
+yithril [1d\]: and in future lectures i will show them
+kittkatt [18k?\]: M16
+HonFu [4k\]: next week?
+kittkatt [18k?\]: easiest and simplest
+yithril [1d\]: next week i havent decided
+yithril [1d\]: if you have any lecture requests
+yithril [1d\]: please pm them to me
+xthsense [2d\]: try reducing moyos XD
+yithril [1d\]: also if you have any comments or questions
+yithril [1d\]: just gimme a ring
+yithril [1d\]: thank you all for coming
+xthsense [2d\]: come to yithril and kilroy's dojo.
+kittkatt [18k?\]: m16?
+HonFu [4k\]: thanks for the lecture!
+hidan18 [1k\]: thx for the lecture
+hidan18 [1k\]: ☺
+kittkatt [18k?\]: ☺ abuser!!
+yithril [1d\]: kittkatt i just spent 50 minutes on m16
+kittkatt [18k?\]: thanks for the lacture lol
+kittkatt [18k?\]: o
+kittkatt [18k?\]: u did?
+kittkatt [18k?\]: o.o
+kittkatt [18k?\]: i just came
+recusant [11k\]: Thank you yithril
+xthsense [2d\]: thx yithril
+yithril [1d\]: you can download the sgf
+yithril [1d\]: online at:
+hidan18 [1k\]: sandbagging again?
+hidan18 [1k\]: ☺
+yithril [1d\]: http://www.umich.edu/~goclub/index.html under resources.
+yithril [1d\]: the previous lectures ar ethere as well
+kittkatt [18k?\]: no im not sandbagging i have a bag of sand lol
+kittkatt [18k?\]: *cough*
+hidan18 [1k\]: lol
+HonFu [4k\]: see you all!
+hidan18 [1k\]: c ya
+kittkatt [18k?\]: bi
+yithril [1d\]: not as many people today x_X
+ChemBoy613 [7k\]: hey jon I have a fuseki question if you have a minute
+yithril [1d\]: sure
+ChemBoy613 [7k\]: sorry don't have regualr internet yet
+ChemBoy613 [7k\]: control sec
+]
+(;W[ld]C[yithril [1d\]: yes
+yithril [1d\]: whats the meaning?
+HonFu [4k\]: covering black,
+yithril [1d\]: awesome
+yithril [1d\]: the idea of this move
+yithril [1d\]: is to block black from the center
+yithril [1d\]: black has many options
+yithril [1d\]: and it depends on what the ladder situation is around
+]
+(;B[kd]C[yithril [1d\]: black can warikomi here if he has the necessary ladders
+yithril [1d\]: or
+yithril [1d\]: lets start with this one
+yithril [1d\]: first off
+yithril [1d\]: the ladder
+yithril [1d\]: if we dont like either of those
+yithril [1d\]: then l17 is not feasible
+]
+(;W[kc]C[yithril [1d\]: white cuts black in two
+]
+;B[ke]
+(;W[lb]C[xthsense [2d\]: lecture
+yithril [1d\]: next up is this move
+yithril [1d\]: lets say connecting at k17 doesnt work
+]
+;B[jc]
+;W[mc]C[xthsense [2d\]: unless u r down on ko threats, yithril
+]
+;B[kb]C[yithril [1d\]: dont miss playing here
+yithril [1d\]: its very important
+yithril [1d\]: depends
+yithril [1d\]: this does have to do with the ko
+yithril [1d\]: ill have an example later
+xthsense [2d\]: ok
+yithril [1d\]: from a pro game where they fight over this ko
+]
+;W[lc]C[yithril [1d\]: its a force honfu
+]
+;B[id]C[HonFu [4k\]: why?
+])
+(;W[jc]C[xthsense [2d\]: lol shana this is the invasion joseki
+]
+;B[md]C[yithril [1d\]: black needs to be able to kill this stone in a ladder
+]
+(;W[lb]
+;B[le]
+(;W[mb])
+(;W[mc]C[yithril [1d\]: if we cant
+Shana [2k\]: ooh wuts dis
+yithril [1d\]: then black gets a ponnuki
+yithril [1d\]: on the outside
+yithril [1d\]: completely defeated the original white move
+]))
+(;W[le]C[yithril [1d\]: otherwise we escape
+])))
+(;W[ke]C[yithril [1d\]: white would have to atari from the outside
+]
+;B[kc]
+(;W[jc]C[HonFu [4k\]: oh my goood ...
+yithril [1d\]: this is a move that emphasizes the upper left
+yithril [1d\]: it is quite hard
+yithril [1d\]: but oftentimes very good
+yithril [1d\]: especially when white is strong
+]
+(;B[md]C[yithril [1d\]: b ataris here
+]
+;W[le]
+;B[mc]C[HonFu [4k\]: cwhy?
+yithril [1d\]: b suffers
+ChemBoy613 [7k\]: other one looks like suicide
+yithril [1d\]: okay first let me go back
+]
+(;W[je]C[HonFu [4k\]: cant black cut all around?
+yithril [1d\]: i invite you to do some tsumego
+yithril [1d\]: and some reading ;)
+ChemBoy613 [7k\]: if B turns and  kills O17
+HonFu [4k\]: haha ^^ yeah, still ...
+]
+;B[nd]C[ChemBoy613 [7k\]: sure black gets huge corner
+yithril [1d\]: yes b does
+ChemBoy613 [7k\]: but isn't white's thickness worth more on an empty board?
+yithril [1d\]: but white is thick
+yithril [1d\]: who cares about the empty board
+ChemBoy613 [7k\]: plus
+yithril [1d\]: unless you play out this entire thing
+ChemBoy613 [7k\]: R17 still works?
+yithril [1d\]: just like this
+yithril [1d\]: r17 does not work
+yithril [1d\]: therefore when b plays this he gets quite a big corner
+]
+;W[qc]C[The 3,3 dies after o16.yithril [1d\]: now
+yithril [1d\]: 3,3 dies
+yithril [1d\]: because after o16
+yithril [1d\]: b i strong
+]
+;B[ob]C[The killing moveyithril [1d\]: this is the move
+yithril [1d\]: to kill
+]
+(;W[re]C[yithril [1d\]: if we try to live
+]
+;B[rf]
+;W[qe]
+;B[pe]
+;W[pb]
+;B[qd]
+;W[rd]
+;B[rb]
+;W[rc]
+;B[pc]
+;W[qb]
+;B[pa]
+;W[sb]
+;B[ra]
+;W[qa]
+;B[se]
+;W[pf]C[If this cut is not a problem then w is dead.yithril [1d\]: as long
+yithril [1d\]: as this cut is not a problem
+yithril [1d\]: w cannot live
+])
+(;W[qd]C[yithril [1d\]: this move also dies and i inviteyou to read it
+]))
+(;W[me]C[Bad move.yithril [1d\]: First id like to say this is a bad move
+yithril [1d\]: its needless
+ChemBoy613 [7k\]: makes black play where black wants to play
+]
+(;B[nd]C[yithril [1d\]: and forces black to play here 
+yithril [1d\]: when we force black to play this
+yithril [1d\]: we kill our chances in thecorner
+yithril [1d\]: and n15
+yithril [1d\]: doesnt necesarily have that much meaning for w
+]
+;W[if])
+(;B[]
+;W[pc]
+;B[od]
+;W[oc]
+;B[qc]
+;W[qb]
+;B[nd]
+;W[rc]
+;B[qd]
+;W[oa]))
+(;W[if]C[yithril [1d\]: sometimes
+yithril [1d\]: b might not have time to play
+yithril [1d\]: o16
+yithril [1d\]: then the corner still has a chance
+]
+;B[]
+;W[pc]C[yithril [1d\]: by playin this
+]))
+(;B[le]
+;W[md]C[yithril [1d\]: please dont do this
+]))
+(;W[md]C[yithril [1d\]: if w extends
+]
+;B[jc]
+;W[id]
+;B[hb]C[yithril [1d\]: if we omit it
+yithril [1d\]: then we have a string of stones with two very severe cutting points
+HonFu [4k\]: how exploit it?
+yithril [1d\]: white stones have a big bullseye on them
+yithril [1d\]: various ways
+]
+(;W[lf]C[yithril [1d\]: m14 is extremely important
+])
+(;W[]C[yithril [1d\]: if you can manipulate the ladders
+yithril [1d\]: directly cutting could get severe
+yithril [1d\]: its not one of those right away types of weaknesses
+yithril [1d\]: where you play a stone and "oops" they die
+HonFu [4k\]: ^^
+yithril [1d\]: its the type where you can threaten to cut or
+xthsense [2d\]: l14 can be one start though
+]
+(;B[mf]C[yithril [1d\]: various types of attacks
+])
+(;B[kf]C[yithril [1d\]: this could be good too
+yithril [1d\]: point is
+yithril [1d\]: black has a choice
+yithril [1d\]: of how to attack that will best benefit him
+])))))
+(;B[kc]C[HonFu [4k\]: aw this always trouble sme 
+yithril [1d\]: blakc can play here
+]
+;W[kd]
+(;B[mc]
+;W[md]
+;B[oc]
+;W[nb]
+;B[nd]
+;W[ob]
+;B[pb]
+;W[qc]
+;B[pc]
+;W[ne]
+;B[od]
+;W[jc]
+;B[mb])
+(;B[jc]
+(;W[ic]
+;B[mc]
+;W[md]
+;B[oc]
+;W[nd]
+;B[nb]
+;W[ob]
+(;B[pb]C[Big mistake]
+;W[mb]
+;B[oa]
+;W[lb]C[Oops.])
+(;B[mb]
+(;W[pf]
+(;B[pc])
+(;B[pg]
+(;W[qe]
+;B[pe]
+;W[of])
+(;W[pc]
+;B[od]
+;W[qe]
+;B[pe]))
+(;B[pe]))
+(;W[jb]
+;B[kb]
+;W[ib]
+;B[]
+;W[pb]
+;B[qc]
+;W[qb]
+;B[rb])))
+(;W[mc]
+;B[hc]))))
+(;W[le]CR[md]SQ[le]C[What about this strange move?yithril [1d\]: this move
+yithril [1d\]: is very interesting
+yithril [1d\]: because it de-emphasizes o17
+xthsense [2d\]: takemiya kekeke
+xthsense [2d\]: jk
+yithril [1d\]: what should black do?
+hidan18 [1k\]: kosumi
+yithril [1d\]: right\\
+LucSengoku [4k\]: take the open space?
+yithril [1d\]: these two white stones
+yithril [1d\]: form the elephant eye shape
+yithril [1d\]: the weakness is here
+yithril [1d\]: so
+yithril [1d\]: why not just walk through white
+xthsense [2d\]: k17 ^_^
+yithril [1d\]: so do we feel a bit better
+]
+(;B[md]C[LucSengoku [4k\]: yea
+]
+;W[pc]C[yithril [1d\]: later white might be able t oget this move
+]
+;B[qc]
+;W[od]
+;B[pb]
+;W[ob])
+(;B[jc]C[xthsense [2d\]: lol
+yithril [1d\]: b also has this move
+hidan18 [1k\]: lol
+xthsense [2d\]: this just dies
+xthsense [2d\]: if ladder doesnt work?
+yithril [1d\]: yeah
+HonFu [4k\]: cant black still n16?
+]
+;W[ic]
+;B[id]
+(;W[je]
+;B[hc]
+;W[ib]
+;B[jb]
+;W[hb]
+;B[gc]C[yithril [1d\]: whereas once white
+]
+;W[hd]
+;B[ie]
+;W[gd]C[yithril [1d\]: if we can ladder j15
+yithril [1d\]: then oops
+]
+;B[md]C[xthsense [2d\]: assume u can cause otherwise u dont  play m15 in the first place
+yithril [1d\]: o17 isnt dead
+yithril [1d\]: so theres a chance white plays in there anyway
+yithril [1d\]: and you lost j15 on the outside
+yithril [1d\]: so white gets ponnuki strength facing the center
+yithril [1d\]: and b might be able to turn the corner into territory
+yithril [1d\]: not a fair trade
+]
+(;W[pc]
+;B[qc]
+;W[od]
+;B[pb]
+;W[ob]C[yithril [1d\]: at the very leas tthere is a ko possibility
+])
+(;W[if]C[yithril [1d\]: kills you
+yithril [1d\]: unless ur laddre break is great
+yithril [1d\]: which it shouldnt be if white plays like this
+yithril [1d\]: then what white gains is quite solid
+]))
+(;W[ib]))))
+(;W[dp]
+;B[pq]
+;W[dd]
+;B[fq]
+;W[cn]
+;B[jp]
+;W[qn]C[yithril [1d\]: heres a pro game
+]
+;B[qp]
+;W[qk]
+;B[qi]C[yithril [1d\]: black played here
+]
+(;W[ok]
+(;B[qf]C[yithril [1d\]: okay
+yithril [1d\]: when we play
+yithril [1d\]: its good to know variations
+yithril [1d\]: or have experience with them
+yithril [1d\]: but we need to always have principles in mind
+yithril [1d\]: whenever we play a move
+xthsense [2d\]: chem........
+hidan18 [1k\]: later b will deffend
+yithril [1d\]: its invasion today chem
+HonFu [4k\]: isnt kakari more important?
+yithril [1d\]: yes hidan
+yithril [1d\]: kakari for w
+yithril [1d\]: ?
+HonFu [4k\]: yes ...
+yithril [1d\]: uhh
+yithril [1d\]: where o 17?
+ChemBoy613 [7k\]: a move like F5 is approriate for black in this fuseki
+HonFu [4k\]: hum ...
+HonFu [4k\]: yes ?
+ChemBoy613 [7k\]: sometime soon
+HonFu [4k\]: wow ...
+HonFu [4k\]: hard to find the point so that he will not defend too, right?
+yithril [1d\]: timing
+yithril [1d\]: here its ok
+]
+(;W[hq]C[Why invade now?  Why not do it earlier?yithril [1d\]: why does white invade now?
+yithril [1d\]: why not do it earlier?
+ChemBoy613 [7k\]: NNNNNNNNNNOOOOOOOOOOOOOOOO I WAS MISSING THE KOBAYASHI LESSON :'(
+HonFu [4k\]: why not later?
+HonFu [4k\]: okay this is a new thought for me #^^#
+xthsense [2d\]: the ladders didnt work b4 either
+yithril [1d\]: the idea
+yithril [1d\]: i wanted to try to get across
+yithril [1d\]: was concerning the two white stones on the side
+]
+(;B[hp]C[Zhou Heyang vs Kong Jieyithril [1d\]: okay so this moe
+yithril [1d\]: *move
+]
+;W[ip]C[What should we consider when we make this move?xthsense [2d\]: the ladder...... T_T  white has more choices when p9 is there
+yithril [1d\]: yeah
+yithril [1d\]: of course
+xthsense [2d\]: y u ignore me yithril? :P
+yithril [1d\]: no one ignored you
+xthsense [2d\]: lol
+xthsense [2d\]: jk
+]
+;B[iq]C[hidan18 [1k\]: ☺
+yithril [1d\]: okay so b still played here
+]
+;W[io]
+(;B[jq]C[yithril [1d\]: if he plays this
+]
+;W[gp]C[oops]
+;B[hr]
+;W[ho]C[yithril [1d\]: not happy for B
+]
+;B[gq])
+(;B[hr]C[yithril [1d\]: instead he played this
+]
+;W[jq]
+;B[gq]
+;W[ir]
+(;B[hq]
+;W[kp]C[yithril [1d\]: if we check the ladder
+yithril [1d\]: oh look b dies in it
+])
+(;B[kq]C[Real GameHonFu [4k\]: ^^
+yithril [1d\]: this was the real game
+yithril [1d\]: ko
+yithril [1d\]: very interesting ko
+]
+;W[hq]C[HonFu [4k\]: so they really fight it?
+xthsense [2d\]: so black fights the ko lol
+HonFu [4k\]: this early?
+yithril [1d\]: yeah
+xthsense [2d\]: this is huge
+]
+;B[cq]C[xthsense [2d\]: i cant see where id like 2 other moves
+yithril [1d\]: in this game black went into the 3,3
+]
+;W[iq]
+;B[cp]C[yithril [1d\]: and took the corner
+xthsense [2d\]: c4 in response was bigger
+]
+(;W[ck])
+(;W[dq]C[HonFu [4k\]: but is f3 not in danger?
+yithril [1d\]: reading
+yithril [1d\]: hmm
+xthsense [2d\]: dont think so.... d5 c5 e5 
+]
+;B[do]C[xthsense [2d\]: err
+]
+;W[co]
+(;B[dr]C[xthsense [2d\]: e4 
+])
+(;B[ep]C[yithril [1d\]: i dont see what white does
+HonFu [4k\]: hmm
+yithril [1d\]: at all
+yithril [1d\]: looks pretty sunk
+])))
+(;B[dq]C[Choi Cheolhan vs. Won SunjinHonFu [4k\]: why not d3?
+HonFu [4k\]: wont his stones get in difficulty?
+yithril [1d\]: choi cheolhan went here
+HonFu [4k\]: no,
+HonFu [4k\]: after 33
+yithril [1d\]: another pro played here
+]
+;W[cq]
+;B[kq]C[yithril [1d\]: then started the ko
+yithril [1d\]: d3 creates ko threats
+]
+;W[hq]
+;B[cp]
+;W[bp]C[xthsense [2d\]: yeah
+]
+;B[iq]
+;W[pe]
+;B[qe]
+;W[hq]
+;B[cr]
+;W[bq]
+;B[iq]
+;W[pc]
+;B[jr]C[yithril [1d\]: and b took the ko here
+yithril [1d\]: and he went on to win
+])))
+(;B[ho]C[Yang Shihai vs Shao Weigang]
+;W[gp]
+;B[iq]
+;W[oo]
+;B[np]
+;W[no]
+;B[mo]))
+(;W[nc]C[HonFu [4k\]: mistake?
+yithril [1d\]: id ignore this
+]
+;B[fo]C[yithril [1d\]: because what is your follow up
+yithril [1d\]: i have r11
+yithril [1d\]: my stones are in no danger
+HonFu [4k\]: the corner is already too solid, huh?
+yithril [1d\]: if you do anything to the corner
+yithril [1d\]: and i had a weak spot
+yithril [1d\]: and now i defend it
+LucSengoku [4k\]: prevent the pincer
+yithril [1d\]: i dont see a minus for b
+]))
+(;B[fo]C[yithril [1d\]: ur choice
+]
+(;W[qg]C[yithril [1d\]: the idea of r11
+yithril [1d\]: is defeated
+])
+(;W[qf])))
+(;W[hq]C[HonFu [4k\]: first defend weakness?
+yithril [1d\]: whats the difference?
+LucSengoku [4k\]: the difference is white has a weak spot too
+LucSengoku [4k\]: here
+yithril [1d\]: excellent
+yithril [1d\]: before we invade
+yithril [1d\]: we must secure our groups
+yithril [1d\]: the reason is
+yithril [1d\]: when we invade
+xthsense [2d\]: ladder is out as well
+yithril [1d\]: our opponent has two choices
+yithril [1d\]: wall us in and make us live small on the side
+yithril [1d\]: or take our eye space and run us out
+yithril [1d\]: the more severe your invasion is the less choice but thats the idea
+yithril [1d\]: if we get sealed they get a wall
+yithril [1d\]: to attack a nearby group
+yithril [1d\]: if they run us out
+yithril [1d\]: they could split our groups in two
+HonFu [4k\]: and if he chases us out, or other weak group will suffer
+yithril [1d\]: and run in between
+yithril [1d\]: yes
+LucSengoku [4k\]: so ur saying if ur groups are safe, u dont have to worry about ur oponent turning ur invasion against u
+yithril [1d\]: yes
+LucSengoku [4k\]: k
+yithril [1d\]: invasions can be easily turned against you if you dont prepare
+]))
+(;W[dd]
+;B[qp]
+;W[dp]
+;B[fq]
+;W[cn]
+;B[dr]
+;W[op]
+;B[oq]
+;W[nq]
+;B[pq]
+;W[np]
+;B[qn]
+;W[hq]
+;B[cq]
+;W[eq]
+;B[er]
+;W[fp]
+;B[gp]
+;W[gq]
+;B[fr]
+;W[go]
+;B[fc]
+;W[df]
+;B[jd]
+;W[hc]
+;B[hd]
+;W[id]
+;B[ie]
+;W[ic]
+;B[jc]C[yithril [1d\]: okay
+yithril [1d\]: heres another pro game
+yithril [1d\]: black chose this sequence
+]
+;W[gd]
+;B[he]
+;W[gc]
+;B[je]C[yithril [1d\]: and defends the cutting point
+HonFu [4k\]: haha ^^
+]
+;W[qc]C[Why not F 16yithril [1d\]: however why did white not f16?
+LucSengoku [4k\]: its gote?
+HonFu [4k\]: didnt want hom to close this off?
+yithril [1d\]: why did he go for the 3,3
+yithril [1d\]: gote is one
+ChemBoy613 [7k\]: F16 is gote and white's invasion here ends in sente
+yithril [1d\]: and
+LucSengoku [4k\]: that stone is already dead
+yithril [1d\]: which one?
+yithril [1d\]: f17?
+ChemBoy613 [7k\]: black needs followup near Q10 to really make his stones work together
+LucSengoku [4k\]: yes
+yithril [1d\]: f17 is not dead
+yithril [1d\]: without f 16
+Shana [2k\]: black can take the top left corner but top right corner is bigger?
+yithril [1d\]: all good answers
+yithril [1d\]: lets look at the game
+yithril [1d\]: the 3,3 point here
+yithril [1d\]: makes black spend a lot of moves which he would otherwise use to create a large expansive moyo
+HonFu [4k\]: and the other direction and then something around Q10?
+HonFu [4k\]: wouldnt that work?
+]
+(;B[pc]
+;W[qd]
+;B[qf]
+;W[rf]
+;B[rg]
+;W[qe]
+;B[pe]
+;W[qg]
+;B[pf]
+;W[rh]
+;B[pg]
+;W[qh]SQ[jc][pc][jd][pd][he][ie][je][pe][pf][pg]C[yithril [1d\]: the result of the 3,3
+yithril [1d\]: was that white got territory
+yithril [1d\]: and b got  thickness correct?
+HonFu [4k\]: a bit overcrowded?
+yithril [1d\]: the basic trade off in go
+yithril [1d\]: b is spending a bit too many stones at the top
+HonFu [4k\]: or is it alright?
+yithril [1d\]: for what he's getting
+LucSengoku [4k\]: black gets thickness but seems a bit stuffed up their
+])
+(;B[qd]C[yithril [1d\]: i dont feel taht r 6 and a wall here
+yithril [1d\]: work that well together
+yithril [1d\]: although i think if i played another 1d
+yithril [1d\]: i could still win even like this ;)
+xthsense [2d\]: lol
+]
+;W[pc]C[yithril [1d\]: hmm
+HonFu [4k\]: one of the sente joseki
+yithril [1d\]: b needs sente
+]
+(;B[oc]
+;W[ob]
+;B[nc])
+(;B[nc]C[yithril [1d\]: i dont so much enjoy that
+yithril [1d\]: cuz
+]
+;W[nb]C[HonFu [4k\]: double hane and then Q10
+]
+(;B[pj]C[HonFu [4k\]: or that ^^
+]
+;W[oc]
+;B[od]
+;W[mc]
+;B[nd]
+;W[lb]CR[pj][qn]SQ[qk][pl][om][np][op][nq]C[yithril [1d\]: the moyo
+yithril [1d\]: seems kind of
+yithril [1d\]: how to say it
+yithril [1d\]: inefficient on one side
+xthsense [2d\]: open
+]
+;B[dc]C[yithril [1d\]: hmm
+])
+(;B[pk]C[yithril [1d\]: r6 is low
+yithril [1d\]: and flat
+yithril [1d\]: its hard to make a big box here
+])))))
+(;B[qe]
+;W[dd]
+;B[qo]
+;W[dp]
+;B[fc]
+;W[df]
+;B[jd]
+;W[hc]
+;B[hd]
+;W[id]
+;B[ie]
+;W[ic]
+;B[gd]
+;W[jc]
+;B[kd]
+;W[lc]
+;B[hf]C[yithril [1d\]: here we are
+yithril [1d\]: now
+yithril [1d\]: in this game
+yithril [1d\]: b chose to do this sequence
+yithril [1d\]: and blocked here
+HonFu [4k\]: prevent closing in?
+yithril [1d\]: yes
+]
+(;W[ci]C[yithril [1d\]: why does w play here?
+HonFu [4k\]: neutralize thicknbess
+HonFu [4k\]: prevent invasion?
+yithril [1d\]: prevent is a good idea keep going
+HonFu [4k\]: hmm ...
+]
+;B[fq])
+(;W[]LB[df:A]C[yithril [1d\]: This white stone is high
+yithril [1d\]: its door is not closed
+yithril [1d\]: b can still come under
+HonFu [4k\]: center openings are just about this idea, right?
+yithril [1d\]: controling the center in general
+yithril [1d\]: force your opponent to move out into an area not under his control
+yithril [1d\]: if we take away whites base here
+yithril [1d\]: white has to move into the center
+yithril [1d\]: where black is waiting with open arms
+yithril [1d\]: of death
+HonFu [4k\]: ^^
+hidan18 [1k\]: lol
+yithril [1d\]: i wanted to show these examples to give the joseki's meaning
+yithril [1d\]: so far so good?
+HonFu [4k\]: but being confined also not good
+HonFu [4k\]: yeah, it helps ^_^
+yithril [1d\]: ok
+yithril [1d\]: lets continue with some of the harder stuff
+]
+;B[ch]C[HonFu [4k\]: ah!
+hidan18 [1k\]: if b goes there he might seal white
+yithril [1d\]: with h14
+yithril [1d\]: black has a solid shape facing the center
+yithril [1d\]: we control the center in this part of the board
+yithril [1d\]: in which case
+yithril [1d\]: surrounding enemey groups
+yithril [1d\]: that have any holes
+yithril [1d\]: become weaker
+]))
+(;B[qd]
+(;W[dp]
+;B[cd]
+;W[pp]
+;B[cn]
+;W[fq]
+;B[dj]
+;W[od]
+;B[mc]
+;W[ne]
+;B[pc]
+;W[oc]
+;B[qf]
+;W[ld]
+;B[jd]
+;W[lc]
+;B[ed]
+;W[qn]
+;B[qi]
+;W[bp]
+;B[jb]
+;W[kb]
+;B[ob]
+;W[nb]
+;B[pb]
+;W[if]
+;B[ic]
+;W[kf]
+;B[jg]
+;W[jf]
+;B[ge]
+;W[bd]
+;B[bc]
+;W[cl]
+;B[dl]
+;W[dk]
+;B[ek]
+;W[ck]
+;B[cj]
+;W[dm]C[yithril [1d\]: okay
+yithril [1d\]: heres another game
+yithril [1d\]: with the same squence
+yithril [1d\]: but
+]
+;B[el]
+;W[cm]
+;B[em]C[xthsense [2d\]: b4 is there
+xthsense [2d\]: so push now
+yithril [1d\]: right
+yithril [1d\]: y
+yithril [1d\]: ?
+LucSengoku [4k\]: because the stone cant invade the corner
+yithril [1d\]: excellent
+HonFu [4k\]: top too large otherwise?
+yithril [1d\]: we cant invade the corner anyway
+yithril [1d\]: its impossible
+xthsense [2d\]: not aji keshi
+yithril [1d\]: so we're not erasing any possibilities
+yithril [1d\]: cuz there are none
+HonFu [4k\]: ah ^^
+]
+;W[dn]
+;B[fi])
+(;W[dd]
+;B[pp]
+;W[dp]
+;B[oc]
+;W[qj]C[yithril [1d\]: is this pro game
+yithril [1d\]: with that move in it
+yithril [1d\]: i thought it would be entertaining
+HonFu [4k\]: ^^
+yithril [1d\]: since last lecture we dealt with this shape
+xthsense [2d\]: heh
+]
+;B[fq]C[yithril [1d\]: so las tthing
+yithril [1d\]: to end the lecture
+]
+;W[cn]
+;B[ql]
+;W[qg]
+;B[jp]
+;W[qn]
+;B[pn]
+;W[qq]
+;B[pq]
+;W[qp]
+;B[po]
+;W[rn]
+;B[ok]
+;W[hq]
+;B[ho]
+;W[jq]C[yithril [1d\]: and white played here
+]
+;B[kq]
+;W[kp]
+;B[jo]C[xthsense [2d\]: lol
+]
+;W[lq]
+;B[kr]
+(;W[lr]
+;B[jr]
+;W[nr]
+;B[lp]
+;W[pr]C[xthsense [2d\]: yay
+]
+;B[mo]C[yithril [1d\]: crazy huh?
+xthsense [2d\]: yah
+HonFu [4k\]: really ...
+xthsense [2d\]: e3 XD
+yithril [1d\]: i think b won the game
+yithril [1d\]: but still
+yithril [1d\]: m2
+yithril [1d\]: to try and escape out
+yithril [1d\]: was quite creative
+])
+(;W[jr]
+;B[lp]
+;W[ko]
+;B[lr]
+;W[mq]
+;B[mp]
+;W[kn]
+;B[nq]))))

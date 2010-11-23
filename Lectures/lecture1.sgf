@@ -1,0 +1,1257 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[6.50]
+PW[Lee ChangHo]PB[Luo Xihe]WR[9p]BR[9p]DT[2006-01-10]EV[Samsung Cup,10,Korea,Samsung]RO[1]PC[Korea]SO[http://gobase.org//games/inter/titles/samsung/10/game-01.sgf]C[yithril [1d\]: We'll start at 6 or when we get more than just 3 people ;)
+Akira92 [2k\]: ^_^ sounds good
+Chronus [8k\]: 6 what timezone? =O)
+yithril [1d\]: GMT -4
+Chronus [8k\]: Alright. Thx
+yithril [1d\]: ok hopefully a few more show up
+yithril [1d\]: ok
+Akira92 [2k\]: lol
+yithril [1d\]: lets begin
+yithril [1d\]: So for this lecture
+yithril [1d\]: i will be typing
+yithril [1d\]: in the future if I continue to do this i want to get a microphone
+yithril [1d\]: so i can just talk
+hidan18 [1k\]: ☺
+yithril [1d\]: I picked a really nice pro game for this lecture that includes a very interesting ko and lots of fighting
+yithril [1d\]: im going to focus on the opening mostly 
+]RE[B+Resign]
+;B[pd]
+;W[dd]
+;B[qp]
+;W[dp]
+;B[fq]
+(;W[hq]C[Prevents mini chinese.yithril [1d\]: So this moves purpose is to prevent the mini chinese
+yithril [1d\]: if you don't like your opponent to play mini chinese
+yithril [1d\]: this is a good move to learn a swhite
+]
+(;B[oq]C[Black finishing the corner here is huge but  there are other options.yithril [1d\]: Black finishes the corner
+yithril [1d\]: its very big
+yithril [1d\]: but it does leave the f3 stone behind
+yithril [1d\]: but pros play like this
+yithril [1d\]: more often
+yithril [1d\]: because its hard for white to deal effectively with f3
+yithril [1d\]: with this move there is no real minus for B.
+]
+(;W[cn]C[yithril [1d\]: so now we come back to the game
+yithril [1d\]: and this move
+yithril [1d\]: this move in a way pacifies black by making strength around the stone
+yithril [1d\]: f3 is still quite active
+]
+(;B[fc]C[yithril [1d\]: black leaves it in the game
+yithril [1d\]: and instead tries to build the top
+]
+;W[cf]C[wicket [-\]: i guess W can't lpay g4 or B wil just c3
+]
+;B[db]
+(;W[qf]C[yithril [1d\]: after d18 white can take sente
+]
+;B[pi]LB[jp:B][jq:A]C[yithril [1d\]: this is an interesting choice of pincer
+yithril [1d\]: because
+yithril [1d\]: Black can aim at A and B to build a large moyo
+]
+(;W[nc]C[yithril [1d\]: white wants to fight
+]
+;B[pf]
+;W[pg]
+;B[of]C[yithril [1d\]: instead of r16 white can play at r15
+]
+(;W[qd]
+;B[qe]
+;W[re]
+;B[pe]
+;W[rg]
+;B[qc]
+;W[rd]
+;B[og]
+;W[jd]
+(;B[hc]CR[lc]C[yithril [1d\]: this is a really nice move
+yithril [1d\]: it aims at the weak spot in whites shape
+yithril [1d\]: plus the black stones at the top have a nice shape and are now stronger
+]
+;W[ph]
+;B[oh]
+;W[qi]
+;B[qj]
+;W[ri]
+;B[rj]C[yithril [1d\]: white chooses to spread out a bit and black happily makes more thickness
+]
+(;W[kq]C[Why here?yithril [1d\]: now white rushes to this point
+yithril [1d\]: instead of protecting the top
+yithril [1d\]: why?
+wicket [-\]: weakest group
+GaretJax [7k\]: backs up his pincer and makes life
+ImNoSensei [-\]: makes f3 a lot heavier
+Slarty [-\]: damned big :)
+GaretJax [7k\]: and probably decideds top group lives
+yithril [1d\]: all valid
+yithril [1d\]: but 
+yithril [1d\]: main reason
+yithril [1d\]: besides the others
+yithril [1d\]: is it shallows blacks moyo
+yithril [1d\]: if b plays here
+yithril [1d\]: white cannot have that happen
+]
+;B[si]
+;W[rh]
+;B[dr]C[Luo Xihe's styleyithril [1d\]: this seems to be a luo xihe kind of move
+wicket [-\]: o_O
+yithril [1d\]: he plays this one a lot
+ImNoSensei [-\]: yea he likes it a lot
+yithril [1d\]: boggles my mind personally ;)
+wicket [-\]: if a kyu player played that against me i'd tell them it was a mistake :)
+yithril [1d\]: but
+Slarty [-\]: planning to play H4?
+yithril [1d\]: no
+]
+;W[cq]
+;B[fo]
+(;W[qq]C[yithril [1d\]: white leaves it
+yithril [1d\]: and plays this probe
+]
+;B[pp]C[wicket [-\]: bizarre:)
+yithril [1d\]: black answers like this
+yithril [1d\]: and now white has some aji left
+yithril [1d\]: later
+ImNoSensei [-\]: if B lives locally and surrounded, top white is much healthier
+]
+(;W[ic]C[yithril [1d\]: whites gotta deal with his top group first though
+]
+;B[hd]
+(;W[ld]LB[kc:A]C[yithril [1d\]: i didnt like this shape but i see why white does it.
+yithril [1d\]: there is still a weakness at A in the foreseeable future
+yithril [1d\]: but
+]
+;B[ho]C[yithril [1d\]: black deals with his group
+]
+(;W[gq]C[yithril [1d\]: white takes blacks shape away
+yithril [1d\]: if b played here he'd have a nice table shape
+]
+;B[fr]
+;W[mq]C[yithril [1d\]: and now white extends himself, to strengthen his bottom stones and to try to use his probe stone
+]
+;B[ch]C[yithril [1d\]: but black doesnt have to really answer so he plays the left side
+yithril [1d\]: and pincers the top left
+yithril [1d\]: here is where the game gets interesting
+]
+;W[cc]C[yithril [1d\]: if we look at just the upper left shape
+]
+(;B[cl]C[yithril [1d\]: impressive move
+Slarty [-\]: also H16 is in the proper place
+yithril [1d\]: instead
+yithril [1d\]: black creates the same idea on both sides of the board
+]
+(;W[cb]C[Whats the difference between c 18 and c2?yithril [1d\]: white chooses to defend  the top
+yithril [1d\]: why?
+yithril [1d\]: its not easy 
+wicket [-\]: prolly his mood at the time:)
+GaretJax [7k\]: because b gets too much if he takes the corner and his group is more secure than before
+apple [2d\]: hi jon - pro game reviews at 10 pm i thought
+Slarty [-\]: weak B group now
+ImNoSensei [-\]: very complex question, lots to read
+GaretJax [7k\]: whereas now he is touching d18
+wicket [-\]: other than that i'll go for the 'is weakest group' answe:)
+yithril [1d\]: nah its at 6 apple ;)
+wicket [-\]: (though it's not clear it is)
+yithril [1d\]: we're gmt -4
+apple [2d\]: ah
+yithril [1d\]: personally
+yithril [1d\]: i think this move really weakens black at  the top
+yithril [1d\]: that is correct
+yithril [1d\]: also
+yithril [1d\]: the black stones on the bottom
+yithril [1d\]: have a slight shape weakness
+ImNoSensei [-\]: I think w has a better answer to C2 than to C18
+ImNoSensei [-\]: with the hane
+GaretJax [7k\]: G18?
+yithril [1d\]: that white can use to strengthen the bottom
+]
+;B[cr]C[yithril [1d\]: in the game black plays here
+]
+;W[eo]SQ[fp]C[yithril [1d\]: beautiful
+]
+;B[gp]
+;W[em]C[yithril [1d\]: now white comes out into the center with beautiful shape
+]
+;B[oc]C[yithril [1d\]: black protects the cut
+]
+;W[nb]
+;B[bf]C[yithril [1d\]: and also plays this move to help out the side
+]
+;W[be]
+(;B[lo]C[yithril [1d\]: now black needs to make his potential 
+ImNoSensei [-\]: amazing move =)
+yithril [1d\]: this is beautiful
+apple [2d\]: m4 is there
+]
+(;W[ko]C[ImNoSensei [-\]: from memory
+]
+;B[kn]
+;W[jo]
+;B[jn]C[ImNoSensei [-\]: I believe black can cut that
+]
+(;W[lp]C[GaretJax [7k\]: I guess there is a cut
+yithril [1d\]: dont think you can hasami there
+ImNoSensei [-\]: if w plays n5
+]
+;B[mo]C[GaretJax [7k\]: wait
+GaretJax [7k\]: instead of m 5 maybe n5?
+yithril [1d\]: this is a one way street
+]
+;W[io]
+;B[in]C[GaretJax [7k\]: seems like there shoudl be invasion potential
+yithril [1d\]: not really
+apple [2d\]: because white is weak on the bottom
+GaretJax [7k\]: but I guess that's why it is such a good move
+yithril [1d\]: white doesnt have much choice but to be closed
+yithril [1d\]: its rather painful
+ImNoSensei [-\]: there is no shape to break through really
+]
+;W[hp]
+;B[fn]
+;W[en]
+;B[ke]C[yithril [1d\]: another interesting move ;)
+yithril [1d\]: our moves need to work together
+apple [2d\]: lol
+yithril [1d\]: so black has to continue to create larger potential in the center
+]
+;W[je]C[yithril [1d\]: white resists
+]
+;B[kc]C[apple [2d\]: yay
+yithril [1d\]: but now his little shape defect comes to light
+]
+;W[kd]
+;B[ib]
+;W[jb]
+;B[jc]
+;W[kb]C[apple [2d\]: now black group settled
+]
+;B[id]
+;W[lc]C[yithril [1d\]: white is smaller now
+]
+;B[bm]
+;W[hn]
+(;B[hm]C[yithril [1d\]: good thing to know as well
+yithril [1d\]: dont be obssesed about every stone
+yithril [1d\]: oftentimes counter ataris are very nice
+]
+;W[go]
+;B[fp]
+;W[br]C[yithril [1d\]: w tries to strengthen himself
+yithril [1d\]: plus take away the bottom b groups eye potential
+yithril [1d\]: and aim at trying to come out
+]
+;B[bp]C[yithril [1d\]: very severe
+]
+;W[bo]
+;B[ek]C[apple [2d\]: e9 defends cut
+yithril [1d\]: another severe move capp here to limit w's options for going into the center
+]
+;W[lh]C[yithril [1d\]: w's like
+yithril [1d\]: "black is getting waaayyy too large"
+yithril [1d\]: if black gets a move here
+yithril [1d\]: his center is simply too big to control
+apple [2d\]: no, just say it, yithril:  whites like, crap
+apple [2d\]: im losing
+apple [2d\]: XD
+yithril [1d\]: its important to limit or move into your opponents moyo before it gets too big
+]
+;B[oi]C[yithril [1d\]: solid move
+]
+;W[np]C[Jamal [4k\]: there is no territory in the center
+]
+(;B[on]C[Slarty [-\]: if W felt he was losing, wouldn't he go deeper than that?
+yithril [1d\]: i dont think w feels he is losing
+apple [2d\]: if black gets all that
+yithril [1d\]: it seems he is calmly reducing
+]
+;W[oo]C[apple [2d\]: got all that*
+]
+;B[pn]
+;W[mi]
+;B[nr]
+;W[pr]
+;B[kg]
+;W[lg]
+;B[kh]C[ImNoSensei [-\]: because that is uber-pro power
+ImNoSensei [-\]: this move makes everything that happens later possible
+ImNoSensei [-\]: extremely deep reading on this weird looking stone
+yithril [1d\]: personally its one of those control the center moves but at first i was very weirded out by blacks play here
+yithril [1d\]: seems sooooo heavy
+ImNoSensei [-\]: it's a kill white in a few moves move
+]
+;W[lf]
+;B[mr]
+;W[lr]
+;B[rp]C[ImNoSensei [-\]: oh cough
+apple [2d\]: lol
+ImNoSensei [-\]: do you mind interruptions ?
+yithril [1d\]: dont care
+ImNoSensei [-\]: come back to those two heavy stones in the centre at L12
+]
+;W[nj]C[yithril [1d\]: more calm reduction
+]
+;B[ok]
+(;W[fk]C[yithril [1d\]: and now white uses the cut aji to come out
+]
+;B[gn]
+;W[ho]
+;B[gl]C[yithril [1d\]: black defends
+yithril [1d\]: and now the game gets violent
+]
+;W[dk]
+;B[dl]
+;W[fm]
+;B[gm]
+;W[ej]C[apple [2d\]: and thats why you picked it
+]
+;B[el]
+;W[fl]
+;B[dj]
+;W[di]
+;B[cj]
+;W[bg]
+;B[ao]
+(;W[bn]
+;B[cp]
+;W[dq]
+;B[an]
+;W[cs]
+;B[fj]
+(;W[ei]C[yithril [1d\]: personally
+yithril [1d\]: given the result
+yithril [1d\]: i dont know if w should just connect here
+]
+;B[eq]
+;W[ds]
+;B[er]
+;W[bq]
+;B[gk]C[ImNoSensei [-\]: B is trying to make W live in gote then lose
+yithril [1d\]: cuz now b seals him
+ImNoSensei [-\]: hence the two stones in centre
+yithril [1d\]: actually white dies now 
+ImNoSensei [-\]: that's how deep B read when he played them
+]
+;W[ci]
+;B[dm]
+;W[bj]C[ImNoSensei [-\]: he doesn't have to
+]
+;B[ck]C[ImNoSensei [-\]: he suicides
+]
+;W[co]
+;B[ap]
+(;W[hf]C[yithril [1d\]: this is an awesome move
+yithril [1d\]: covers the top group
+yithril [1d\]: which white is going to viciously attack
+yithril [1d\]: also
+]
+(;B[gi]C[yithril [1d\]: since luo xi he defended
+yithril [1d\]: so defense is needed
+]
+;W[gb]C[yithril [1d\]: white attacks eyeshape
+]
+;B[gf]
+;W[gg]
+;B[fb]
+;W[ec]
+;B[ed]
+;W[ge]
+;B[ff]
+;W[he]C[GaretJax [7k\]: woohoo! g18
+]
+;B[dc]
+;W[fd]
+;B[eb]
+;W[fh]C[yithril [1d\]: now b is sealed
+]
+;B[ga]
+;W[ha]
+;B[ea]C[yithril [1d\]: and the ko of epic proportions begins
+]
+;W[fa]
+(;B[bi]
+;W[bh]
+;B[ga]C[yithril [1d\]: the next few moves
+yithril [1d\]: are all ko threats
+]
+;W[bk]
+;B[aq]
+;W[fa]
+;B[cd]
+;W[de]
+;B[ga]
+;W[op]
+;B[pq]
+;W[fa]
+;B[bc]
+;W[bd]
+;B[ga]
+;W[fi]
+;B[gj]
+;W[fa]
+;B[ca]
+;W[bb]
+;B[ga]
+;W[ar]
+;B[am]
+;W[fa]
+;B[ab]
+;W[ce]
+;B[ga]
+;W[bl]
+;B[cm]
+;W[fa]
+;B[qg]
+;W[qh]
+;B[ga]
+;W[nq]
+;B[gc]C[ImNoSensei [-\]: o3 losing mov
+ImNoSensei [-\]: move*
+yithril [1d\]: i think because
+hidan18 [1k\]: ah
+hidan18 [1k\]: nvm
+hidan18 [1k\]: ☺
+yithril [1d\]: heheh
+]
+;W[fa]
+;B[fe]C[yithril [1d\]: here black starts another kosequence
+yithril [1d\]: luo xihe is the king of ko, apparently thats his nickname
+]
+;W[gd]C[hidan18 [1k\]: y did white react on r13?
+]
+;B[ga]
+;W[bs]
+;B[do]
+;W[fa]
+;B[ba]
+;W[ac]
+;B[ga]
+;W[dn]
+;B[ep]
+;W[fa]
+;B[ie]
+;W[if]
+;B[ga]
+;W[do]
+;B[es]
+;W[fa]
+;B[jf]
+;W[ga]
+;B[hg]
+;W[ig]C[apple [2d\]: wow
+yithril [1d\]: another ko coming up
+]
+;B[hh]
+;W[ih]
+;B[ii]
+;W[ee]
+;B[jh]C[apple [2d\]: hahaha
+hidan18 [1k\]: lol
+GaretJax [7k\]: wow
+GaretJax [7k\]: wtf
+]
+;W[ec]
+;B[le]
+;W[kf]
+;B[ed]
+;W[oj]C[GaretJax [7k\]: awesome
+]
+;B[jg]C[GaretJax [7k\]: snapback trheat
+yithril [1d\]: black takes the ko
+apple [2d\]: ?!
+yithril [1d\]: well takes the stones
+yithril [1d\]: i should say
+]
+;W[pj]C[TensaiFuji [5k\]: game over for white
+]
+;B[ob]
+;W[pb]
+;B[me]
+;W[oa]
+;B[pk]C[apple [2d\]: omg
+apple [2d\]: XD i like this game
+yithril [1d\]: isnt  this insane?
+ImNoSensei [-\]: W tries to kill, last chance
+]
+;W[qk]C[GaretJax [7k\]: b lives up there?
+]
+;B[rk]
+;W[ql]
+;B[rl]
+;W[qm]
+;B[rm]C[yithril [1d\]: w creates aji
+apple [2d\]: o10 dies
+yithril [1d\]: by cutting
+]
+;W[nl]
+;B[ol]
+;W[nm]
+;B[nk]
+;W[mk]
+;B[om]
+;W[ne]C[ImNoSensei [-\]: now he fails seki 
+]
+;B[mf]
+;W[nf]
+;B[mg]
+;W[pc]
+;B[ng]
+;W[mj]
+;B[nd]
+;W[md]C[ImNoSensei [-\]: :<
+]
+;B[oe]
+;W[ne]
+;B[ml]
+;W[ll]
+;B[mm]C[yithril [1d\]: here w resigns
+GaretJax [7k\]: oh wow
+apple [2d\]: lol yeah
+GaretJax [7k\]: he really wins the semeai?
+Jamal [4k\]: can u play it out?
+yithril [1d\]: hmm
+yithril [1d\]: lets see
+GaretJax [7k\]: Must start with m11
+ImNoSensei [-\]: w can't make seki
+Jamal [4k\]: p16
+yithril [1d\]: its w's turn
+yithril [1d\]: this is the last move of the game
+GaretJax [7k\]: ok
+ImNoSensei [-\]: firstly
+yithril [1d\]: okay imnosensei
+ImNoSensei [-\]: can I have ctrl
+ImNoSensei [-\]: I'll just replay
+ImNoSensei [-\]: this is not me
+ImNoSensei [-\]: this comes from Fan Hui 2p
+hidan18 [1k\]: ah wait
+ImNoSensei [-\]: W resigned here because
+]
+(;W[od]C[ImNoSensei [-\]: but it's quite hard to read out everything
+yithril [1d\]: if w takes
+GaretJax [7k\]: thought it was b's move
+GaretJax [7k\]: 4 libs
+GaretJax [7k\]: vs 3 external
+GaretJax [7k\]: sort of
+Slarty [-\]: looks a lot like seki
+hidan18 [1k\]: maybe white loses even if he wins the semeai
+ImNoSensei [-\]: my bad
+ImNoSensei [-\]: can't kill
+ImNoSensei [-\]: only seki
+yithril [1d\]: i think seki too
+yithril [1d\]: in which case w wont have enough points
+ImNoSensei [-\]: yes W is destroyed
+TensaiFuji [5k\]: thats seki? doesnt white win that?
+GaretJax [7k\]: m11, n12, something like L9 or some crazy crap
+yithril [1d\]: personally this part im not sure
+GaretJax [7k\]: must start n 11 though
+hidan18 [1k\]: ?
+yithril [1d\]: there is a stone there ;)
+hidan18 [1k\]: m11*?
+GaretJax [7k\]: m11, sorry
+GaretJax [7k\]: possible L8?
+GaretJax [7k\]: after m11
+GaretJax [7k\]: l11 is stoo slow at removing the liberties
+reggel [8k\]: y notl 11 after O6?
+GaretJax [7k\]: maybe we're wrong on w'd first move somehow?
+ImNoSensei [-\]: I remember spending like an hour making it seki
+apple [2d\]: m11 n12 l9 is tried too?
+]
+(;B[li]C[ImNoSensei [-\]: Lee ChangHo did two misreads in this game, but one brilliant move
+yithril [1d\]: this one?
+GaretJax [7k\]: yeah
+GaretJax [7k\]: maybe b makes an eye
+]
+;W[mh]C[ImNoSensei [-\]: this game's actually known for W's genius, even if he lost
+hidan18 [1k\]: m9 now
+GaretJax [7k\]: does like m9 somehow make magic workiness?
+hidan18 [1k\]: ☺
+GaretJax [7k\]: but that doesn't give him enough still
+hidan18 [1k\]: i think m9 is working
+hidan18 [1k\]: play it till the end
+]
+(;B[lk]C[yithril [1d\]: this one?>
+hidan18 [1k\]: yea
+yithril [1d\]: ill give you control
+GaretJax [7k\]: m10
+]
+;W[kk]C[ImNoSensei [-\]: you know ironicly, W could kill the top and misread the tsumego ?
+hidan18 [1k\]: hmm
+ImNoSensei [-\]: I forgot the sequence though
+ImNoSensei [-\]: sadly, the pro who did a lecture on this one did not play out the seki
+TensaiFuji [5k\]: friends lol
+]
+(;B[ki]
+;W[lj]
+;B[kj]C[yithril [1d\]: what like this?
+GaretJax [7k\]: can't be
+])
+(;B[kj]
+;W[lj]
+;B[ki]C[apple [2d\]: m9 just doesnt work xD
+ImNoSensei [-\]: b already dead
+]
+;W[lm]
+;B[nn]C[TensaiFuji [5k\]: this dont look good, one eye beats no eye
+apple [2d\]: k9 
+ImNoSensei [-\]: b dies
+apple [2d\]: XD
+]
+;W[ik]C[hidan18 [1k\]: lol
+]
+;B[jk]
+;W[jl]
+;B[jj]
+;W[km])
+(;B[kl]C[ImNoSensei [-\]: lemme see if he did and I forgot  though
+TensaiFuji [5k\]: yes now play it
+hidan18 [1k\]: lol
+]
+;W[lm]C[TensaiFuji [5k\]: hidan go back a bit
+]
+;B[nn]
+;W[km]
+(;B[jl]
+;W[lj]C[apple [2d\]: even more dead
+TensaiFuji [5k\]: l11
+]
+;B[ki]C[TensaiFuji [5k\]: now
+TensaiFuji [5k\]: no
+]
+(;W[ni]C[apple [2d\]: errr
+])
+(;W[nd]
+;B[kj]C[GaretJax [7k\]: if one eye always won, b could N12, o11
+apple [2d\]: ummm
+]
+(;W[ni]C[TensaiFuji [5k\]: maybe forming two eyes was best
+])
+(;W[nf]
+;B[jk]C[apple [2d\]: o16 is wrong.....
+]
+;W[ni])))
+(;B[kj])
+(;B[ki]C[TensaiFuji [5k\]: hmm
+]
+;W[lj]
+(;B[kj]
+;W[jl])
+(;B[jl]
+;W[nd]
+;B[kj]
+;W[nf]
+;B[jk]
+;W[ni]
+;B[lk]
+;W[nh]C[TensaiFuji [5k\]: hmm
+hidan18 [1k\]: b+20 still
+hidan18 [1k\]: according to se
+hidan18 [1k\]: ☺
+apple [2d\]: XD
+hidan18 [1k\]: lol
+yithril [1d\]: yay for SE
+apple [2d\]: p2 j19 
+apple [2d\]: XD
+]
+(;B[or]
+;W[ia]C[apple [2d\]: l9 
+apple [2d\]: lol
+]
+;B[hb]
+;W[ja]C[yithril [1d\]: im really interested
+apple [2d\]: XD
+]
+(;B[da])
+(;B[ls]
+;W[ks]C[yithril [1d\]: to see how this is supposed to go
+]
+;B[ms]
+;W[al]
+;B[as]
+;W[aa]
+;B[da]C[ImNoSensei [-\]: granted I cheated, but got it
+]
+;W[po]
+;B[qo]C[apple [2d\]: hidan your endgame sucks
+apple [2d\]: lol
+]
+;W[gr]C[hidan18 [1k\]: lol
+apple [2d\]: finally
+]
+;B[gs]C[apple [2d\]: XD
+]
+;W[hs]
+;B[fs]C[apple [2d\]: jk
+]
+;W[ab]C[apple [2d\]: omg
+hidan18 [1k\]: b+13
+hidan18 [1k\]: ☺
+apple [2d\]: l9...........
+]
+;B[kk]C[hidan18 [1k\]: ah
+hidan18 [1k\]: forgot that
+hidan18 [1k\]: ☺
+yithril [1d\]: ok so thats it for the lecture today
+apple [2d\]: lol
+yithril [1d\]: thank you all for coming ;)
+reggel [8k\]: isc13 agood yose move?
+reggel [8k\]: is c13*
+hidan18 [1k\]: so he resigned because he wouldve lose anyway
+reggel [8k\]: for b
+hidan18 [1k\]: lost*
+ChemBoy613 [7k\]: E13 insteadof C13 :)\\
+hidan18 [1k\]: ah
+hidan18 [1k\]: forgot it too
+hidan18 [1k\]: ☺
+apple [2d\]: hidan, play me now?
+hidan18 [1k\]: =O
+reggel [8k\]: w8
+ImNoSensei [-\]: I have your answer guys
+hidan18 [1k\]: but friends is gonna start soon
+reggel [8k\]: cansomeone anser my question?
+hidan18 [1k\]: ☺
+]))
+(;B[ia]
+;W[or]))))
+(;B[lj]C[TensaiFuji [5k\]: yea here
+]
+;W[ki]))
+(;B[kl]
+;W[lm]
+;B[nn]
+(;W[lj]
+;B[ki])
+(;W[lk]C[apple [2d\]: black dies now
+ImNoSensei [-\]: b dead
+reggel [8k\]: y notl 11?
+yithril [1d\]: b is dead now
+GaretJax [7k\]: with n12 and then o11
+])
+(;W[ki]C[yithril [1d\]: doesnt so much make a difference
+]))
+(;B[lj]
+;W[lk]C[ImNoSensei [-\]: nah
+ImNoSensei [-\]: it's more complex
+yithril [1d\]: i tried this one earlier
+apple [2d\]: XD
+])
+(;B[kj]
+;W[lk]C[GaretJax [7k\]: now w just kills
+ImNoSensei [-\]: hm
+apple [2d\]: l9, not l10 
+reggel [8k\]: y not L 8?
+])
+(;B[kk]C[GaretJax [7k\]: maybe it has to start with m9?
+]
+;W[lk]C[apple [2d\]: l8 
+]
+;B[kl]
+;W[lm]
+;B[nn]C[apple [2d\]: no
+TensaiFuji [5k\]: white by 1 lib
+apple [2d\]: yeah
+yithril [1d\]: yeah
+apple [2d\]: hm
+yithril [1d\]: this ones tough
+hidan18 [1k\]: try m9 again
+]))
+(;B[kj]C[ImNoSensei [-\]: I think an ugly sequence like m11 n12 m10 might actually work
+]))
+(;W[kk]C[hidan18 [1k\]: nvm
+hidan18 [1k\]: ☺
+ImNoSensei [-\]: if W does this
+]
+;B[or]C[ImNoSensei [-\]: B keeps this
+ImNoSensei [-\]: and has too many points
+yithril [1d\]: makes sense
+ImNoSensei [-\]: even if W kills
+])
+(;W[or]C[GaretJax [7k\]: so we spent 30 minutes trying to get a seki that didn't exist
+ImNoSensei [-\]: and if W does this
+apple [2d\]: lol
+ImNoSensei [-\]: this is seki :
+apple [2d\]: yes
+GaretJax [7k\]: oh
+reggel [8k\]: can some one atleast anser if c 13 for b is a good yose move?
+apple [2d\]: somehow
+yithril [1d\]: not its not reggel
+apple [2d\]: c13 is bad
+hidan18 [1k\]: bad
+]
+;B[kk]C[yithril [1d\]: okay
+ImNoSensei [-\]: this is seki
+GaretJax [7k\]: no, can't connect
+hidan18 [1k\]: e13 ok
+]
+;W[lk]C[apple [2d\]: so i was part right.
+]
+;B[kl]C[apple [2d\]: XD
+reggel [8k\]: but b can get a point :D
+apple [2d\]: just no m11 
+ImNoSensei [-\]: now it is seki and W can resign as well
+yithril [1d\]: okay
+reggel [8k\]: well not now
+yithril [1d\]: fan  hui went over this game when?
+ImNoSensei [-\]: long time ago
+ImNoSensei [-\]: let me give you the month
+reggel [8k\]: but...oh forgetit
+apple [2d\]: what reggel
+ImNoSensei [-\]: April 2006
+yithril [1d\]: kgs plus thing?
+ImNoSensei [-\]: yea, in French of course
+yithril [1d\]: cool
+ImNoSensei [-\]: the sad thing is that W was short on time and tired
+ImNoSensei [-\]: so he misread the top right
+ImNoSensei [-\]: he COULD kill
+yithril [1d\]: man
+yithril [1d\]: thats gotta suck
+apple [2d\]: yeah
+ImNoSensei [-\]: also
+hidan18 [1k\]: but he was still losing by about 15 anyway
+ImNoSensei [-\]: he played O3 because he hadn't seen B had more threats with that second ko
+hidan18 [1k\]: even if he kills
+ImNoSensei [-\]: if W kills he wins
+yithril [1d\]: top is really brilliant
+hidan18 [1k\]: se says differently
+ImNoSensei [-\]: so W played C11
+hidan18 [1k\]: ☺
+ImNoSensei [-\]: instead of living at bottom left
+ImNoSensei [-\]: and when he played C11
+ImNoSensei [-\]: he had read ALL of it
+ImNoSensei [-\]: except one ko threat he hadn't seen
+apple [2d\]: wow
+apple [2d\]: that sucks
+ImNoSensei [-\]: yea Lee ChangHo was brilliant this game
+ImNoSensei [-\]: Luo Xihe had 45 minutes left
+yithril [1d\]: wish i had half that much reading power
+ImNoSensei [-\]: he was in byo yomi during the ko
+ImNoSensei [-\]: hard to not misread something
+apple [2d\]: wish i had 1/100 of the reading power displayed in the game
+ImNoSensei [-\]: *cheers for W, beautiful defeat*
+yithril [1d\]: hehehe
+GaretJax [7k\]: Apple, if they read iven 200 moves ahead, you just wished you could read 2 moves ahead :P
+ImNoSensei [-\]: this is game 1 2005 Samsung Cup right ?
+apple [2d\]: sorry
+yithril [1d\]: 2006
+ImNoSensei [-\]: or game 2
+ImNoSensei [-\]: ah yes 2006
+yithril [1d\]: 1st round
+apple [2d\]: garetjax, it means that they read much more
+apple [2d\]: during the entire game
+ImNoSensei [-\]: it's funny how next game with exact same moves W made a huge moyo
+ImNoSensei [-\]: instead of B
+apple [2d\]: how many sequences were read
+ImNoSensei [-\]: and lost again
+GaretJax [7k\]: good point, was not thinking about other sequences
+yithril [1d\]: its rough being lee changho
+ImNoSensei [-\]: yea =)
+apple [2d\]: and how many went unread because they didnt need to even think about it
+ImNoSensei [-\]: have you studied the game after this one ?
+apple [2d\]: that kind of power
+yithril [1d\]: i just picked t his one at random
+ImNoSensei [-\]: ah
+yithril [1d\]: but i think il lstudy the game after
+ImNoSensei [-\]: it's a good one
+ImNoSensei [-\]: good lecture =)
+ImNoSensei [-\]: thanks
+yithril [1d\]: i mgiht do the next game next week
+hidan18 [1k\]: thx
+hidan18 [1k\]: ☺
+GaretJax [7k\]: I'm still proud of my g18 catch :P
+ImNoSensei [-\]: Fan Hui also did the next game
+ImNoSensei [-\]: so you know, if you need to prepare
+ImNoSensei [-\]: *wink wink*
+yithril [1d\]: nudge nudge
+apple [2d\]: XD
+yithril [1d\]: well i hope people enjoyed it
+yithril [1d\]: im going to relaxinate
+GaretJax [7k\]: Yithril - when I get there, you can use my lappy for voice maybe
+ImNoSensei [-\]: yes, hadn't seen this game played out in a year :D
+apple [2d\]: thx yithril
+GaretJax [7k\]: thank you sensei
+hidan18 [1k\]: arigatou o gazaimasu
+hidan18 [1k\]: ☺
+hidan18 [1k\]: gozaimasu*
+]))
+(;B[]
+;W[]
+;B[ga]
+;W[aa]
+;B[gc]))
+(;B[]
+;W[gj]
+;B[fi]
+;W[gi]
+;B[fh]
+;W[gg]C[yithril [1d\]: i think something like this might work
+yithril [1d\]: so now h14 is in the right spot
+yithril [1d\]: even if
+]
+;B[bi]
+;W[bh]
+;B[dh]
+;W[ai]
+;B[eh]
+;W[bi]C[yithril [1d\]: b does get these kinds of forces
+yithril [1d\]: but i still think he is covered
+]
+;B[ef]
+;W[fe]))
+(;W[bk]
+;B[aq]
+;W[ar]
+;B[am]
+;W[bs]
+;B[do]
+;W[dn]
+;B[cm]
+;W[bl]
+;B[ep]
+;W[do]
+;B[es]))
+(;W[gk]
+;B[ei]
+;W[er]
+;B[ar]
+;W[aq]
+;B[bq]))
+(;W[an]
+;B[bn]
+;W[ap]
+;B[co]
+;W[cp]
+;B[ao]))
+(;W[gm]
+;B[gn]
+;W[ho]
+;B[fm]
+;W[gl]
+;B[fl]C[Not good for white.]))
+(;B[no]C[Why not here?]))
+(;B[go]C[Why not here?]
+;W[hm]))
+(;W[mo]C[GaretJax [7k\]: yeah
+]))
+(;W[mo]C[GaretJax [7k\]: little further in sequence
+GaretJax [7k\]: here too maybe
+yithril [1d\]: here?
+]
+;B[mn]
+;W[no]C[GaretJax [7k\]: move t64
+]
+;B[nn]
+;W[oo]C[GaretJax [7k\]: *64
+]))
+(;B[mo]C[ImNoSensei [-\]: m5 is the best move ever
+GaretJax [7k\]: no
+GaretJax [7k\]: for w
+]))
+(;W[cr]
+;B[cb]
+;W[ef]
+;B[eh]C[yithril [1d\]: i also think
+yithril [1d\]: if w defends the bottom
+yithril [1d\]: it'll naturall make black stronger in the middle
+yithril [1d\]: *naturally
+]))
+(;B[cb]
+(;W[bb]C[yithril [1d\]: if w hanes
+]
+;B[bd]
+;W[bc]
+;B[ce]
+;W[de]
+;B[bf]C[yithril [1d\]: black can gouge out whites eyes if w resists
+])
+(;W[ef]C[yithril [1d\]: white would have to escape somehow into the center
+])))
+(;W[gp]
+;B[fp]
+;W[go]
+;B[gn]
+;W[hn]
+;B[io]
+(;W[iq]
+;B[fm]
+;W[in]
+;B[jn])
+(;W[fn]
+;B[gm]
+;W[en]
+;B[iq]
+;W[ir]
+;B[hr])))
+(;W[lc]C[yithril [1d\]: this is much flatter and has less of an effect on the center
+yithril [1d\]: which is what white wants
+]))
+(;W[rp]
+;B[ro]
+;W[rr]
+(;B[sp]
+;W[sq])
+(;B[pr]
+;W[qr]
+;B[sp]
+;W[sq]
+;B[so]
+;W[pq]
+;B[or]
+;W[op]))
+(;W[or]C[yithril [1d\]: if b tries to kill this
+]
+(;B[nr]
+;W[pr]
+;B[mq]
+(;W[rp]
+;B[ro]
+;W[rr]
+;B[sp]
+;W[rq])
+(;W[rr]C[yithril [1d\]: white will have enoug hroom
+]))
+(;B[pr]
+;W[nr]
+;B[qr]C[yithril [1d\]: this could also happen
+yithril [1d\]: strengthening the outsid ewhite group
+])))
+(;W[]
+;B[ep]
+;W[]
+;B[do]
+;W[co]
+;B[dq]
+;W[cp]C[Black has moves like this to make shape]))
+(;
+;W[]
+;B[jp]C[yithril [1d\]: for instance here or a little lower
+yithril [1d\]: b's potential in the center
+yithril [1d\]: is huge
+GaretJax [7k\]: moyo of doom
+]))
+(;B[cc]
+;W[hc]))
+(;W[qe]
+(;B[qd]C[yithril [1d\]: black blocks
+]
+;W[og]C[yithril [1d\]: white needs to come out
+]
+;B[nd]C[yithril [1d\]: black makes shape
+]
+;W[md]
+;B[ng]
+;W[od]
+;B[pe]
+;W[qh]
+;B[qi]
+;W[oh]C[yithril [1d\]: empty triangle but we need to get out
+]
+;B[ne]
+;W[nh]
+;B[mc]SQ[qp][oq]C[yithril [1d\]: this is one variation but i think overally the fighting will be hard on white
+yithril [1d\]: because
+yithril [1d\]: this shimari on the bottom and f17
+yithril [1d\]: the rest of the whites stones are on the left side of the boar
+yithril [1d\]: *board
+yithril [1d\]: black has more control in this part and the fighting should go easier for him
+])
+(;B[od]C[yithril [1d\]: please dont do this one
+])))
+(;W[of]
+;B[nd]
+;W[rd]
+;B[qc]
+;W[ri]
+;B[cc]))
+(;W[cc]
+;B[ic]
+(;W[qf]C[yithril [1d\]: this is possible
+yithril [1d\]: depends on style
+])
+(;W[eq])))
+(;B[dq]C[yithril [1d\]: black can still attach at d3
+]
+;W[cq]
+(;B[ep]
+;W[dr]
+;B[er]C[This is a ko and can be very pesky for white.yithril [1d\]: there is this ko
+yithril [1d\]: but you have to calculate quite a bit
+yithril [1d\]: if B has enough ko threats this could get dangerous for w
+])
+(;B[cr]C[yithril [1d\]: more often then not black will play this move
+yithril [1d\]: double hane
+]
+(;W[eq]
+;B[dr]C[yithril [1d\]: i wont go over all the variations
+wicket [-\]: is interesting that  W doesn't play this right away in the game
+wicket [-\]: um
+wicket [-\]: B even:)
+Slarty [-\]: i don't think W"s 4th move is going to be severe
+]
+(;W[ep]C[masek [-\]: c4 
+]
+(;B[er]
+;W[bq]
+;B[fp]C[yithril [1d\]: this is one
+]
+;W[ho])
+(;B[cp]
+;W[bq]
+;B[bp]
+;W[br]
+;B[bs]
+;W[er]
+;B[ar]C[yithril [1d\]: lots of variations here to choose from
+]))
+(;W[er]
+;B[ep]))
+(;W[dr]
+;B[eq]
+;W[br]
+;B[cp]
+;W[bq]
+;B[do]))))
+(;W[fp]C[yithril [1d\]: this move is logical
+yithril [1d\]: since b tenuki'd
+yithril [1d\]: we'd want to cover black as severely as possible right?
+masek [-\]: yeap=)logical=)
+wicket [-\]: B's going to tenuki after h3, why not just play p3 straight away?
+masek [-\]: f3 stil remain aji
+yithril [1d\]: possible
+masek [-\]: to live in corner
+yithril [1d\]: f3 has a lot of aji
+yithril [1d\]: im  going to go over some variations
+]
+(;B[ep]C[yithril [1d\]: black can warikomi here
+]
+(;W[eq]
+;B[eo]
+(;W[fo]C[yithril [1d\]: white can fight like this though
+]
+;B[dq]
+;W[er]
+(;B[en]C[yithril [1d\]: also possible
+]
+;W[cq]
+;B[fn]
+;W[gn]
+;B[gm]
+;W[hn]
+;B[hm]
+;W[in]
+;B[im]
+;W[jn]
+;B[cf])
+(;B[fn]C[yithril [1d\]: force first
+yithril [1d\]: then hane
+]
+;W[gn]
+;B[en]
+;W[cq]
+;B[gm]
+;W[hn]
+;B[hm]
+;W[in]
+;B[im]
+;W[jn]
+;B[cf]C[yithril [1d\]: lot of korean pros
+yithril [1d\]: do this
+yithril [1d\]: to create a large moyo
+]))
+(;W[dq]C[yithril [1d\]: We'd like to play this
+yithril [1d\]: problem is the ladder
+]
+;B[gp]
+;W[fr]
+;B[fo]C[yithril [1d\]: ponnuki is rather painful
+]))
+(;W[eo]
+;B[eq]
+;W[gp]
+;B[dq]
+;W[cp]
+;B[cq]
+;W[bp]
+;B[bq]
+;W[fn]C[yithril [1d\]: if we leave this out then white has a lot of cutting points
+yithril [1d\]: and therefore weak shape
+]
+;B[dn]C[Kim In - Choi Myunghun]
+;W[do]
+;B[ci]C[masek [-\]: cool=)
+yithril [1d\]: this is not necessarily considered good for w
+yithril [1d\]: because f6 is needed
+yithril [1d\]: and b can erase whites influence 
+yithril [1d\]: while taking territory
+]))
+(;B[cj]LB[ep:A][cq:C][eq:B]C[Very interesting move.wicket [-\]: how do you know this btw, is this from a book, or your research on games?
+yithril [1d\]: research
+yithril [1d\]: i review lots of pro games
+wicket [-\]: k
+wicket [-\]: cool
+yithril [1d\]: this is an awesome move in my opinion
+yithril [1d\]: quite logical
+yithril [1d\]: black has so many options on the bottom
+yithril [1d\]: Fight at A, take territory at B, or just  take the corner at C
+yithril [1d\]: in Go if we have many options we'd like to leave it open till we are very sure of which option we'd like to take
+yithril [1d\]: so black splits whites formation on the side
+]
+(;W[gq]C[yithril [1d\]: white will play here or
+])
+(;W[eq]C[yithril [1d\]: here to subdue the black stone
+]))
+(;B[eq]
+;W[ep]
+;B[gq]
+;W[gp]
+;B[hr])
+(;B[cq])))
+(;B[cq]C[Some games are played here butyithril [1d\]: or takethe corner
+yithril [1d\]: if black plays the corner like so
+]
+;W[dq]
+;B[cp]
+;W[do]
+;B[dr]
+;W[er]
+;B[cr]
+;W[eq]
+;B[cn]C[yithril [1d\]: this is a basic joseki
+yithril [1d\]: does everyone know it?
+Akira92 [2k\]: yes
+Chronus [8k\]: Yup
+GaretJax [7k\]: High five
+yithril [1d\]: awesome
+yithril [1d\]: whats important in this context
+yithril [1d\]: is that white gets sente
+yithril [1d\]: to play the big move
+]
+;W[op]C[yithril [1d\]: in pro games white plays here
+yithril [1d\]: this is huge
+yithril [1d\]: prevents black from taking the corner
+yithril [1d\]: and presses black down
+yithril [1d\]: very few pros play like this for b
+])
+(;B[fo]C[yithril [1d\]: black could jump out
+yithril [1d\]: black can also do this
+]
+;W[dn]
+;B[ip]
+;W[hp]
+;B[ho]
+;W[iq]
+;B[jp]
+;W[jq]
+;B[kp]
+;W[lq]
+;B[mo]
+;W[mq]
+;B[pj]TR[mo][qp]C[yithril [1d\]: this is a Rin Kaiho game i believe
+yithril [1d\]: thing is
+yithril [1d\]: These two stones are very akward
+]))
+(;W[cn]
+;B[kq]C[yithril [1d\]: if white plays c6 to take territory
+yithril [1d\]: black could play here
+]
+;W[qj]C[Classic mini chinese openingyithril [1d\]: and then white will normally play like this
+]))

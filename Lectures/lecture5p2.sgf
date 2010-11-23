@@ -1,0 +1,531 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Chinese]SZ[19]KM[7.50]
+DT[2007-08-29]PC[The KGS Go Server at http://www.gokgs.com/]C[Lecture 5 - Game Review
+
+Focus : Openingyithril [1d\]: well wait a bit for the others
+bourbaki [1k\]: scribing is harder than i imagined
+yithril [1d\]: yes it is
+bourbaki [1k\]: you can't type anything so you have to paraphrase and be selective
+bourbaki [1k\]: *everything
+hidan18 [1k\]: yes
+DrJoseki [7k?\]: yea
+Jamal [3k\]: ja
+]RE[W+6.50]
+;B[qd]C[bourbaki [1k\]: this game is between 6 and 7 kyu
+]
+;W[dp]
+;B[pq]
+(;W[dc]
+;B[fq]C[bourbaki [1k\]: chemboy is black
+]
+(;W[fp]C[This is not an advisable move, why?bourbaki [1k\]: this move tries to make kobayashi
+bourbaki [1k\]: whtie decides to attach
+bourbaki [1k\]: i do not recomend this move.. why?
+Jamal [3k\]: strengthening a weak stone
+DrJoseki [7k?\]: makes blacks low territory
+DrJoseki [7k?\]: stronger
+mello917 [1d\]: cuz Q3
+]
+;B[gp]
+;W[fo]
+;B[eq]
+;W[dq]
+;B[jq]C[Jamal [3k\]: and does not have proper support on the left
+]
+;W[dn]TR[dc][qd]C[Andy1206 [6k\]: i can tell ur 5k lol
+bourbaki [1k\]: exactly: when we attach to our opponents stones they get stronger
+hidan18 [1k\]: andy is white?
+hidan18 [1k\]: :o
+bourbaki [1k\]: this makes black needlessly strong
+bourbaki [1k\]: if you get strong and they stay the same, it's spectacular
+bourbaki [1k\]: look at the shape up top
+]
+(;B[de]TR[cf][df][cg][dg]C[Wrong direction.  Building influence here doesn't really mean much for B because the bottom is pretty solid.bourbaki [1k\]: it erases black's ability to take the upper right corner
+bourbaki [1k\]: when we do this, we're saying we want to build influence while white takes territory
+shika12 [8k\]: yes
+bourbaki [1k\]: main idea: big and urgent mvoes in the opening
+bourbaki [1k\]: get to them fast
+bourbaki [1k\]: it is much bigger and more efficent to develop the right side because thats where his stones are pointing
+bourbaki [1k\]: like this, we build influence where it is not very useful
+recusant [11k\]: Yes
+Jamal [3k\]: mm hm
+hidan18 [1k\]: hai
+bourbaki [1k\]: next week: second part of the opening
+]
+;W[ce]
+;B[cf]
+;W[cd]
+;B[df]
+;W[fd]
+;B[cj]C[bourbaki [1k\]: in the game, black plays d15.. i do not agree with this direction
+]
+(;W[cl]SQ[bm][cm][bn][cn]C[bourbaki [1k\]: the extension does not do much on the left, so i would take the big point at the top
+bourbaki [1k\]: in the game white does this
+bourbaki [1k\]: it takes very little territory
+]
+(;B[ej]C[shika12 [8k\]: yes i see ur point
+]
+(;W[jc]
+(;B[po]
+;W[od]SQ[po]C[bourbaki [1k\]: this is a little meek; remember: p16 is the big point
+]
+;B[pf]
+;W[pe]C[bourbaki [1k\]: this seems a bit late because he already has q5
+]
+;B[qe]C[bourbaki [1k\]: q15 is an extremely bad move
+]
+;W[md]C[Jamal [3k\]: later b can play p17
+bourbaki [1k\]: white gives black territory and does not gain much
+]
+(;B[oc]
+;W[nc]
+;B[pc]C[bourbaki [1k\]: black plays this way, white is obedient
+bourbaki [1k\]: k15 is very slow
+bourbaki [1k\]: remember, play urgent then big moves
+bourbaki [1k\]: urgent means whoever plays first makes the other weak
+]
+(;W[je]C[Slowbourbaki [1k\]: k15 prevents black from playing there, but black k15 big?
+]
+(;B[oe]C[bourbaki [1k\]: the reason for p14 is because whtie p14 is big
+]
+;W[ne]
+;B[of]
+;W[ff]
+(;B[pj]C[bourbaki [1k\]: this is extremely slow too... its follow up is not severe
+]
+;W[ql]C[Andy1206 [6k\]: yeah i lost
+]
+(;B[ol]C[bourbaki [1k\]: in game, black takes this point; fantastic
+bourbaki [1k\]: make solid territory on the right and keep up the pressure
+]
+;W[rj]
+;B[qi]
+;W[mq]C[Very greedy move.bourbaki [1k\]: this is sort  of a center-emphasizing move, and there's not much center prospects for black
+bourbaki [1k\]: white slides, black covers
+bourbaki [1k\]: white plays a very greedy move
+Jamal [3k\]: jealous fellow
+bourbaki [1k\]: we have a weak group on the right, and we invade elsewhere
+bourbaki [1k\]: ironclad rule: before we invade, make sure our groups are secure first
+]
+;B[ko]
+;W[mo]
+;B[lm]
+;W[qn]
+;B[qo]
+;W[rn]
+;B[pn]
+;W[ro]C[bourbaki [1k\]: black covers, white runs out... white tries to live
+]
+;B[rq]
+;W[ri]C[Jamal [3k\]: g5 is really big
+bourbaki [1k\]: see how n5 is dying a natural death? nowhere to go, no eyespace
+]
+(;B[qh]
+;W[or]
+;B[oq]
+(;W[nr]
+(;B[lp]C[bourbaki [1k\]: this is low; if we are really worried about the right side, build a center
+]
+;W[kr]C[bourbaki [1k\]: chem plays some very soft moves... m2 steals eyespace
+]
+;B[jr]
+;W[pr]
+;B[qr]
+;W[kq]
+(;B[mp]C[Not important, black has a shape weakness and white will try to come out and cause trouble.bourbaki [1k\]: white doesn't care about n5, he wants to live
+bourbaki [1k\]: black pushes through to kill an unimportant stone
+]
+;W[np]
+(;B[nq]C[bourbaki [1k\]: white is still not alive
+]
+;W[kp]
+;B[lq]
+;W[mr]
+;B[lo]TR[ko][jq]
+;W[jp]CR[jp][kp]TR[ko][jq]C[bourbaki [1k\]: now we have som bad aji; now black has bad shape
+]
+;B[ip]
+;W[jo]
+;B[hn]
+(;W[go]C[bourbaki [1k\]: when we are trying to kill things we do not want bad shape
+]
+;B[ho]
+;W[gq]
+;B[hp]
+;W[gr]C[hidan18 [1k\]: :o
+]
+;B[fr]
+;W[fs]
+;B[hr]
+;W[er]
+;B[hq]
+;W[ep]
+;B[jn]
+;W[lr]
+(;B[ps]C[q1 totally unnecesary white is dead in gote so..]
+;W[kn]
+;B[ln]
+;W[in]
+;B[jm]
+;W[io]C[bourbaki [1k\]: rather than worry about A, justbuild in center
+]
+;B[im]
+;W[hm]
+;B[gm]
+;W[hl]
+;B[gn]
+;W[el]C[bourbaki [1k\]: black's hane is needless
+]
+(;B[ks]
+;W[ls]
+;B[js]
+;W[gl]C[bourbaki [1k\]: i prefer this: just walk right through his stones
+]
+;B[ns]
+;W[fm]
+;B[fn]C[shika12 [8k\]: yes
+bourbaki [1k\]: black is worried about the semeai, but there really isn't one
+]
+(;W[en]C[Ridiculously small.bourbaki [1k\]: now whtie gets to connect, and black wastes a few moves
+bourbaki [1k\]: e6 gvies white what: 2 points?
+]
+;B[mg]
+;W[eh]C[bourbaki [1k\]: n13 is more points and reduces black's potential
+]
+;B[dh]
+;W[ei]
+;B[di]
+;W[fj]
+;B[fk]C[weird move.bourbaki [1k\]: black n13 is huge
+]
+;W[ek]
+;B[dj]
+;W[gj]
+;B[gh]C[meaningless attack.  White is strong on both sides.bourbaki [1k\]: this is an extremely weird move
+bourbaki [1k\]: and this is a weird move
+Jamal [3k\]: both groups are alive
+bourbaki [1k\]: paul: white isn't really weak there
+hidan18 [1k\]: deep
+]
+(;W[hh]
+;B[hg]C[Jamal [3k\]: l8 also
+]
+;W[gg]C[bourbaki [1k\]: i would punish thisand make him run, destroying his center territory
+]
+;B[fg]
+;W[gf]
+;B[eg]C[bourbaki [1k\]: it pretty much should die
+]
+;W[fh]C[Past here I dont feel like talking ;)hidan18 [1k\]: XD
+]
+;B[fi]C[bourbaki [1k\]: now the move of the century
+bourbaki [1k\]: TESUJI!!!!!
+]
+;W[gi]
+;B[fh]
+;W[ih]
+;B[ij]
+;W[kh]
+;B[li]
+;W[lh]
+;B[mh]
+;W[ki]
+;B[kj]
+;W[lj]
+;B[mi]
+;W[jj]
+;B[kk]
+;W[jk]
+;B[jl]
+;W[ik]
+;B[lk]
+;W[bk]
+;B[bj]
+;W[nb]
+;B[ob]
+;W[sf]
+;B[rf]
+;W[rh]
+;B[rg]
+;W[sg]
+;B[se]
+;W[sh]
+;B[na]
+;W[ma]
+;B[oa]
+;W[mb]
+;B[kf]
+;W[lf]
+;B[lg]
+;W[kg]
+;B[mf]
+;W[le]
+;B[me]
+;W[ld]
+;B[pd]
+;W[nd]
+;B[il]C[Andy1206 [6k\]: hm
+ChemBoy613 [7k\]: gagh was dame XD  I thought i saw something!
+ChemBoy613 [7k\]: need extra move
+ChemBoy613 [7k\]: just tons of ko threats
+]
+;W[rp]
+;B[qp]
+;W[pm]
+;B[om]C[Shien [8k\]: I think h9 works... white owed a move there
+]
+;W[hs]
+;B[os]C[Shien [8k\]: oh, wait, nvm, one liberty short
+]
+;W[qk]
+;B[ck]
+;W[bl]
+;B[be]
+;W[bd]
+;B[bf]
+;W[pk]
+;B[ok]
+;W[aj]
+;B[ai]
+;W[ed]
+;B[ad]
+;W[ac]
+;B[ae]
+;W[bb]
+;B[is]
+;W[ir]
+;B[ms]
+;W[gs]
+;B[ak]
+;W[al]
+;B[dd]
+;W[sq]
+;B[sr]
+;W[aj]
+;B[ji]
+;W[hk]
+;B[ak]
+;W[nf]
+;B[ng]
+;W[aj]
+;B[pl]
+;W[qm]
+;B[ak]C[Andy1206 [6k\]: whered my threat go :( lol
+ChemBoy613 [7k\]: you don't have many?
+Andy1206 [6k\]: the one that would hurt u most lol
+ChemBoy613 [7k\]: I don't know whos up BTW... your area looks bigger but I have a big kill
+]
+;W[re]
+;B[rd]C[Andy1206 [6k\]: yeah, ur 22 prisoners
+Andy1206 [6k\]: thats an extra 5x4 territory for u
+]
+;W[aj]
+;B[jg]
+;W[jh]
+;B[ak]
+;W[rr]
+;B[sp]
+;W[so]
+;B[sq]
+;W[aj]
+;B[ig]
+;W[hi]
+;B[ak]C[ChemBoy613 [7k\]: nnnnnnnnnnnnnnnnnnnnnnnooooooooooooooooooooooo
+]
+;W[ss]C[ChemBoy613 [7k\]: that took away a threat!!!
+ChemBoy613 [7k\]: nnnnnnnnnnnnnnnnnnnnnooooooooooooo
+]
+;B[rs]
+;W[aj]C[Andy1206 [6k\]: lol
+]
+;B[fl]
+;W[gk]
+;B[ak]C[Andy1206 [6k\]: welll i better not lose by 1 point lol
+]
+;W[ee]
+;B[aj]C[ChemBoy613 [7k\]: i had more threats than you!
+]
+;W[dk]C[wumps [7k\]: then why tenuki :D
+Andy1206 [6k\]: hehe
+]
+;B[qj]C[Andy1206 [6k\]: was t16 one? lol
+]
+;W[]
+;B[ef]C[ChemBoy613 [7k\]: dame, chinese
+]
+;W[]
+;B[]TW[aa][ba][ca][da][ea][fa][ga][ha][ia][ja][ka][la][ab][cb][db][eb][fb][gb][hb][ib][jb][kb][lb][bc][cc][ec][fc][gc][hc][ic][kc][lc][mc][gd][hd][id][jd][kd][fe][ge][he][ie][ke][hf][if][jf][kf][hg][ig][jg][ii][ji][si][hj][ij][sj][fk][rk][sk][dl][fl][rl][sl][am][bm][cm][dm][em][rm][sm][an][bn][cn][sn][ao][bo][co][do][eo][ap][bp][cp][aq][bq][cq][eq][fq][ar][br][cr][dr][fr][as][bs][cs][ds][es]TB[pa][qa][ra][sa][pb][qb][rb][sb][qc][rc][sc][sd][pe][re][af][qf][ag][bg][cg][dg][og][pg][qg][ah][bh][ch][eh][nh][oh][ph][bi][ci][ei][ni][oi][pi][lj][mj][nj][oj][mk][nk][kl][ll][ml][nl][km][mm][nm][in][kn][mn][nn][on][io][jo][mo][no][oo][jp][kp][np][op][pp][iq][kq][mq][qq][ir][kr][lr][mr][nr][or][pr][rr][ls][qs][ss]C[Andy1206 [6k\]: OH YEAH!
+Andy1206 [6k\]: lol
+ChemBoy613 [7k\]: gagh close
+Andy1206 [6k\]: good game
+ChemBoy613 [7k\]: good game tho
+Andy1206 [6k\]: ya
+ChemBoy613 [7k\]: within komi is good
+Andy1206 [6k\]: u play really good
+Andy1206 [6k\]: oo lol
+Andy1206 [6k\]: well komi balances black
+ChemBoy613 [7k\]: some of the reading needs work but I'm doing other things too :)
+Andy1206 [6k\]: :P
+Andy1206 [6k\]: lol
+Andy1206 [6k\]: normally i play with komi, 6.5
+Andy1206 [6k\]: it woulda been .5
+Andy1206 [6k\]: :P
+wumps [7k\]: chinese komi 7.5
+ChemBoy613 [7k\]: chinese is 7.5
+Andy1206 [6k\]: yeah
+Andy1206 [6k\]: either one is fine
+Andy1206 [6k\]: lol
+Andy1206 [6k\]: only 1 point
+])
+(;W[jh]C[bourbaki [1k\]: this attacks a group with two eyes: it doesn't make sense
+]
+;B[eg]
+;W[fg]
+;B[fi]
+;W[fh]
+;B[gi]
+;W[hj]C[theres nothing for w to fear.]))
+(;W[mg]))
+(;B[gl]C[why bother just walk out]))
+(;B[hl]LB[kn:A]C[My own personal style is to simply protect the aji.  This move helps out the left and increases the depth in the center, although currently the cut is fine for b.bourbaki [1k\]: white's dead in gote
+])
+(;B[]
+;W[kn]
+;B[ln]
+;W[in]
+;B[jm]
+;W[io]
+;B[im]
+;W[hm]
+;B[gm]
+;W[hl]
+;B[gn]
+;W[gl]
+;B[ps]C[I think this hane will kill white easy enough ]
+;W[js]
+;B[is]
+;W[ks]
+;B[os]
+;W[fm]
+;B[ns]))
+(;W[io]
+;B[hp]
+;W[jm]C[white could attempt to run away like soshika12 [8k\]: w helped b out
+bourbaki [1k\]: now this is spectacular for white
+]))
+(;B[kp]
+;W[nq]C[White connecting here doesn't give him eyes]))
+(;B[jp]
+;W[lq]
+;B[ps]
+;W[mr]
+;B[ls]C[whites pretty dead]))
+(;B[lr]C[bourbaki [1k\]: white tries to live
+]))
+(;W[pr]
+;B[qr]
+;W[nq]
+;B[lr]))
+(;B[lp])
+(;B[mg]))
+(;B[qk]C[bourbaki [1k\]: white invades, and black tries to cover
+]
+;W[pl]
+;B[nj]
+;W[ro]
+;B[qn]
+;W[rn]
+;B[rm]
+;W[rl]
+;B[qm]
+;W[sm]C[bourbaki [1k\]: personally, i would attack by kicking ithe stone to lower its eyspace
+]
+;B[rq]))
+(;B[]C[bourbaki [1k\]: q15 is not an important stone, so no rush to kill it
+]
+;W[fh]))
+(;B[of]C[bourbaki [1k\]: not quite enough spae on the right side for a two space extension, but can make sabaki
+]))
+(;W[qj]
+;B[qm]
+;W[qh]C[bourbaki [1k\]: if it were me i would play something on the right side
+])
+(;W[]
+;B[je]C[bourbaki [1k\]: there are no groups on the board taht are about to lose their eyespace
+Jamal [3k\]: just a reduction
+])
+(;W[of]
+;B[pg]))
+(;B[of]LB[nc:A]C[bourbaki [1k\]: his next move is even worse - wrong diection
+bourbaki [1k\]: black should play here
+bourbaki [1k\]: make the right side as big as possible
+shika12 [8k\]: i'myes p14 is bigger
+bourbaki [1k\]: black can still aim at A
+]))
+(;B[oc]))
+(;W[oc]))
+(;B[od]C[bourbaki [1k\]: it is not an urgent extension for white
+]
+;W[ch]
+;B[dh]
+;W[ci]
+;B[di]
+;W[bj]
+;B[dj]
+;W[ck]
+;B[pk]C[bourbaki [1k\]: in the game black defends which won't knock... but if white invades, black covers and makes thickness
+Jamal [3k\]: g5 also big
+bourbaki [1k\]: then builds faster
+]))
+(;W[oc]C[Take this point right away.bourbaki [1k\]: white takes territory, black makes an extension
+]))
+(;B[od]C[Absolutely huge.bourbaki [1k\]: the problem is black influence here does not have much of an effect on the left side
+bourbaki [1k\]: i personally would play like this
+]
+(;W[ce]C[DrJoseki [7k?\]: O4 white
+bourbaki [1k\]: now ew can attack white and build the right side
+]
+(;B[pk]TR[pk]C[bourbaki [1k\]: paul asks: can white play r5 instead of r6?
+DrJoseki [7k?\]: K16 big for white next
+]
+;W[jc]
+;B[je]C[This looks fantastic for B.])
+(;B[jc]
+;W[qj]
+;B[qn]
+;W[qg]
+;B[gc]C[Another way.]))
+(;W[qn]C[bourbaki [1k\]: i would play high to emphasize the right side
+]
+;B[qp]
+(;W[ql])
+(;W[qk]
+;B[qi]C[bourbaki [1k\]: remember, white will probably play like this
+]))
+(;W[qo]
+;B[qk]C[bourbaki [1k\]: same idea: make a pincer which is also an extension from the shamari
+DrJoseki [7k?\]: R3
+Jamal [3k\]: p4
+bourbaki [1k\]: black gets the extension he wants and pincers white
+]
+;W[op]
+;B[oq]
+;W[np]
+;B[nq]SQ[od][qd][qk]C[bourbaki [1k\]: making thickness here doesn't do much because of this formation
+Jamal [3k\]: press the bottom
+bourbaki [1k\]: it is very difficult to counterattack r9
+]))
+(;
+;B[]C[bourbaki [1k\]: white has d17, black has r16
+]
+;W[oc]C[bourbaki [1k\]: this is an extremely big move
+]))
+(;W[cn]
+;B[jp]C[hidan18 [1k\]: heh
+]))
+(;W[dd]
+;B[od]C[bourbaki [1k\]: i will be covering this position
+yithril [1d\]: http://www.umich.edu/~goclub/index.html under resources.
+recusant [11k\]: thank you, yithril.
+hidan18 [1k\]: thx
+]))

@@ -1,0 +1,922 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.50]TM[900]OT[5x30 byo-yomi]
+PW[breakfast]PB[yithril]WR[1p]BR[1d]DT[2007-11-11]PC[The KGS Go Server at http://www.gokgs.com/]C[Lecture 12
+Teaching Game with Alexander Dinerstein
+
+1d vs 1pkyustone [11k\]: hello
+ekhcsuN [4k\]: hi
+indrashot [3k\]: hello
+yithril [1d\]: hope theres more than 3 this week :)
+ekhcsuN [4k\]: I have to go in 5 min^^
+ekhcsuN [4k\]: sry
+ekhcsuN [4k\]: its just to late^^
+yithril [1d\]: woah
+yithril [1d\]: okay everyone here
+yithril [1d\]: so this is lecture 12
+leger [2k\]: hi yithril
+yithril [1d\]: if you've misssed any previous lecture
+yithril [1d\]: they are all at 
+yithril [1d\]: http://www.umich.edu/~goclub/index.html 
+yithril [1d\]: this lecture
+Scarsick [6k\]: leger je quitte, je reviens tento!
+leger [2k\]: ok
+yithril [1d\]: is a teaching game i played with Alexander Dinerstein
+yithril [1d\]: breakfast on kgs
+Scarsick [6k\]: tu me montrera la game :P
+yithril [1d\]: (im not sure the actual spelling i hope thats right)
+yithril [1d\]: this lecture is made up of his comments
+yithril [1d\]: as well as some of my own
+yoyoma [2d\]: Alexandre Dinerchtein
+yoyoma [2d\]: from his profile
+yithril [1d\]: there we go
+yithril [1d\]: lets begin
+]RE[W+21.50]
+;B[qd]BL[890.693]C[yithril [1d\]: have a good game
+breakfast [1p\]: the opening was close to 3-4d level
+breakfast [1p\]: also nice attack later
+breakfast [1p\]: did you learn such attacks from Guo?
+yithril [1d\]: yes
+yithril [1d\]: i have attacking style
+yithril [1d\]: in general
+breakfast [1p\]: yes, impressive
+]
+;W[dd]WL[891.297]C[breakfast [1p\]: Enjoy!
+]
+;B[pq]BL[879.852]C[breakfast [1p\]: Our styles with Guo are different
+breakfast [1p\]: you will see it
+]
+;W[dp]WL[875.168]
+;B[od]BL[865.308]LB[qn:A][po:C][qo:B]C[breakfast [1p\]: my own style and Guo Juan's style
+breakfast [1p\]: she is a fighter
+yithril [1d\]: ahh ok
+breakfast [1p\]: and I like to play without risk
+yithril [1d\]: white will prevent black from making a second shimari
+yithril [1d\]: all of these are average moves
+]
+(;W[qk]WL[869.241]C[yithril [1d\]: so he played this
+yithril [1d\]: which i thought was a tad unusual
+yithril [1d\]: normally
+yithril [1d\]: when white splits of course
+]
+;B[qn]BL[854.61]C[breakfast [1p\]: so, I will not even give you the pincer :)
+yithril [1d\]: black will make the second shimari
+yithril [1d\]: and force white to settle on the side
+yithril [1d\]: what we can learn from this game
+yithril [1d\]: are several opening principles
+yithril [1d\]: for instance where is the large side and the double shimari principle
+yithril [1d\]: as well as
+]
+;W[qh]WL[864.134]C[yithril [1d\]: dinerchtein likes no complications
+yithril [1d\]: so i guess he doesn't like black pincering
+]
+;B[fc]BL[848.293]C[yithril [1d\]: darn
+yithril [1d\]: so i moved to the top
+yithril [1d\]: i think its possible but its harder
+yithril [1d\]: much much harder
+roygee [10k\]: y?
+yithril [1d\]: becaues it starts a fight
+roygee [10k\]: how to c ?
+leger [2k\]: pincer = fights
+]
+(;W[cf]WL[857.772]C[yithril [1d\]: this is much simpler
+yithril [1d\]: and patient
+]
+(;B[jd]BL[840.039]LB[ic:B][jd:A]SQ[hc]C[roygee [10k\]: can w play a pincer?
+yithril [1d\]: i played this which is not bad its a possibility
+yithril [1d\]: difference in style
+yithril [1d\]: whats the big difference between
+yithril [1d\]: this?
+MIchild5 [4k?\]: A works better with the stones on the right?
+yithril [1d\]: partly
+yithril [1d\]: both work well
+yithril [1d\]: it has to do with solidity of the shape
+yithril [1d\]: this move the shape is weaker
+yithril [1d\]: weak spot at the square
+yithril [1d\]: i picked it
+yithril [1d\]: because i wanted central influence in case it became possible later to make a big thing in the center
+yithril [1d\]: h17 doesn
+yithril [1d\]: t bug me
+yithril [1d\]: is essentially what im saiyng with this move
+yithril [1d\]: clear?
+roygee [10k\]: yes
+]
+(;W[jq]WL[854.173]C[leger [2k\]: yes
+yithril [1d\]: biggest side is the bottom
+yithril [1d\]: now?
+roygee [10k\]: after u got two stones at the left side
+roygee [10k\]: in the variation
+yithril [1d\]: show me
+]
+(;B[cn]BL[836.598]C[yithril [1d\]: so now i have to move into whites potential
+yithril [1d\]: i decided to approach
+]
+(;W[bo]CR[cf]WL[848.928]C[breakfast [1p\]: 4 other ideas here
+breakfast [1p\]: D is interesting
+yithril [1d\]: so white choes this respones
+yithril [1d\]: to emphasize his corner
+yithril [1d\]: if we look around
+yithril [1d\]: white played this stone low
+yithril [1d\]: so the left side is not big potential
+yithril [1d\]: the corner is more important
+yithril [1d\]: what do you think are blacks options?
+yithril [1d\]: how to answer?
+roygee [10k\]: can b start to invade at the lower E, F, G, H
+yithril [1d\]: when roygee?
+yithril [1d\]: now?
+roygee [10k\]: no now need to secure c6 1st
+yithril [1d\]: so when then?
+yithril [1d\]: there are other options
+]
+(;B[fq]BL[808.491]C[yithril [1d\]: in the game i played this
+yithril [1d\]: i saw Jang Bi play it in a tournament game
+yithril [1d\]: so i thought 
+yithril [1d\]: "what the heck ill try it"
+yithril [1d\]: this is a light move
+yithril [1d\]: we'll look at the game first
+]
+;W[eq]WL[844.161]
+;B[fp]BL[806.122]
+;W[en]WL[840.126]C[yithril [1d\]: important to play this move
+yithril [1d\]: split black
+]
+;B[io]BL[792.285]C[yithril [1d\]: so we played like this
+yithril [1d\]: i played this to come out
+yithril [1d\]: white will have to act
+]
+;W[hq]WL[815.649]C[yithril [1d\]: he aims at my shape
+yithril [1d\]: thats fine
+]
+;B[hp]BL[779.209]
+;W[mq]WL[810.367]C[yithril [1d\]: i fix and then he extends
+]
+;B[ko]BL[758.275]
+;W[nr]WL[773.481]C[yithril [1d\]: i cover and he plays o2
+yithril [1d\]: it thought it was funny at first
+yithril [1d\]: but now his bottom has no aji
+yithril [1d\]: and
+yithril [1d\]: r4
+yithril [1d\]: is a problem for black later
+]
+;B[ck]BL[751.64]
+;W[bn]WL[762.336]C[roygee [10k\]: b need to secure the above
+]
+;B[ch]BL[749.017]C[breakfast [1p\]: the result was exactly equal here
+yithril [1d\]: overall though
+yithril [1d\]: the fuseki was equal
+yithril [1d\]: what do you think?
+leger [2k\]: probably
+indrashot [3k\]: could you replay last three moves?
+indrashot [3k\]: ah. thanks
+]
+;W[db]WL[758.351]C[breakfast [1p\]: hard to attack me
+yithril [1d\]: using posiitonal judgement
+yithril [1d\]: meaning counting points
+yithril [1d\]: taking stock of who is weak and who is strong
+yithril [1d\]: to make clear judgements about the situation and devise a proper strategy to win
+]
+(;B[pj]BL[732.794]C[yithril [1d\]: ive been wanting to play this move all game
+yithril [1d\]: the entire reason i played k16
+yithril [1d\]: but
+yithril [1d\]: in blacks dream world...
+]
+;W[qj]WL[752.228]
+;B[ph]BL[731.309]
+(;W[qg]WL[745.523]C[yithril [1d\]: instead he played this
+yithril [1d\]: and my hopes were dashed
+]
+;B[pg]BL[728.006]
+;W[qf]WL[738.7]
+;B[pf]BL[726.358]
+;W[qe]WL[723.614]
+;B[pd]BL[717.827]C[yithril [1d\]: i forgot you could jut extend here
+yithril [1d\]: and i dont get sente
+]
+;W[hc]WL[712.614]C[yithril [1d\]: so then q 10 doesnt work
+yithril [1d\]: now he gets sente
+yithril [1d\]: to invade me
+yithril [1d\]: what should black think about now?
+indrashot [3k\]: upper side looks big still
+yithril [1d\]: what should be my strategy overall?
+roygee [10k\]: j17?
+]
+(;B[hd]BL[714.643]C[yithril [1d\]: in the game i did this
+]
+(;W[ic]WL[707.006]C[yithril [1d\]: where should black play?
+indrashot [3k\]: k17?
+yithril [1d\]: yes :)
+]
+;B[jc]BL[707.147]C[yithril [1d\]: black should block here
+]
+;W[id]WL[698.719]
+;B[ie]BL[704.978]
+;W[gd]WL[697.771]
+;B[he]BL[703.894]C[indrashot [3k\]: upper side big.. can still make center
+]
+;W[gc]WL[697.033]C[yithril [1d\]: plus a little bit of joseki choice
+]
+;B[ge]BL[701.008]C[yithril [1d\]: this is a needed move
+yithril [1d\]: normally we dont play this in this joseki
+yithril [1d\]: but here white has d18
+yithril [1d\]: so
+yithril [1d\]: we're not erasing any aji
+]
+;W[fd]WL[694.665]
+(;B[fm]BL[693.456]C[yithril [1d\]: so i tried to make as big of a moyo as i possibly could
+yithril [1d\]: what do we think of f7?
+indrashot [3k\]: mmm...
+indrashot [3k\]: still hawve a couple holes
+yithril [1d\]: black is huge but a bit too open
+]
+;W[ki]WL[661.16]C[yithril [1d\]: white played here
+indrashot [3k\]: wow...
+yithril [1d\]: so now
+yithril [1d\]: lets take stock of the situation
+yithril [1d\]: white has lots of solid points
+yithril [1d\]: corner, bottom, upper left, right
+yithril [1d\]: uninvadable
+yithril [1d\]: meaning
+yithril [1d\]: in order for me to have 1 more point than he does at the end of the game
+yithril [1d\]: this stone must die
+yithril [1d\]: there are no other options
+leger [3k\]: are you sure ?
+yithril [1d\]: count whites territory
+indrashot [3k\]: did it live?
+yithril [1d\]: yes and that is why f 7 is too much
+yithril [1d\]: i cant kill this stone
+yithril [1d\]: im no where near thick enough
+yithril [1d\]: theres too much space
+leger [3k\]: let's say white has ~50 points here, solid points
+indrashot [3k\]: did you play tengen?
+]
+(;B[kk]BL[598.806]C[yithril [1d\]: i attacked him
+yithril [1d\]: the thing is
+indrashot [3k\]: exciting...
+yithril [1d\]: attacking this stone
+yithril [1d\]: is very hard
+]
+;W[kf]WL[648.006]C[yithril [1d\]: so white must now back sabaki
+yithril [1d\]: here
+yithril [1d\]: *make not back
+]
+(;B[ih]BL[556.231]C[yithril [1d\]: k15 weakness
+]
+;W[je]WL[636.326]C[breakfast [1p\]: now it's easier to live
+breakfast [1p\]: becase I have sente moves
+]
+;B[ld]BL[552.839]
+;W[le]WL[617.563]
+;B[md]BL[550.131]
+;W[jh]WL[601.699]
+(;B[ig]BL[546.922]C[yithril [1d\]: hard game with r 4 weakness 
+]
+;W[ii]WL[597.397]
+(;B[hi]BL[544.296]C[breakfast [1p\]: this move helps
+]
+;W[ij]WL[592.442]
+;B[lh]BL[542.291]C[yithril [1d\]: this is anice shape attack
+yithril [1d\]: i gotta play severe as possible
+]
+;W[jg]WL[582.8]
+;B[hj]BL[539.885]
+;W[ik]WL[573.912]TR[hj][ik]C[yithril [1d\]: push from behind
+breakfast [1p\]: also helps W
+yithril [1d\]: yeah
+]
+;B[hk]BL[534.053]
+;W[lk]WL[546.574]
+;B[ll]BL[525.005]
+;W[kj]WL[509.039]
+;B[mk]BL[522.044]C[yithril [1d\]: i sort of gave up on killing you
+yithril [1d\]: problem is
+yithril [1d\]: its really too hard ot kill white
+]
+;W[lj]WL[505.794]
+;B[kl]BL[497.368]
+;W[mj]WL[498.508]
+;B[nk]BL[494.495]
+;W[lg]WL[479.089]TR[ig][ih][hi][hj][hk][kk][mk][nk][kl][ll][fm]C[yithril [1d\]: so i thought maybe i could make territory
+yithril [1d\]: small but something
+breakfast [1p\]: what did you get by attacking?
+yithril [1d\]: not really anyting
+breakfast [1p\]: yes, true
+breakfast [1p\]: so, we can say, that I punished F7
+breakfast [1p\]: now W is 10 points ahead or so
+yithril [1d\]: right because if i cant kill you then im behind
+breakfast [1p\]: and later I made this difference bigger in yose
+yithril [1d\]: ugh
+yithril [1d\]: up to here
+yithril [1d\]: white lives
+yithril [1d\]: and now all my moves that i gained by attacking him
+yithril [1d\]: make very inefficient points
+roygee [10k\]: wat those traingle stone?
+yithril [1d\]: yes
+yithril [1d\]: those are the moves i received from the attack
+yithril [1d\]: but the trick is to conver them into points
+yithril [1d\]: its all right if we attack stuff
+yithril [1d\]: but we need to get points out of it
+yithril [1d\]: or we dont have enough to win the game
+]
+;B[mh]BL[483.93]
+;W[kh]WL[462.443]
+;B[bf]BL[478.168]C[yithril [1d\]: so now
+yithril [1d\]: im thinking
+yithril [1d\]: "crud, white is up by 10-15 points i need to make some territory but all his  groups are rock solid
+yithril [1d\]: there is nothing to attack
+]
+;W[ce]WL[453.648]
+;B[rl]BL[471.548]
+;W[rd]WL[435.803]
+;B[rc]BL[469.248]
+;W[se]WL[434.983]
+;B[np]BL[462.292]C[yithril [1d\]: and as you can imagine
+yithril [1d\]: his endgame is far better than mine ;)
+yithril [1d\]: the endgame is not so much important
+yithril [1d\]: white went on to win by about 20 points
+yithril [1d\]: 10 points he gained from f7 aiming for too much
+yithril [1d\]: and the rest in endgame
+indrashot [3k\]: wow!
+indrashot [3k\]: how did you end up playing a pro?
+indrashot [3k\]: and reviewing?
+yithril [1d\]: dinerchtein is not that expensive
+yithril [1d\]: 15 bucks for first lesson
+yithril [1d\]: so i tried him out
+]
+;W[pr]WL[418.99]
+;B[qr]BL[456.453]
+;W[oq]WL[416.263]
+;B[pp]BL[455.372]
+;W[op]WL[413.514]
+;B[oo]BL[453.897]
+;W[no]WL[406.854]
+;B[ps]BL[443.38]
+;W[or]WL[403.621]
+;B[on]BL[440.333]
+;W[qq]WL[393.302]
+;B[rr]BL[424.027]
+;W[jb]WL[375.992]
+;B[kb]BL[421.417]
+;W[cm]WL[334.793]
+;B[er]BL[413.799]
+;W[dr]WL[332.005]
+;B[ep]BL[412.579]
+;W[dq]WL[330.139]
+;B[kq]BL[404.429]
+;W[kr]WL[327.818]
+;B[lq]BL[402.574]
+;W[lr]WL[325.658]
+;B[mp]BL[397.182]
+;W[jp]WL[315.851]
+;B[jo]BL[389.132]
+;W[ip]WL[275.332]
+;B[ho]BL[384.05]
+;W[ib]WL[270.028]
+;B[ka]BL[377.258]
+;W[gg]WL[250.823]
+;B[fg]BL[369.127]
+;W[dh]WL[237.375]
+;B[ci]BL[363.07]C[yithril [1d\]: this all got destroyed here too
+yithril [1d\]: so
+]
+;W[ff]WL[226.122]
+;B[gh]BL[346.107]
+;W[gf]WL[213.484]
+;B[hg]BL[341.416]
+;W[cl]WL[196.313]
+;B[il]BL[336.851]
+;W[bk]WL[189.713]
+;B[bj]BL[331.307]
+;W[dk]WL[187.892]
+;B[cj]BL[330.073]
+;W[bg]WL[183.832]
+;B[bh]BL[318.452]
+;W[cg]WL[179.847]
+;B[bl]BL[316.045]
+;W[ql]WL[169.08]
+;B[rm]BL[309.324]
+;W[pm]WL[166.179]
+;B[om]BL[307.441]
+;W[po]WL[160.344]
+;B[qp]BL[305.211]
+;W[qo]WL[158.661]
+;B[rp]BL[302.83]
+;W[pn]WL[157.317]
+;B[ro]BL[301.894]
+;W[ol]WL[155.38]
+;B[qm]BL[299.415]
+;W[pl]WL[153.613]
+;B[nm]BL[298.086]
+;W[nl]WL[149.743]
+;B[mm]BL[294.244]C[yithril [1d\]: ouch
+]
+;W[gr]WL[131.166]
+;B[sc]BL[289.052]
+;W[rk]WL[112.113]
+;B[fr]BL[270.217]
+;W[jk]WL[98.17]
+;B[jl]BL[267.511]
+;W[fh]WL[94.253]
+;B[fi]BL[264.604]
+;W[eg]WL[89.531]
+;B[ds]BL[263.254]
+;W[cs]WL[84.611]
+;B[es]BL[261.926]
+;W[cr]WL[82.786]
+;B[bm]BL[244.519]
+;W[ei]WL[58.345]
+;B[dn]BL[228.959]
+;W[em]WL[52.669]
+;B[gq]BL[200.698]
+;W[ir]WL[42.512]
+;B[el]BL[195.999]
+;W[dm]WL[25.071]
+;B[fn]BL[191.055]
+;W[eo]WL[16.442]
+;B[fj]BL[185.276]
+;W[fo]WL[11.135]
+;B[go]BL[182.367]
+;W[am]WL[5.708]
+;B[ak]BL[180.562]
+;W[ek]WL[2.427]
+;B[fk]BL[179.051]
+;W[nf]WL[30]OW[5]
+;B[ng]BL[143.127]
+;W[ne]WL[30]OW[5]
+;B[pe]BL[131.555]
+;W[nd]WL[30]OW[5]
+;B[nc]BL[129.115]
+;W[kp]WL[30]OW[5]
+;B[lp]BL[127.182]
+;W[sm]WL[30]OW[5]
+;B[sl]BL[121.82]
+;W[sk]WL[30]OW[5]
+;B[sn]BL[120.537]
+;W[ni]WL[30]OW[5]
+;B[nh]BL[116.52]
+;W[ml]WL[30]OW[5]
+;B[oj]BL[112.518]
+;W[gs]WL[30]OW[5]
+;B[sd]BL[109.086]
+;W[re]WL[30]OW[5]
+;B[qi]BL[103.604]
+;W[ri]WL[30]OW[5]
+;B[pi]BL[102.192]
+;W[mc]WL[30]OW[5]
+;B[lc]BL[91.958]
+;W[qc]WL[30]OW[5]
+;B[qb]BL[82.267]
+;W[nq]WL[30]OW[5]
+;B[lo]BL[79.265]
+;W[ah]WL[30]OW[5]
+;B[ai]BL[75.948]
+;W[ag]WL[30]OW[5]
+;B[al]BL[74.739]
+;W[an]WL[30]OW[5]
+;B[fe]BL[73.35]
+;W[ee]WL[30]OW[5]
+;B[if]BL[69.311]
+;W[me]WL[30]OW[5]
+;B[mb]BL[59.509]
+;W[os]WL[30]OW[5]
+;B[qs]BL[52.613]
+;W[di]WL[30]OW[5]
+;B[ja]BL[46.874]
+;W[ia]WL[30]OW[5]
+;B[jf]BL[40.984]
+;W[ke]WL[30]OW[5]
+;B[kd]BL[38.381]
+;W[mg]WL[30]OW[5]
+;B[fl]BL[31.184]
+;W[dl]WL[30]OW[5]
+;B[]BL[31.184]
+;W[oi]WL[30]OW[5]
+;B[nj]BL[20.503]
+;W[mi]WL[30]OW[5]
+;B[pc]BL[11.114]
+;W[fs]WL[30]OW[5]
+;B[gp]BL[8.69]
+;W[sh]WL[30]OW[5]
+;B[hh]BL[30]OB[5]
+;W[]WL[30]OW[5]
+;B[]BL[30]OB[5]TW[aa][ba][ca][da][ea][fa][ga][ha][ab][bb][cb][eb][fb][gb][hb][ac][bc][cc][dc][ec][fc][ad][bd][cd][ed][ae][be][de][af][bf][df][ef][lf][mf][rf][sf][dg][fg][kg][rg][sg][eh][rh][ji][si][jj][rj][sj][cn][dn][ao][co][do][ap][bp][cp][aq][bq][cq][iq][ar][br][hr][jr][mr][as][bs][hs][is][js][ks][ls][ms][ns]TB[la][ma][na][oa][pa][qa][ra][sa][lb][nb][ob][pb][rb][sb][kc][mc][oc][qc][bi][gi][aj][gj][bk][gk][gl][hl][gm][hm][im][jm][km][lm][sm][gn][hn][in][jn][kn][ln][mn][nn][rn][mo][no][so][sp][qq][rq][sq][sr][rs][ss]C[yithril [1d\]: thanks
+breakfast [1p\]: thx!
+breakfast [1p\]: it was much closer before endgame
+yithril [1d\]: yeah
+yithril [1d\]: endgame felt bad
+yithril [1d\]: i got none of the big stuff
+breakfast [1p\]: :)
+breakfast [1p\]: true
+breakfast [1p\]: any way, you played very well for 1d
+])
+(;B[jj]
+;W[ji]
+;B[gh]C[breakfast [1p\]: if you want to try -
+breakfast [1p\]: this is the sharpest idea
+]))
+(;B[ii]C[yithril [1d\]: black should play here
+yithril [1d\]: i worried about non existant aji
+]
+;W[ig]
+;B[hg]
+;W[if]
+;B[hf]
+;W[mh]C[breakfast [1p\]: alive
+yithril [1d\]: like this white is alive
+yithril [1d\]: maybe lower middle left i can make some points
+]))
+(;B[je]C[yithril [1d\]: just be thick?
+breakfast [1p\]: how about defending it?
+breakfast [1p\]: yes
+yithril [1d\]: i did think about defending it
+yithril [1d\]: when we are killing
+yithril [1d\]: we cant have aji
+yithril [1d\]: nothing for them to use
+]
+;W[ii]
+;B[gi]C[breakfast [1p\]: easier to attack
+yithril [1d\]: i felt
+yithril [1d\]: unclear how to kill you
+breakfast [1p\]: yes, true
+yithril [1d\]: i knew i had to kill it
+breakfast [1p\]: yes, you must
+yithril [1d\]: and then play another capping move
+yithril [1d\]: if w does die
+yithril [1d\]: its beyond my ability to kill it :)
+]))
+(;B[lh]C[yithril [1d\]: if i juts block maybe thats okay but the problem is
+yithril [1d\]: he gets a lot stronger
+yithril [1d\]: and my other stones
+roygee [10k\]: dint u hav a chance if l11 live?
+yithril [1d\]: lose a lot of their value
+yithril [1d\]: maybe even counterattack
+]))
+(;B[ij]C[yithril [1d\]: this did occure to me
+yithril [1d\]: and its far more solid
+yithril [1d\]: like this i have much more solid territory
+yithril [1d\]: and we can still wrestle with the lead
+yithril [1d\]: i hope you all enjoyed todays lecture
+yithril [1d\]: we'll stop here
+indrashot [3k\]: thank you yithril
+indrashot [3k\]: do you do this often?
+yithril [1d\]: every week sunday at 22:00 gmt
+roygee [10k\]: thxs yilthril
+yithril [1d\]: various subjects
+bitmask [23k\]: thank you
+yithril [1d\]: http://www.umich.edu/~goclub/index.html is where you can get previous lectures in case you miss one
+Iink [-\]: thx yithil =\]
+yithril [1d\]: feel free to pm me with lecture subject suggestions
+Iink [-\]: I like these hight level payer games
+Iink [-\]: ^__ 
+Iink [-\]: *^___^
+Iink [-\]: **player
+roygee [10k\]: next week lecture at GMT 22.00?
+yithril [1d\]: yes
+roygee [10k\]: but now is GMT 12.00
+]
+;W[ol]
+;B[mj]
+;W[jb]
+;B[kb]
+;W[ib]
+;B[lc]
+;W[qp]C[breakfast [1p\]: not sure, is it enough or not
+breakfast [1p\]: must be a close game
+breakfast [1p\]: any Q about this game?
+yithril [1d\]: no its clear
+yithril [1d\]: i did better than i thought
+yithril [1d\]: so im happy
+breakfast [1p\]: :)
+yithril [1d\]: just things like j10
+yithril [1d\]: vs f7
+yithril [1d\]: hard to be sure
+breakfast [1p\]: Guo spoiled your Go :)
+breakfast [1p\]: she made it too aggressive
+yithril [1d\]: haha
+yithril [1d\]: its always been aggressive
+breakfast [1p\]: do you like to continue our lessons?
+yithril [1d\]: hmm
+yithril [1d\]: ill get back to you
+yithril [1d\]: im trying different people
+breakfast [1p\]: regular price will be 30 usd
+breakfast [1p\]: ok,np
+yithril [1d\]: to see who i like best
+breakfast [1p\]: feel free to contact by mail
+yithril [1d\]: im not sure
+breakfast [1p\]: and we will work on your attack+endgame
+yithril [1d\]: ok
+yithril [1d\]: think that w ill help me?
+yithril [1d\]: ive been stuck at 1d for awhile now
+breakfast [1p\]: I think, you have good chances of getting 3-4d quickly
+breakfast [1p\]: comparing with my other 1k-1d students 
+yithril [1d\]: ok cool
+yithril [1d\]: i will write you
+yithril [1d\]: then
+breakfast [1p\]: :)
+yithril [1d\]: do you do game commentary too?
+yithril [1d\]: offline
+breakfast [1p\]: yes, I do
+yithril [1d\]: like by email
+breakfast [1p\]: I made 5000 comments already
+breakfast [1p\]: for Go4Go
+yithril [1d\]: ive seen those yes :)
+yithril [1d\]: but if i email  you game
+yithril [1d\]: you can review it and then send it back to me?
+breakfast [1p\]: yes, for sure
+yithril [1d\]: ok good
+breakfast [1p\]: 15 usd each
+yithril [1d\]: then you can write it in russian so i can practice
+breakfast [1p\]: :)
+breakfast [1p\]: ok, we are late
+yithril [1d\]: right
+yithril [1d\]: ill talk to you later
+breakfast [1p\]: good night!
+breakfast [1p\]: see you!
+yithril [1d\]: game might go like this
+roygee [10k\]: this is big
+yithril [1d\]: where i hang on to a big chunk
+yithril [1d\]: but have to deal with my lower right
+]))
+(;W[id]
+;B[ic]
+;W[ie]
+(;B[jc]
+;W[gd])
+(;B[hb]
+;W[jc]
+;B[gc]
+;W[kd])))
+(;B[ic]C[indrashot [3k\]: and could make big center
+yithril [1d\]: ahh you want to throw away f17
+yithril [1d\]: i agree id like to throw away f17
+roygee [10k\]: expand ur terri
+yithril [1d\]: and try to use my thickness on the right
+]
+;W[hd]
+;B[jf]C[yithril [1d\]: this looks possible
+yithril [1d\]: but i think whites corner
+yithril [1d\]: gets a bit big
+yithril [1d\]: and theres a way i can be thicker
+]))
+(;W[pi]
+;B[oi]
+;W[qi]
+;B[pg]
+;W[oj]
+;B[ni]
+;W[ok]
+;B[pl]
+;W[pk]
+;B[fe]C[yithril [1d\]: this was my plan
+breakfast [1p\]: your plan?
+breakfast [1p\]: sorry for spoiling it :)
+yithril [1d\]: haha
+yithril [1d\]: this is my plan
+yithril [1d\]: not bad huh?
+yithril [1d\]: i want a huge moyo
+yithril [1d\]: problem is white two stones
+yithril [1d\]: are not squeezed
+yithril [1d\]: so they are stronger
+yithril [1d\]: he can resist me
+])
+(;AB[qf]C[yithril [1d\]: if i hada stone already here
+yithril [1d\]: then yes
+yithril [1d\]: becaues white is being squeezed
+]))
+(;B[fe]C[yithril [1d\]: in retrospect
+yithril [1d\]: this is a good move
+indrashot [3k\]: all this looks reasonable
+yithril [1d\]: and the game will continue
+yithril [1d\]: but
+indrashot [3k\]: not that i would think of it!
+yithril [1d\]: ive been itching to do something all game
+]
+;W[lc]
+;B[jc]
+;W[ob]
+;B[qb]
+;W[le]
+;B[oh]C[breakfast [1p\]: like this
+breakfast [1p\]: maybe easier for B than the real game
+breakfast [1p\]: more pressure on W
+]))
+(;B[ck]C[yithril [1d\]: i could settle
+]
+;W[bn]C[yithril [1d\]: that when he played this you do not directly answer
+]
+;B[ch]
+;W[db]C[breakfast [1p\]: most simple
+breakfast [1p\]: but too easy for W
+yithril [1d\]: and yes too easy on white ;)
+yithril [1d\]: also notice
+yithril [1d\]: keep the stone light and remember you can still extend along the side
+])
+(;B[bn]C[yithril [1d\]: my first thought was this but i didnt like it 
+yithril [1d\]: so this one is out
+onemove [1d\]: e2 is might be very hard for w to answer...´)(instead of f3)
+]
+(;W[ck]C[breakfast [1p\]: was you afraid of the pincer?
+yithril [1d\]: yes
+breakfast [1p\]: right - it's powerful
+yithril [1d\]: but white can pincer
+]
+;B[cp]C[yithril [1d\]: shape attack but
+]
+;W[cq]
+;B[co]
+;W[bq]
+;B[ep]
+;W[dq]
+;B[en]
+;W[eo]C[leger [2k\]: obviously
+]
+;B[fo]
+;W[do]
+;B[fm]
+;W[dn]
+;B[dm]
+;W[gn]
+;B[fn]
+;W[el]
+;B[em]
+;W[gq]C[yithril [1d\]: i would hate this as black
+breakfast [1p\]: it was a joseki in the past
+breakfast [1p\]: yes, same here
+breakfast [1p\]: nowadays nobody use it
+yithril [1d\]: this would be horribly painful
+yithril [1d\]: do you agree?
+leger [2k\]: yes
+indrashot [3k\]: agreed
+fly [2k\]: nice shape for b!
+mentat [3k\]: B got a b2 bomber
+indrashot [3k\]: lol
+mentat [3k\]: he is way better now
+])
+(;W[co]
+;B[dn]
+;W[fp]
+;B[cj]C[yithril [1d\]: sure if white plays nice like this
+yithril [1d\]: it might be ok
+]))
+(;B[er]C[breakfast [1p\]: still I don't know how to answer it
+breakfast [1p\]: it's interesting
+yithril [1d\]: f3?
+yithril [1d\]: this is a nice move
+yithril [1d\]: breakfast doesnt even know
+yithril [1d\]: its an interesting move but i did not know it while playing
+]
+(;W[eq]
+;B[cq]C[breakfast [1p\]: I played it once
+breakfast [1p\]: against Cho Seokbin
+onemove [1d\]: he lost a game
+]
+;W[fr]
+;B[cp]
+;W[co]
+;B[do]
+;W[bn]
+;B[eo]
+;W[dr]
+;B[cm]
+;W[bm]
+;B[cl]
+;W[bl]
+;B[ck]C[breakfast [1p\]: W is probably too low
+breakfast [1p\]: I lost this game
+onemove [1d\]: on congress with this...
+yithril [1d\]: in this instance
+yithril [1d\]: white is probably too low
+])
+(;W[dr]C[yithril [1d\]: lets say we directly block the corner
+]
+;B[dq]
+;W[cq]
+;B[eq]
+;W[cr]
+;B[ep]
+;W[do]
+;B[hq]
+;W[mq]
+;B[co]
+;W[cp]
+;B[bn]
+;W[bp]
+;B[cj]C[breakfast [1p\]: nice result for B
+yithril [1d\]: this would be nice
+])
+(;W[fq]C[yithril [1d\]: i thought of this maybe
+yithril [1d\]: but alexandre rejected it
+]
+;B[fr]
+;W[gq]
+;B[cq]
+;W[cp]
+;B[bq]C[yithril [1d\]: this seems low
+yithril [1d\]: for b
+breakfast [1p\]: nice corner +some adji
+breakfast [1p\]: hmm
+breakfast [1p\]: but K3 is not ideal
+yithril [1d\]: really?
+yithril [1d\]: further?
+breakfast [1p\]: I don't like it for W
+yithril [1d\]: reason is
+yithril [1d\]: c6 has all 4 liberties
+yithril [1d\]: and black gets decent corner
+yithril [1d\]: while its not exactly sure how white uses his outside wall
+yithril [1d\]: k3 is also not in perfect spot
+]
+;W[dj]LB[cl:A][en:B]C[yithril [1d\]: right
+breakfast [1p\]: Black can sill live later
+yithril [1d\]: b stone really not dead
+breakfast [1p\]: still*
+breakfast [1p\]: yes, bad adji
+])))
+(;W[cl]
+;B[cq]C[yithril [1d\]: if white pincers ill gladly take teh territory
+yithril [1d\]: very easy to invade corfner
+]))
+(;B[ck]
+;W[cn]
+;B[ch]C[roygee [10k\]: here
+]
+;W[db]SQ[cn]C[yithril [1d\]: this i thought was boring for b
+yithril [1d\]: and much too easy on white
+yithril [1d\]: what do you think?
+leger [2k\]: i agree, and it induces a white move that weakens f17
+indrashot [3k\]: agreed
+yithril [1d\]: not just that leger
+yithril [1d\]: white got c6
+yithril [1d\]: important for the corner
+yithril [1d\]: with k3 extension already in place
+yithril [1d\]: white has a lot of solid territory already
+]
+(;B[fq]C[yithril [1d\]: you want to play here?
+yithril [1d\]: or whereabouts?
+roygee [10k\]: mayb g3?
+])
+(;B[gq]C[yithril [1d\]: this move will make life hard on black
+yithril [1d\]: we're plopping a stone smack dab in a place where we are outnumbered
+]
+;W[eq]C[yithril [1d\]: as white id take your eyespace
+yithril [1d\]: block you from the corner
+]
+;B[go]
+;W[mq]C[yithril [1d\]: id secure all my groups around you
+yithril [1d\]: and now 
+yithril [1d\]: g3
+yithril [1d\]: and g5
+yithril [1d\]: dont help you do anything
+yithril [1d\]: besides being weak
+roygee [10k\]: is there any playable place there to play?
+])
+(;B[dr]C[yithril [1d\]: maybe sometihng like tihs?
+yithril [1d\]: ur gonna need some stones around
+yithril [1d\]: and its not going to be simple
+yithril [1d\]: plus
+yithril [1d\]: top is quite weak
+yithril [1d\]: so you might not have time to play this now
+])
+(;B[]
+;W[hc]C[yithril [1d\]: remember white is looking at this
+roygee [10k\]: ok
+])))
+(;W[hc]C[breakfast [1p\]: I hate this invasion
+breakfast [1p\]: but of course, K16 is possible
+])
+(;W[dn]
+;B[jq]C[yithril [1d\]: if white doesn't play it I will
+yithril [1d\]: and now i have a nice extension from my shimari
+yithril [1d\]: lots of good opening principles in this g ame
+]))
+(;B[ic]C[yithril [1d\]: yes
+breakfast [1p\]: we have different styles
+yithril [1d\]: you have right
+breakfast [1p\]: I never use K16 myself
+yithril [1d\]: but its possible?
+yithril [1d\]: he sugested this move
+yithril [1d\]: this and
+yithril [1d\]: when black plays this low move
+yithril [1d\]: there are no complications
+yithril [1d\]: rock solid
+yithril [1d\]: top is finished lets move on
+]))
+(;W[id]C[yithril [1d\]: lets say i pick a high light pincer
+yithril [1d\]: to break up blacks formation at the top
+]
+(;B[ee])
+(;B[fe]C[yithril [1d\]: black will come out
+]
+;W[cf]
+(;B[kc])
+(;B[kd]C[roygee [10k\]: benifit b more
+yithril [1d\]: with the shimari on the right
+yithril [1d\]: i think black will clearly benefit
+roygee [10k\]: ok
+yithril [1d\]: and its hard on white
+]))))
+(;W[qn])
+(;W[qo])
+(;W[po]
+;B[pl]C[yithril [1d\]: becasuse normally when white approaches
+yithril [1d\]: black will choose some kind of pincer
+yithril [1d\]: because he has a shimari to back him up
+yithril [1d\]: and create territorial potential
+]))

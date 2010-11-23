@@ -1,0 +1,941 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Lecture]PB[7]DT[2007-09-23]PC[The KGS Go Server at http://www.gokgs.com/]AB[ic][lc][pc][dd][ed][hd][le][pf][dj][hj][cl][gm]LB[pd:A][pe:B][df:1][hf:2][lg:3][ph:4][cn:5][go:6]TR[da][ea][db][eb][dc][ec]C[Lecture 7 Beginner Lecture
+
+Topics-
+
+Basic Shape - Good and Bad shapes
+Capturing stones- How to best capture stones
+Basic Opening - Corner Enclosures + Basic joseki
+Basic Endgame - How do I best finish off the borders?
+HonFu [3k\]: hi ^^
+tenseiga [9k\]: hi
+yithril [1d\]: yo
+Iink [-\]: hi
+JOmega [16k\]: thanks for giving us a lecture, yithril!
+Iink [-\]: I thanks as well
+Iink [-\]: lol
+zatawiziOu [16k\]: hi
+yithril [1d\]: so this is lecture 7 of Yithril's sunday lectures
+yithril [1d\]: you can get the sgf file for this lecture as well as previous lectures
+yithril [1d\]: ttp://www.umich.edu/~goclub/index.html under resources.
+yithril [1d\]: i do lectures on various subjects
+yithril [1d\]: so by popular demand today will be devoted to things beginners should know
+zatawiziOu [16k\]: k
+yithril [1d\]: i aimed this lecture at about 15 kyu and below
+yithril [1d\]: so its very basic stuff, but strong players might benefit from a bit of review
+yithril [1d\]: we'll be covering basic shape
+yithril [1d\]: then capturing stones
+yithril [1d\]: some basic endgame
+yithril [1d\]: and then ill go a little into the opening
+yithril [1d\]: lets first start off with shape
+yithril [1d\]: here we have 6 different shapes and it is vital to have an understanding of them when u play
+yithril [1d\]: when we make good shapes our stones remain strong and it becomes very easy to make territory whether its just surrounding it or attacking our opponent.
+yithril [1d\]: it also makes defense easy because our opponent will have an extremely difficult time trying to counterattack if we have few to no weaknesses
+yithril [1d\]: shape is highly important
+yithril [1d\]: here i have listed some basic shapes
+yithril [1d\]: in order of speed
+yithril [1d\]: by speed, im referring to how much distance the stones cover in two moves
+yithril [1d\]: slower moves are closer together while faster moves are further apart
+yithril [1d\]: shape 1 is the iron pillar
+yithril [1d\]: the slowest
+yithril [1d\]: while 4 and 6 are much faster
+yithril [1d\]: but further apart
+yithril [1d\]: when we want to play a faster move we sacrifice shape
+yithril [1d\]: when we play a slower move we sacrifice speed
+yithril [1d\]: in ur game you need to know when to play a faster or slower move and be aware of the pitfalls of each
+yithril [1d\]: we'll begin with the first shape
+yithril [1d\]: the iron pillar
+yithril [1d\]: as far as connectivity
+yithril [1d\]: its the strongest
+yithril [1d\]: black is connected no way to break the stones apart
+yithril [1d\]: problem is
+yithril [1d\]: the amount of space these two stones cover is quite small
+yithril [1d\]: as we move onto the faster shapes
+yithril [1d\]: the next one being 2
+yithril [1d\]: the kosumi
+yithril [1d\]: or diagonal
+yithril [1d\]: its a tad bit weaker
+yithril [1d\]: there is a space in between at a that could be a problem
+yithril [1d\]: shape number 5 is the keima
+yithril [1d\]: or knights move
+yithril [1d\]: its speedier than shape 1 or 2
+yithril [1d\]: but
+yithril [1d\]: its got weakness
+yithril [1d\]: even more so than the one space jump
+yithril [1d\]: the weakness of the keima is the "waist"
+yithril [1d\]: these two spots
+yithril [1d\]: because
+yithril [1d\]: 4 and 6 are much the same
+yithril [1d\]: they're even further away from each other
+yithril [1d\]: so its easier for white to pry the two stones apart
+jhouse [3k\]: For #5, it's probably good to explicitly mention the ladder
+yithril [1d\]: anyone not know what a ladder is?
+yithril [1d\]: cuz im going to go over that later
+Iink [-\]: no, cuz he can also kill c10 
+jhouse [3k\]: 15k's might not see them immediately, that's my point
+yithril [1d\]: so back to the other shapes
+yithril [1d\]: 6 is the large keima
+yithril [1d\]: and like the small keima its weakness is the waist
+yithril [1d\]: depending on the stones around
+yithril [1d\]: these could all be weaknesses
+yithril [1d\]: but it takes stones around to exploit
+yithril [1d\]: similiarly with 4
+yithril [1d\]: these spots could be problems
+yithril [1d\]: whether or not these spaces actually work for white
+yithril [1d\]: is up to ur reading ability
+yithril [1d\]: nothing replaces actual reading
+yithril [1d\]: but if you are more familiar with shapes then ur eyes can focus on certain spots
+yithril [1d\]: it'll give you a starting point to begin reading
+yithril [1d\]: am i clear so far?
+HonFu [3k\]: I can follow you ^_°
+Bisector [?\]: yes
+Iink [-\]: yep
+Iink [-\]: =\]
+yithril [1d\]: how about hte actual beginners ;)
+yithril [1d\]: weve got some 16 kyus and some 14 kyus here
+yithril [1d\]: good showing of ddks
+yithril [1d\]: if u are confused ill go back
+Radley [8k\]: The 1st line ones are worth 4 points miai and the 2nd line ones are worth 8?
+]
+(;B[]C[ChemBoy613 [7k\]: black cries and drinks too much
+]
+(;AE[ic][lc][pc][hd][le][dj][hj][cl][gm]AW[nk][dl][el][hl][il][jl]AB[jd][kd][od][pd][fe][df][ff][if][kf][of][dk][ik][mk][ml][nl][em][im][pm][pn][qn][dp][fr]LB[db:1][jb:2][ob:3][ii:5][ni:6][bl:4][ql:7][fp:8]TR[dd][ed][jd][kd][fe][df][ff][if][kf][dl][el][hl][il][jl]SQ[dp][fr]C[yithril [1d\]: okay so
+yithril [1d\]: more on shape
+yithril [1d\]: we'll first talk about shape number 1
+yithril [1d\]: when we evaluate our shape
+yithril [1d\]: we need to look at the way its connected
+yithril [1d\]: and the way each stone does their job
+yithril [1d\]: when i learned go shape #1 was introduced to me as the mouth shape
+yithril [1d\]: you can give it any name that makes you giggle
+yithril [1d\]: i can see the mouth but maybe some people cant
+yithril [1d\]: whats good about thi sshape
+yithril [1d\]: is its connectivity
+HonFu [3k\]: how about basset's face? ^_°
+yithril [1d\]: and its ease of creating eyes
+yithril [1d\]: when we examine it closely
+yithril [1d\]: we have two iron pillars
+yithril [1d\]: slow moves but the most solid
+yithril [1d\]: then jutting out from the two iron pillars
+yithril [1d\]: is a one space jump
+yithril [1d\]: so we have two slow moves
+yithril [1d\]: supporting a faster move
+yithril [1d\]: shape number 2 is just shape number one without the extra stone
+yithril [1d\]: shape number 2 is the table shape
+yithril [1d\]: highly connected
+yithril [1d\]: very strong
+yithril [1d\]: the iron pillar here
+yithril [1d\]: supports
+yithril [1d\]: the one space jump here
+yithril [1d\]: number 3 is a more compact version of number 2
+yithril [1d\]: its called the bamboo tube
+shanku [16k\]: bamboooooooo
+yithril [1d\]: unlike 1 and 2 though
+HonFu [3k\]: ^^
+yithril [1d\]: its not great in the making eyes department
+yithril [1d\]: because its made of two iron pillars and no diagonal moves
+yithril [1d\]: however its fantastic for connection
+yithril [1d\]: now onto bad shapes
+yithril [1d\]: since one of the definitions of good shape is that the shape is well connected
+yithril [1d\]: it follows then that bad shape is the opposite
+yithril [1d\]: disconnected shapes are bad
+yithril [1d\]: number 4 and 5 are classic examples
+yithril [1d\]: white is spearing through both black positions
+yithril [1d\]: breaking up black into two pieces
+yithril [1d\]: avoid these shapes whenever possible
+yithril [1d\]: these shapes were formed when b ignored whites attack
+yithril [1d\]: and gave white a second move
+yithril [1d\]: for example
+yithril [1d\]: in this diagram
+yithril [1d\]: 5 is even worse than that
+yithril [1d\]: 5 black ignored many moves
+yithril [1d\]: and is hopelessly disconnected
+yithril [1d\]: we move onto 6
+yithril [1d\]: and 7
+yithril [1d\]: 7 being a very infamous shape
+yithril [1d\]: when i first started go
+yithril [1d\]: the person teaching me told me never to make number 7
+yithril [1d\]: the empty triangle
+yithril [1d\]: compare it to 6
+yithril [1d\]: which is a full tiriangle
+yithril [1d\]: the difference is the marked stone
+ChemBoy613 [7k\]: mmmmmmmmmmmm full triangle had dinner
+yithril [1d\]: with 6 we are taking away liberties from white
+yithril [1d\]: the marked white stone only has 2 liberties meaning he is weak
+yithril [1d\]: with 7 we are not squeezing white
+yithril [1d\]: the reason this shape is not oftentimes very good is because it becomes very easy to get low on liberties
+yithril [1d\]: however i would like to stress
+yithril [1d\]: that the attitude of "id rather die than make an empty triangle" is not a good policy
+yithril [1d\]: sometimes its the only move
+yithril [1d\]: sometimes its a fantastic move
+yithril [1d\]: use ur judgement and decide if it is, otherwise, beware of it.
+yithril [1d\]: the last shape in this diagram is number 8
+yithril [1d\]: in chinese the "elephant eye"
+yithril [1d\]: the two marked black stones
+yithril [1d\]: have a poor relation ship with each other
+yithril [1d\]: if its whites turn he can easily keep black from connecting
+shanku [16k\]: how would one and two be formed in an actual game?
+yithril [1d\]: clear so far?
+yithril [1d\]: aqhh
+yithril [1d\]: excellent question
+yithril [1d\]: usually these shapes appear in part
+yithril [1d\]: and not whole
+yithril [1d\]: ud see 2 more so than you would see 1 
+yithril [1d\]: in my experience
+yithril [1d\]: it largely depends on the type of game
+MorpheusZ [12k?\]: 1 is the net itself
+yithril [1d\]: i cant generalize however because there are so many situations
+yithril [1d\]: if you watch higher level players games
+yithril [1d\]: try to pay attention to when these shapes come up
+yithril [1d\]: and ask urself what they do
+shanku [16k\]: ok
+shanku [16k\]: ty
+HonFu [3k\]: when an table
+HonFu [3k\]: or the best shape
+HonFu [3k\]: what was the name
+HonFu [3k\]: is in enemy territory
+HonFu [3k\]: one eye will not be enough
+yithril [1d\]: shape #1?
+HonFu [3k\]: yes
+yithril [1d\]: mouth
+yithril [1d\]: thats the way i learned it
+HonFu [3k\]: right
+HonFu [3k\]: whats a good follow up
+HonFu [3k\]: to get a second eye
+HonFu [3k\]: if its really really urgent?
+yithril [1d\]: hmm
+yithril [1d\]: thats also a bit too general ;)
+HonFu [3k\]: same for 3
+yithril [1d\]: 3 is hard to make eyes with
+yithril [1d\]: because its made up of straight lines
+yithril [1d\]: if you try to make one with straight lines
+yithril [1d\]: theres no magic bullet
+HonFu [3k\]: hmm ...
+yithril [1d\]: theres hundreds of examples and situations
+HonFu [3k\]: is the horse head a good folow up?
+yithril [1d\]: haha
+HonFu [3k\]: or a one point rather?
+HonFu [3k\]: ^^
+yithril [1d\]: could be
+yithril [1d\]: one space is reasonable speed and decent shape
+yithril [1d\]: if you need such a move then play it
+HonFu [3k\]: okay, so I still have to think myself while playing ^_°
+HonFu [3k\]: no, thanks Jon!
+yithril [1d\]: thats what im hoping for after this lecture
+yithril [1d\]: that u think on this subject while u play ;)
+]
+(;AE[dd][ed][jd][od][pd][fe][df][ff][if][kf][of][pf][dk][ik][mk][nk][dl][el][hl][il][jl][ml][nl][em][im][pm][pn][qn]AW[eb][kc][qe][qi][ri][co][cp][ep][mp][np][cq][dr][er][fr]AB[db][fb][ec][jc][lc][mc][qh][oi][pi][qj][do][fo][mo][lp][eq][fq][mq][nq]LB[dd:1][ke:2][of:3][em:4][mm:5]C[HonFu [3k\]: I also have a question
+yithril [1d\]: ok
+HonFu [3k\]: haha^^yeah, of course
+yithril [1d\]: ok lets move on
+yithril [1d\]: killing stones
+yithril [1d\]: my favorite
+yithril [1d\]: the first one we'll just breeze right through
+yithril [1d\]: our opponent will try to live with a stone
+yithril [1d\]: because he doesnt know its dead
+yithril [1d\]: number three is a bit trickier
+HonFu [3k\]: but what if white can crawl out
+yithril [1d\]: oops forgot to add a stone
+yithril [1d\]: next up is 4
+yithril [1d\]: the net
+yithril [1d\]: or geta in japanese
+yithril [1d\]: e4 is captured
+yithril [1d\]: what we have to worry about
+yithril [1d\]: is if we have a hole in our net
+yithril [1d\]: if theres a hole the fish get out
+yithril [1d\]: and we have no dinner
+yithril [1d\]: that would be bad for black
+yithril [1d\]: lastly
+yithril [1d\]: the infamous ladder
+yithril [1d\]: im not sure what u mean
+JOmega [16k\]: ie, W playes D3 ...  you need to play E5 or F4 right away
+yithril [1d\]: yeah you should take the stone
+JOmega [16k\]: ok, thanks
+yithril [1d\]: fill in the hole
+]
+(;AE[eb][fb][ec][jc][kc][lc][mc][kd][qe][qh][oi][pi][qi][ri][qj][co][do][fo][mo][cp][dp][ep][lp][mp][np][cq][eq][fq][mq][dr][er][fr]AW[db][ob][dc][oc][cd][dd][ld][md][nd][od][de][ee][df][dg][dh][di][cj][dj][bk][cl][kq][nq]AB[cb][pb][cc][pc][bd][pd][qd][rd][sd][ce][cf][cg][ch][bi][ci][bj][ql][qn][po][pp][pq]LB[ge:1][pf:2][mo:3]TR[cb][pb][cc][pc][pd]C[yithril [1d\]: all good so far?
+Bisector [?\]: ok
+JOmega [16k\]: g2g
+cwp7: yup
+yithril [1d\]: now a little bit on the endgame
+shanku [16k\]: ewwwwwwww
+yithril [1d\]: justa little
+shanku [16k\]: w won :D
+yithril [1d\]: nothing huge
+yithril [1d\]: id like people to be aware
+yithril [1d\]: of how big the edge is 
+yithril [1d\]: and how many points its worth
+yithril [1d\]: as well as not falling into beginner pitfalls
+yithril [1d\]: lets take 2 first
+yithril [1d\]: the difference between 1 and two
+yithril [1d\]: is that in 2 the edge black stones have more liberties
+yithril [1d\]: and are therefore stronger
+yithril [1d\]: wow
+yithril [1d\]: almost an hour
+yithril [1d\]: ok real quick
+yithril [1d\]: i had wanted to do opening stuff but i wanted to keep the lecture to an hour
+yithril [1d\]: the border between black and white here
+yithril [1d\]: once we reach the end game
+yithril [1d\]: is very big
+]
+(;W[pa]C[yithril [1d\]: white hanes to reduce blacks corner
+]
+;B[qa]
+;W[oa]C[yithril [1d\]: black ataris, white connects
+yithril [1d\]: common beginner mistake is to tenuki
+shanku [16k\]: s18?
+]
+(;B[]
+;W[qb]C[yithril [1d\]: once white ataris here
+yithril [1d\]: weve caught b in a ladder
+]
+(;B[ra]C[yithril [1d\]: if b were to play this
+]
+;W[rb]C[yithril [1d\]: hed be dead
+])
+(;B[rb]
+;W[ra]C[yithril [1d\]: even like this
+yithril [1d\]: this is a big loss of points
+yithril [1d\]: that didnt need to happen
+]))
+(;B[qb]C[yithril [1d\]: connect
+yithril [1d\]: no problems
+])
+(;B[rb]C[yithril [1d\]: cool too
+]
+;W[qb]
+;B[qc]C[yithril [1d\]: white cant play htere rightg?
+]))
+(;W[]
+(;B[oa]C[yithril [1d\]: i also want you to appreciate how big this is
+yithril [1d\]: when black plays here
+yithril [1d\]: its sente
+yithril [1d\]: meaning he has the intiative
+yithril [1d\]: if w plays elsewhere
+]
+(;W[na]C[yithril [1d\]: it makes more sense for white to protect his territory than to jut watch it be destroyed
+]
+;B[pa]C[yithril [1d\]: but now white has to defend
+yithril [1d\]: or he loses points
+]
+(;W[nb]C[yithril [1d\]: first off it ends in sente for b
+yithril [1d\]: now b made his box bigger
+yithril [1d\]: got more points
+yithril [1d\]: took some from white
+yithril [1d\]: and its his turn again
+yithril [1d\]: i.e. ending in sente
+])
+(;W[]
+;B[nb]))
+(;W[]
+;B[ma]C[yithril [1d\]: its feasible
+yithril [1d\]: that black could jump into whites territory
+yithril [1d\]: and destroy it
+]))
+(;B[or]C[yithril [1d\]: to if black gets this
+]
+;W[nr]
+;B[ns]
+;W[ms]
+;B[os]
+;W[lr]C[yithril [1d\]: b is much bigger huh?
+]))
+(;W[ca]C[shanku [16k\]: b18 :P
+]
+(;B[ba]C[yithril [1d\]: now we confuse
+yithril [1d\]: diagram one with 2
+yithril [1d\]: and we think hey if i atari hell connect
+]
+(;W[da]
+;B[bb]C[yithril [1d\]: this is our fantasy
+])
+(;W[bb]C[yithril [1d\]: white can counter atari
+]
+(;B[da]C[yithril [1d\]: if we take
+]
+;W[bc]C[yithril [1d\]: oops
+HonFu [3k\]: ^^
+yithril [1d\]: white ataris
+yithril [1d\]: and now black has all kinds of problems
+]
+(;B[ca]
+;W[ea]C[HonFu [3k\]: I still fall for this in blitz games
+yithril [1d\]: this would die
+])
+(;B[ea]
+;W[ca]
+;B[cb]C[yithril [1d\]: i saw this a lot in beginner games
+yithril [1d\]: b would realize his error and try to run away
+]))
+(;B[bc]
+;W[aa]C[yithril [1d\]: even like this
+yithril [1d\]: its still a loss
+yithril [1d\]: needless loss of points
+])))
+(;B[bb]C[yithril [1d\]: prolly like this
+yithril [1d\]: since we cant atari
+yithril [1d\]: we have to do something else
+]))
+(;W[or]C[JOmega [16k\]: so you almost NEED the empty triangle there in #1?
+shanku [16k\]: i'm willing to stay :D
+HonFu [3k\]: me too
+yithril [1d\]: does anyone care if i finish?
+yithril [1d\]: even if it goes over time
+yithril [1d\]: i know u 2 dont
+jtbunkers [20k\]: i dont mind
+yithril [1d\]: ok then
+cwp7: i don't mind.
+Radley [8k\]: not at all :-)
+yithril [1d\]: okay
+yithril [1d\]: so
+siso [?\]: That'd be great :)
+yithril [1d\]: this move is huge
+yithril [1d\]: because
+]
+(;B[]
+;W[qr]C[yithril [1d\]: if b tenukies
+yithril [1d\]: (that means to play elsewhere)
+yithril [1d\]: white can jump into his territory
+yithril [1d\]: easily
+]
+;B[pr]
+;W[ps]C[yithril [1d\]: impossible to cut white
+shanku [16k\]: ONOES
+])
+(;B[pr]C[yithril [1d\]: black will block
+yithril [1d\]: then
+yithril [1d\]: like in diagram 2
+]
+;W[ps]C[yithril [1d\]: white can come under
+]
+;B[qs]
+;W[os]
+;B[qr]C[yithril [1d\]: now compare this
+yithril [1d\]: than in this one
+yithril [1d\]: dont miss these spots in the endgame, and instead of trying to duke it out in the middle over like 3 points
+yithril [1d\]: appreciate how much you can gain on the side
+yithril [1d\]: just by playing simple moves
+yithril [1d\]: are we ok to move on?
+HonFu [3k\]: okeydokay
+jtbunkers [20k\]: yes
+cwp7: yup
+siso [?\]: Yes.
+kerbol [9k\]: sure
+shanku [16k\]: okilydokily
+])))
+(;W[ea]C[yithril [1d\]: e18 is dead
+yithril [1d\]: even if white tries to run
+yithril [1d\]: its till dead
+yithril [1d\]: *still
+HonFu [3k\]: dead stones walking
+yithril [1d\]: white has 2 libs here
+]
+;B[fa]C[yithril [1d\]: after black blocks he only has 1
+yithril [1d\]: and even after extending he only has 1
+yithril [1d\]: white is daed
+]
+;W[da]
+;B[ca])
+(;W[kb]C[yithril [1d\]: now number 2 might be a little confusing but white is still dead
+yithril [1d\]: i watched some beginner games
+yithril [1d\]: earlier this week
+yithril [1d\]: and i saw stuff like this
+yithril [1d\]: if u get confused
+yithril [1d\]: or just dont know
+yithril [1d\]: think to urself
+yithril [1d\]: "which area is more open?"
+yithril [1d\]: if w plays k18 he gets to go out
+yithril [1d\]: and then u play something weird
+yithril [1d\]: or another place that doesnt kill the stone outright
+yithril [1d\]: and ur game falls apart
+]
+(;B[jb]C[yithril [1d\]: black blocks here
+HonFu [3k\]: I have a question about this tipe of crawling
+yithril [1d\]: however if we play here
+yithril [1d\]: w has no where to go
+yithril [1d\]: with n 17
+yithril [1d\]: there is no where to go
+yithril [1d\]: clean simple kill
+yithril [1d\]: but all too often as beginners
+]
+;W[lb]
+;B[mb]
+;W[ma]
+;B[ka]
+;W[la]
+;B[na]C[yithril [1d\]: dead
+])
+(;B[lb]C[yithril [1d\]: or
+yithril [1d\]: umm
+HonFu [3k\]: should we ever bend down or just keep crawling ahead?
+yithril [1d\]: b doesnt play here
+HonFu [3k\]: in other cases
+yithril [1d\]: depends
+yithril [1d\]: id have to see the situation
+yithril [1d\]: and read it out
+HonFu [3k\]: ah okay
+yithril [1d\]: for the purposes of this lecture
+yithril [1d\]: we're just dealing with these basic shapes
+yithril [1d\]: keep them in mind when u play
+yithril [1d\]: see when they apply and when they dont
+]
+;W[jb]C[JOmega [16k\]: oops
+yithril [1d\]: m18 is entirely the wrong way t oblock
+])
+(;B[]
+;W[jb]
+(;B[ib]C[yithril [1d\]: if we try to block him
+]
+;W[ic]
+;B[jd]
+;W[hb]C[yithril [1d\]: one of the stones we played to block him dies
+])
+(;B[ic]
+;W[ib]LB[jd:A][ld:B]C[yithril [1d\]: this is not necesarily a sure fire kill either
+yithril [1d\]: white still can crawl and gain liberties
+yithril [1d\]: maybe link up to a group
+yithril [1d\]: or maybe try to cut us
+yithril [1d\]: this is not clear
+]))
+(;B[le]))
+(;AB[rj]C[yithril [1d\]: here
+yithril [1d\]: if b plays
+yithril [1d\]: he can kill
+]
+(;W[rh]C[yithril [1d\]: if its white turns
+]
+;B[qg]
+;W[rg]C[yithril [1d\]: w can come out
+]
+;B[rf]
+;W[qf]LB[re:1][sf:2]C[yithril [1d\]: trying to cut fails
+yithril [1d\]: w has 3 libs
+yithril [1d\]: b has 2
+])
+(;W[]C[yithril [1d\]: if its b turn
+]
+(;B[rh]C[yithril [1d\]: you could kill like this or
+])
+(;B[qf]C[yithril [1d\]: kill likethis
+]
+;W[rh]
+;B[rg]C[yithril [1d\]: now white dead
+]))
+(;AE[rj]C[yithril [1d\]: for instance here
+HonFu [3k\]: wow never saw that bump
+]
+;W[]
+;B[qf]C[yithril [1d\]: this threatens to kill the marked stones because
+]
+(;W[]
+;B[rj]
+;W[rh]
+;B[rg]C[yithril [1d\]: after blocking
+yithril [1d\]: w dies
+])
+(;W[rj]
+;B[pe]C[yithril [1d\]: w would have to escape and b gets another move
+])))
+(;W[eo]
+;B[en]
+;W[fp]
+;B[gp]C[yithril [1d\]: dead
+])
+(;AE[fo]AW[dq]
+;W[]
+;B[fo]C[yithril [1d\]: now if we try to net
+yithril [1d\]: oops
+shanku [16k\]: and cuts :P
+]
+;W[fp]C[yithril [1d\]: atari
+]
+;B[gq]
+;W[gp]C[yithril [1d\]: white gets out
+])
+(;W[]
+;B[op]
+;AE[qh][oi][pi][qi][ri][qj]C[yithril [1d\]: first off
+JOmega [16k\]: question.
+yithril [1d\]: yhes
+JOmega [16k\]: on the net then - if the "hole" is filled, take in the white stone wuickly?
+JOmega [16k\]: quick*
+yithril [1d\]: first thing about ladders
+yithril [1d\]: read them
+yithril [1d\]: always
+yithril [1d\]: dont be lazy about it
+yithril [1d\]: practice if need be
+yithril [1d\]: but they must be read out
+yithril [1d\]: its vital you know if stones can be captured in a ladder or not
+yithril [1d\]: especially at the beginner level
+yithril [1d\]: when people dont read ladders out
+yithril [1d\]: and try to take a stone that cant be taken or try to run with stones that are dead ;)
+yithril [1d\]: second thing to keep in mind
+yithril [1d\]: and im just going to say this in the abstract because this could be a subject in and of itself
+yithril [1d\]: is that you need to watch out for ladder breakers
+]
+(;W[no]
+;B[nn]
+;W[oo]
+;B[po]
+;W[on]
+;B[om]
+;W[pn]
+;B[qn]
+;W[pm]
+;B[pl]
+;W[qm]
+;B[rm]
+;W[ql]
+;B[qk]
+;W[rl]
+;B[rk]
+;W[sl]
+;B[sk]
+;W[sm]
+;B[sn])
+(;AW[pm]LB[pm:1]C[shanku [16k\]: p3!
+yithril [1d\]: if there is an enemy stone in its path
+yithril [1d\]: a common strategy
+yithril [1d\]: will be to have a ladder shape
+yithril [1d\]: and play a ladder breaker
+yithril [1d\]: forcing ur opponent to capture
+]
+(;W[no]
+;B[nn]
+;W[oo]
+;B[po]
+;W[on]
+;B[pn]
+;W[om]LB[mn:1][lo:2][pp:3][lq:5][oq:4]C[yithril [1d\]: the ladder is broken
+yithril [1d\]: white is fine
+yithril [1d\]: but black
+yithril [1d\]: 5 cutting points
+yithril [1d\]: and only one move to protect 
+yithril [1d\]: b will fall apart
+])
+(;W[]
+;B[no]
+;W[qm]C[yithril [1d\]: and then getting a second move
+yithril [1d\]: that is a much more complicated technique
+yithril [1d\]: but even as a beginner you should be aware of ladder breakers
+yithril [1d\]: ok so far?
+HonFu [3k\]: Jon, one question about reading em out: cant we cant just do the zig zag thing with our eyes?
+yithril [1d\]: ur reading it
+shanku [16k\]: once you get close to other stones
+shanku [16k\]: you should add in the black stones though
+HonFu [3k\]: good advice!
+]))))
+(;AE[fe]C[ChemBoy613 [7k\]: love tables
+yithril [1d\]: once we take that away its the same shape
+])
+(;W[jf]C[yithril [1d\]: if white tries to come in at the weakness
+]
+;B[jg]
+;W[je]
+;B[ie]
+;W[ke]
+;B[le])
+(;W[qe]C[yithril [1d\]: if w tries to play something to try and break black apart
+yithril [1d\]: b can ignore
+]
+;B[]
+;W[pe]
+;B[oe]C[yithril [1d\]: and if w attempts to cut black
+yithril [1d\]: black just blocks
+yithril [1d\]: no problems
+])
+(;W[eq]C[yithril [1d\]: the weakness of this shape is here
+yithril [1d\]: right in the middle
+]
+;B[ep]
+;W[fq]C[yithril [1d\]: white can walk through black
+])
+(;C[HonFu [3k\]: I would try n16 first, but thats not enough
+yithril [1d\]: eyes are made up of diagonal moves
+])
+(;C[yithril [1d\]: it takes more moves
+]))
+(;W[]
+;AE[ic][lc][pc][ed][hd][le][pf][dj][hj][cl][gm]AB[qd][co][qq]LB[cc:1][pf:2][eo:3][oq:4]
+;B[])
+(;W[dk]C[yithril [1d\]: attacking at the waist
+]
+;B[]
+;W[ck]C[yithril [1d\]: if black does nothing white will walk through black
+]
+;B[ek]
+;W[dl]C[yithril [1d\]: there is no connecting
+ChemBoy613 [7k\]: ouch
+yithril [1d\]: black is split in half
+ChemBoy613 [7k\]: :'(
+])
+(;W[md]C[yithril [1d\]: similarly
+yithril [1d\]: white peeps here
+]
+;B[]
+;W[ld]C[yithril [1d\]: ouch
+yithril [1d\]: in this case
+]
+;B[kd]C[yithril [1d\]: if b tries to defend he has two cutting points
+yithril [1d\]: cutting points = weakness because they are discontinuities in your shape
+yithril [1d\]: ur opponent can choose which cutting point to play and try to time it so it is bad for you
+]))
+(;C[yithril [1d\]: wihtout a second movei n a row
+yithril [1d\]: white cannot cut black
+yithril [1d\]: if white plays here
+yithril [1d\]: then we protect our cutting point
+yithril [1d\]: at A
+yithril [1d\]: otherwise if w plays here
+yithril [1d\]: we've split black into 2 groups
+yithril [1d\]: and white is also split into two groups
+yithril [1d\]: since we only get one move however
+yithril [1d\]: it takes a bit of work for white to do this
+yithril [1d\]: the next shape is the one space jump
+yithril [1d\]: its quite sturdy
+yithril [1d\]: but unlike the first two
+])
+(;B[pp]
+;W[dk]
+;B[ck]C[yithril [1d\]: if w strikes at the waist
+yithril [1d\]: b defends
+yithril [1d\]: by trying to link his stones
+]
+;W[cj]C[yithril [1d\]: but there is a cut
+yithril [1d\]: as it stands
+yithril [1d\]: this is not severe because
+]
+;B[ek]C[yithril [1d\]: b  could kill this cutting stone
+yithril [1d\]: however if b cannot there might be problmes
+])
+(;AE[hj][gm]
+;B[pp]C[HonFu [3k\]: right
+yithril [1d\]: i have no conception of endgame calculation to be honest
+yithril [1d\]: i kill them before it gets to that point
+Radley [8k\]: ok
+]
+;W[dk]
+;B[ck]
+;W[cj]
+;B[ek]
+;W[dl]
+;B[dm]
+;W[el]
+;B[fl]C[yithril [1d\]: as it stands
+yithril [1d\]: this will continue
+yithril [1d\]: with blakc atari-ing white over and over
+yithril [1d\]: until it hits the edge of the board
+yithril [1d\]: and w dies
+])
+(;AE[ic][lc][pc][ed][hd][le][pf][dj][hj][cl][gm]AB[qd][co][qq]LB[dd:B][qd:3][rd:2][sd:1][co:C][qq:D]C[ChemBoy613 [7k\]: HAHAHAHAHA lol I take a break from studying and see that
+ChemBoy613 [7k\]: hehe
+ChemBoy613 [7k\]: endgame - double sente first... then sente then reverse senste then big gote
+yithril [1d\]: so last subject
+ChemBoy613 [7k\]: in general
+yithril [1d\]: is the opening (fuseki)
+Seakneeboy [8k\]: is there supposed to be audio
+yithril [1d\]: here are 4 common opening moves
+yithril [1d\]: no
+Seakneeboy [8k\]: ok
+yithril [1d\]: im typing this time
+shanku [16k\]: san san!
+shanku [16k\]: :P
+yithril [1d\]: A is called the komoku
+yithril [1d\]: B is the hoshi or star point
+yithril [1d\]: D is the san san or 3,3 point
+yithril [1d\]: C is the mokuhazushi 
+yithril [1d\]: sometimes people use japanese terms
+yithril [1d\]: so just in case uve never heard of them now u know
+yithril [1d\]: we'll begin with A
+dogberto [?\]: no 5,4s?
+ChemBoy613 [7k\]: 5-4 also reasonably common and playable
+yithril [1d\]: yeah
+yithril [1d\]: i just wanted to show some basic josekis
+yithril [1d\]: regarding each opening move
+yithril [1d\]: in case u dont know
+yithril [1d\]: a joseki is a set of standard moves that achieve a relatively even result between B and W
+yithril [1d\]: however even is in the eye of the beholder
+yithril [1d\]: there are thousands of josekis
+yithril [1d\]: im creating my own database of them and ill let you guys know when its done
+yithril [1d\]: first off
+yithril [1d\]: my own personal advice
+yithril [1d\]: 1. never memorize joseki, its totally useless
+yithril [1d\]: 2. dont just play joseki cuz its joseki
+yithril [1d\]: 3. pick moves u like whether they are joseki or not
+yithril [1d\]: joseki are good to learn from
+yithril [1d\]: they teach a lot about shape
+yithril [1d\]: and when we already know some sequences
+yithril [1d\]: we can learn a lot about go theory when we study good players game
+yithril [1d\]: s
+yithril [1d\]: they are useful
+yithril [1d\]: however they do not replace strength in theory or reading
+yithril [1d\]: i would say as a beginner
+yithril [1d\]: to be familiar with some, but to spend more time doing life and death problems and really working on your reading
+yithril [1d\]: the reason im doing it
+yithril [1d\]: is because i wanted to show off some joseki that displayed how each corner stone works
+yithril [1d\]: so you get a feel of the type of move you're playing instead of just randomly playing in the corner
+yithril [1d\]: So we'll begin with A
+yithril [1d\]: the komoku
+yithril [1d\]: its third line meaning its low
+yithril [1d\]: third line and below is low, 4th and above is high
+yithril [1d\]: starting from the edge
+yithril [1d\]: low moves are good for territory
+yithril [1d\]: high moves are good for creating potential and attacking
+yithril [1d\]: the komoku has an added bonus
+yithril [1d\]: B is the star point, the hoshi stone
+yithril [1d\]: its 4th line so its geared towards influence and not territory but it is flexible
+yithril [1d\]: we have 3
+yithril [1d\]: D
+yithril [1d\]: i mean
+yithril [1d\]: the 3,3 point
+yithril [1d\]: a low move
+yithril [1d\]: nestled snuggly in the corner
+yithril [1d\]: D makes territory but it can be pressed down
+yithril [1d\]: C the mokuhazushi forgoes the corfner
+yithril [1d\]: for the side
+yithril [1d\]: now ill show some basic josekis 
+yithril [1d\]: that demonstrate the function of the opening moves
+]
+(;B[oc]C[yithril [1d\]: with two moves we can efficiently and securely take a corner
+yithril [1d\]: the corners being an efficient area to make points
+])
+(;B[]C[yithril [1d\]: conversely
+]
+(;W[cc]C[yithril [1d\]: its weakness is here, the 3,3 point
+yithril [1d\]: white could invade here
+yithril [1d\]: and take the territory
+yithril [1d\]: now the star point stone
+yithril [1d\]: and its weakness
+]
+;B[dc]C[yithril [1d\]: take away a liberty
+]
+;W[cd]C[yithril [1d\]: come out
+]
+;B[ce]TR[dc][dd]SQ[cc][cd]C[yithril [1d\]: hane at the head of two stones
+yithril [1d\]: its usually a good move when you have two black stones and two white stones standing side by side to hit your opponent on the head
+yithril [1d\]: it removes liberties and makes life harder on them
+]
+;W[be]C[yithril [1d\]: come out
+]
+;B[cf]C[yithril [1d\]: walk ahead and threaten to seal
+]
+(;W[]
+;B[bf])
+(;W[bf]C[yithril [1d\]: come out
+]
+;B[cg]C[yithril [1d\]: walk ahead
+]
+;W[db]C[yithril [1d\]: try to enlarge amount of space
+]
+;B[eb]C[yithril [1d\]: block and create a weakness at c18
+]
+;W[cb]C[yithril [1d\]: protect
+]
+;B[fc]C[yithril [1d\]: protect
+yithril [1d\]: here
+yithril [1d\]: white took points
+yithril [1d\]: black took influence
+yithril [1d\]: he played a high stone to begin with
+yithril [1d\]: so the thickness he gains is in line with his original move.
+]))
+(;W[od]C[yithril [1d\]: white approaches the black stone high
+]
+;B[oc]C[yithril [1d\]: black attaches to make territitory
+]
+;W[nc]LB[ob:2][pc:1]C[yithril [1d\]: block
+yithril [1d\]: p17 has 2 liberties
+yithril [1d\]: it is a weak stone
+yithril [1d\]: we must help it
+]
+;B[pc]C[yithril [1d\]: now white has a cutting point
+yithril [1d\]: he needs to fix it
+]
+;W[nd]C[yithril [1d\]: b needs to prevent white from attaching and making more thickness
+]
+(;B[]
+;W[qe]C[yithril [1d\]: white could attach here
+yithril [1d\]: and make even more influence
+]
+;B[re]
+;W[qf]C[yithril [1d\]: pressing b low
+])
+(;B[qf]C[yithril [1d\]: so we come out
+yithril [1d\]: now white needs to make a base
+]
+(;W[jc])
+(;W[jd]C[yithril [1d\]: either depending.
+yithril [1d\]: now lets look at the result
+yithril [1d\]: white has stones the face outward while black took a large amount of territory
+yithril [1d\]: the first move we played, the komoku, had that in mind
+])))
+(;W[pp]C[yithril [1d\]: heres anotehr one
+yithril [1d\]: the 3,3 can be pressed down
+]
+(;B[qp]C[yithril [1d\]: come out
+yithril [1d\]: otherwise
+]
+;W[po]C[yithril [1d\]: walk ahead
+]
+;B[or]C[yithril [1d\]: make some points and come out
+]
+;W[mp]C[yithril [1d\]: create more influence and stay ahead
+]
+;B[rn]
+;W[pl]C[yithril [1d\]: b played low
+yithril [1d\]: so his stones can be pressed low
+yithril [1d\]: he gets the corner he set out to have
+yithril [1d\]: but at the possible expense of letting white make influence on the outside
+])
+(;B[]
+;W[qp]C[yithril [1d\]: white can try to close us in
+yithril [1d\]: and it'll revert to the sequence we just saw in the upper left
+]))
+(;W[dq]C[yithril [1d\]: like the komoku stone
+yithril [1d\]: the mokuhazushi can be made into a shimari
+yithril [1d\]: plus
+yithril [1d\]: c5 wasnt played with a huge emphasis on the corner
+yithril [1d\]: if w plays here
+]
+;B[ep]C[yithril [1d\]: its logical b will press w down
+yithril [1d\]: to build influence in the direction he originally intended
+]
+(;W[eq]C[yithril [1d\]: come out
+]
+;B[fp]C[yithril [1d\]: walk ahead
+]
+;W[gq]C[yithril [1d\]: we build an iron pillar
+yithril [1d\]: so now we can afford to play a move that is not as slow
+yithril [1d\]: but not too fast
+yithril [1d\]: so we settle for one space
+yithril [1d\]: white makes territory along the edge
+yithril [1d\]: and b developed influence in the direction that the move originally called for
+yithril [1d\]: i do not ask u memorize any of these
+yithril [1d\]: itts more important to ask urself what principle guides each move
+yithril [1d\]: and then to ask urself "does that apply in the game im playing now?"
+yithril [1d\]: it will give you some more grounds to reason out your moves wihle you play
+yithril [1d\]: thats all for today
+JOmega [16k\]: thanks so much, Jon!
+yithril [1d\]: hope everyone enjoyed the lecture
+dogberto [?\]: query... what prevents black from cutting white at f3?
+jtbunkers [20k\]: you said something earlier about working on reading, is there a way to get better at this other than playing a lot?
+wappler [10k?\]: thx a lot
+siso [?\]: Thank you :)
+cwp7: thanks :)
+Radley [8k\]: Thanks
+kerbol [9k\]: thanks
+yithril [1d\]: if you miss a lecture they're located at 
+yithril [1d\]: http://www.umich.edu/~goclub/index.html under resources.
+HonFu [3k\]: thanks
+yithril [1d\]: jtbunkers
+yithril [1d\]: tsumego
+yithril [1d\]: meaning life and death
+jtbunkers [20k\]: ahh
+yithril [1d\]: for right now play al ot
+yithril [1d\]: i went to 25 kyu to 11 kyu just by playing
+yithril [1d\]: in like 3 months
+jtbunkers [20k\]: oki thank you
+yithril [1d\]: but do practice reading
+jtbunkers [20k\]: of course
+])
+(;W[]
+;B[eq]C[yithril [1d\]: otherwise b will seal you
+])))))

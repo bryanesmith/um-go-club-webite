@@ -1,0 +1,1505 @@
+(;GM[1]FF[4]CA[UTF-8]AP[CGoban:3]ST[2]
+RU[Japanese]SZ[19]KM[0.00]
+PW[Tesuji!]PB[Tesuji!]DT[2007-10-14]PC[The KGS Go Server at http://www.gokgs.com/]C[Lecture 10
+
+Tesuji (Skillful play)
+
+Tesujis can destroy your opponent and also help you avoid getting destroyed.  In this lecture we will be covering a wide range of tesujis from beginner to expert.  FaintSmile [3k\]: this gonna be audio?
+volatile [10k\]: i can't wait ^^ tesuji time :D
+HonFu [3k\]: hooray, enemy destruction time ^_°
+volatile [10k\]: hm...how long does it usually take you to organize a lecture?
+Iink [-\]: hi yithiril =\]
+HonFu [3k\]: everybody let's cut em off, squeeze em out, ladder em down! ^^ 
+HonFu [3k\]: hey, GoTraurig, why are you traurig?
+GoTraurig [15k\]: only 15k? :(
+vitorious [15k\]: represent!
+HonFu [3k\]: but soon you will be 9d, and then you are still traurig!
+DarthStian [6k\]: hehe define soon
+GoTraurig [15k\]: ill worry about that when it happens
+DarthStian [6k\]: How do people normally advance in rank? I've been like stuck on 6k forever
+DarthStian [6k\]: How fast*
+HonFu [3k\]: life and death, darth!
+Mendez [1k?\]: I'll ask the same. :)
+HonFu [3k\]: helped me at least
+FaintSmile [3k\]: i was 6k for about 3 months
+Korlon [3k\]: Very different for each person.
+vitorious [15k\]: I hear there are plateaus, must be in one
+volatile [10k\]: plataeus? o.o
+yithril [2d\]: hi
+Hikarujr [3k\]: hello
+Mendez [1k?\]: Hello.
+volatile [10k\]: hi hi :D
+HonFu [3k\]: hi ^^
+Korlon [3k\]: I think he means walls
+DarthStian [6k\]: What I mean is, is it normal to advance to a spesific level and then suddenly be stuck?
+volatile [10k\]: mmkay
+FaintSmile [3k\]: this gonna be audio or typing?
+HonFu [3k\]: happens often, darth
+bourbaki [1k\]: yes it is darthstian
+bourbaki [1k\]: i've been 1k since about may
+yithril [2d\]: ok
+yithril [2d\]: first off
+DarthStian [6k\]: I was planning on advancing 10 k this year but hey, things don't always go as I plan.. :P 
+yithril [2d\]: If you miss a lecture they are available at: http://www.umich.edu/~goclub/index.html under resources.
+yithril [2d\]: today is the 10th
+yithril [2d\]: so today i thought we'd have some Go flavored fun
+yithril [2d\]: and do some tesuji problems
+Shana [1k\]: go flavored? does that taste good
+yithril [2d\]: depends if you like the taste of stone
+yithril [2d\]: some people do
+Shana [1k\]: eww
+Mendez [1k?\]: :)
+yithril [2d\]: or death
+volatile [10k\]: now death sounds yummy
+yithril [2d\]: so these problems
+Shana [1k\]: how bout vanilla?
+yithril [2d\]: i think theres like 20 of them
+yithril [2d\]: i composed
+yithril [2d\]: they come from my own games, games of high dans, and there are a few basic ones
+HonFu [3k\]: so we will do group tsumego today?
+yithril [2d\]: yes
+yithril [2d\]: for the beginner ones
+HonFu [3k\]: cool ^^
+Shana [1k\]: ehh
+yithril [2d\]: id like to let the beginners think about it first
+yithril [2d\]: then people can chime in
+yithril [2d\]: please don't answer until i say so
+volatile [10k\]: um...what counts as beginners? :D 10k?
+Shana [1k\]: fine pft
+yithril [2d\]: some of these are for like 20 kyu
+yithril [2d\]: really basic stuff
+volatile [10k\]: okay
+Shana [1k\]: lowest in this room is 15k lol
+yithril [2d\]: theres some for higher kyu
+yithril [2d\]: and i have a pro tesuji
+Shana [1k\]: well this game
+Mendez [1k?\]: cool.
+]
+;AW[ce][ee][cf][df][dg][eg]AB[dd][de][ef][ff]C[yithril [2d\]: okay so
+yithril [2d\]: #1
+Shana [1k\]: omg i know this one!
+yithril [2d\]: Black to capture the white stone
+blairz74 [3k\]: lol
+hidan18 [1d\]: lol
+yithril [2d\]: many different ways
+DarthStian [6k\]: how many ? 3?
+SushiChef [17k?\]: ladder or net will do
+vitorious [15k\]: Net
+yithril [2d\]: excellent
+Shana [1k\]: hey he didnt say go yet
+yithril [2d\]: here ladder or net will suffice
+Shana [1k\]: :(
+]
+(;B[fd]
+;W[ed]
+;B[ec]
+;W[fe]
+;B[ge])
+(;AE[de][df]AW[ef][dh][di]AB[ed][fd][ce][fe][eg]C[yithril [2d\]: next one
+yithril [2d\]: ok
+yithril [2d\]: when i say go
+Shana [1k\]: omigaws
+yithril [2d\]: then you can shout out the answer
+Iink [-\]: I like that one =\]
+Mendez [1k?\]: :)
+SushiChef [17k?\]: for black or white?
+yithril [2d\]: remember ive got something for everyone
+despise [6k\]: killing the stones are small
+yithril [2d\]: Black
+bourbaki [1k\]: (tesujis are always local moves despise)
+yithril [2d\]: ok go
+vitorious [15k\]: D14
+SushiChef [17k?\]: d-14
+Shana [1k\]: d14
+Sasaku [-\]: throw in
+yithril [2d\]: hahahahha
+Shana [1k\]: darn i lost
+Iink [-\]: lol
+DarthStian [6k\]: snapback D14
+yithril [2d\]: you couldnt hold it in could you?
+]
+;B[df]C[yithril [2d\]: oops
+yithril [2d\]: even if
+]
+;W[de]C[yithril [2d\]: we take this stone
+Iink [-\]: lol
+Shana [1k\]: we? ur going solo
+]
+;B[df]C[yithril [2d\]: mwahaha
+yithril [2d\]: we die
+])
+(;AE[ee][df][ef][ff][dg][eg]AW[cc][dc][ec][cd]C[yithril [2d\]: heres another one
+DarthStian [6k\]: with white here would it be ok to cut instead of connec
+yithril [2d\]: how can white kill b
+SushiChef [17k?\]: e-14
+despise [6k\]: e14 
+Sasaku [-\]: e14
+DarkLife [-\]: e14
+SushiChef [17k?\]: net?
+Shana [1k\]: im not even gonna try to be first this time xD
+Iink [-\]: e14 
+yithril [2d\]: yay
+Shana [1k\]: ooh
+Klejj [9k\]: nuclear tesuji
+]
+;B[]
+;W[ef]C[SushiChef [17k?\]: yay im first
+]
+;B[fd]
+;W[ed]
+;B[ee]
+;W[fe]C[yithril [2d\]: no escape
+])
+(;AE[ce][cf][df][dg][eg]AW[dd][hd][de][he][ef][ff][gf]AB[fc][ee][fe][ge]C[yithril [2d\]: ok
+yithril [2d\]: when i say go
+Korlon [3k\]: Throwing a board at black would certainly work
+yithril [2d\]: wow
+SushiChef [17k?\]: f-16
+Iink [-\]: f16 
+Sasaku [-\]: f16
+yithril [2d\]: my six kyu friend
+yithril [2d\]: sitting next to me
+DarthStian [6k\]: Cranes nest F16
+Shana [1k\]: baka
+yithril [2d\]: didnt know the last one
+Iink [-\]: wow is not go xD
+]
+(;W[fd]
+;B[gd]
+;W[gc]
+;B[ed]
+;W[ec]
+;B[fd]
+;W[fb])
+(;B[]C[bourbaki [1k\]: tell dave i said to do more problems
+]
+;W[fd]C[yithril [2d\]: Jon is full of it.
+yithril [2d\]: I knew it
+bourbaki [1k\]: lol
+SushiChef [17k?\]: yes u also typed it in
+yithril [2d\]: my opponent didn't
+yithril [2d\]: anyway, back to jon.\\
+yithril [2d\]: ok so cranes nest
+]
+;B[gd]C[yithril [2d\]: what is whites next move?
+Sasaku [-\]: g17
+]
+(;W[gc]C[DarkLife [-\]: e16
+yithril [2d\]: like this
+]
+;B[ed]C[yithril [2d\]: now where?
+vitorious [15k\]: E17
+]
+;W[ec]C[SushiChef [17k?\]: e-17 now
+]
+;B[fd]
+;W[fb]C[yithril [2d\]: death
+yithril [2d\]: delicious
+])
+(;W[ed]C[yithril [2d\]: this is wrong
+]
+;B[gc]C[yithril [2d\]: b can connect out
+yithril [2d\]: we can kill cleaner
+])))
+(;AE[dd][ce][de][ee][cf][df][ef][ff][dg][eg]AW[bj][cj][ck][dk][dl][dm][fm][dn][fn][co][ap][bp][cp][cq][br]AB[cl][bm][cm][an][cn][ao][bo][do][eo][fo][dp][dq][fq][cr][er][ds]C[DarkLife [-\]: k
+Iink [-\]: =\]
+yithril [2d\]: remember this one?
+]
+;B[]C[Shana [1k\]: no
+]
+;W[al]C[Shana [1k\]: xD
+yithril [2d\]: not talking to you
+bourbaki [1k\]: i do i do
+yithril [2d\]: black to play
+Shana [1k\]: aww
+Iink [-\]: this one is easy :D
+DarthStian [6k\]: Brain curgery is also an alternative honfu
+hidan18 [1d\]: a9
+]
+;B[ak]C[yithril [2d\]: i found this in a blitz game
+yithril [2d\]: saved my hide
+bourbaki [1k\]: he did, i have proof
+Shana [1k\]: ur game?
+yithril [2d\]: yeah
+yithril [2d\]: white didnt have enough libs to kill me
+yithril [2d\]: so
+]
+(;W[bl]C[HonFu [3k\]: can you show the continuation?
+]
+;B[ar]TR[am]C[yithril [2d\]: a0
+yithril [2d\]: a9
+HonFu [3k\]: ah! 
+HonFu [3k\]: ^^
+DarthStian [6k\]: saved by  the 1 1 point :D
+yithril [2d\]: keeps the liberty open
+bourbaki [1k\]: is only move
+yithril [2d\]: so i can have enough to kill corner first
+]
+;W[bq]
+;B[bs])
+(;W[bk]))
+(;AE[ce][de][ee][cf][df][dg][eg]AW[dc][ec][cd][fd][ff]AB[ed]C[Klejj [9k\]: yithril is some kind of hitman, likes the clean kills =D
+yithril [2d\]: ok here
+yithril [2d\]: next one
+yithril [2d\]: white to play
+Sasaku [-\]: d14
+SushiChef [17k?\]: d-14??
+Sasaku [-\]: ok ill let the ddk and low sdk solve the rest till it gets hard
+Sasaku [-\]: :)
+Sincere [9k\]: oooo
+]
+;B[]C[bourbaki [1k\]: ooh one of my 2k opponents recently did not see this one
+]
+;W[df]C[DarthStian [6k\]: D14 alien symbol
+Shana [1k\]: ok im just gonna shout it next time too
+yithril [2d\]: excellent
+bourbaki [1k\]: so learn this one well
+]
+;B[ee]C[yithril [2d\]: next move?
+SushiChef [17k?\]: e-13
+Klejj [9k\]: e13
+Sasaku [-\]: e13
+volatile [10k\]: e13 :D
+]
+;W[eg]
+;B[fe]
+;W[ge]
+;B[de]
+;W[ce]C[yithril [2d\]: awesome
+vitorious [15k\]: Im not getting time to think guys, could you wait till you get the go to answer?
+])
+(;AE[dd][ce][de][ee][cf][df][ef][ff][dg][eg]AW[mb][qb][nc][pc][qc][rc][md][nd][od][ne][oe][pe][nf][pf][og][oh][qh][pi][qi][ri]AB[oa][nb][ob][pb][kc][lc][mc][oc][ld][pd][qd][rd][qe][qf][pg][qg][rg][ph][rh]C[yithril [2d\]: this was a sommerville game i think
+bourbaki [1k\]: this was the one from the hyang game right
+]
+;B[]C[bourbaki [1k\]: this one freaked me out when i saw it
+yithril [2d\]: whites turn
+Korlon [3k\]: throw in for ko
+yithril [2d\]: right
+]
+(;W[pa]
+;B[qa]
+;W[ra]
+(;B[sc]
+;W[pa]C[yithril [2d\]: hyang is evil with kos
+])
+(;B[lb]
+;W[sb]))
+(;W[ra]
+;B[sb]
+;W[pa]
+;B[qa]))
+(;AE[ce][de][ee][ff][dg]AW[cc][ic][dd][ef][gg][eh][fh][gh]AB[db][fc][kc][gd][id][fg]C[DarthStian [6k\]: the first one was the pro one obviously :D
+yithril [2d\]: this was from a pro game a saw
+bourbaki [1k\]: whate to play?
+bourbaki [1k\]: do problems honfu
+]
+;B[]C[yithril [2d\]: whites turn
+Iink [-\]: b to save f13 :D
+bourbaki [1k\]: something weird like f18?
+DarthStian [6k\]: K17`?
+yithril [2d\]: nah
+vitorious [15k\]: G17
+yithril [2d\]: you begin with a normal move
+edlee [2k\]: was this the entire board?
+bourbaki [1k\]: oh darn
+bourbaki [1k\]: sh17 then?
+bourbaki [1k\]: *h17?
+]
+(;W[ec]C[yithril [2d\]: this one
+yithril [2d\]: first
+]
+(;B[eb]C[yithril [2d\]: he went like this though
+Iink [-\]: pros make mistakes as well lol
+Shana [1k\]: heh
+]
+;W[jd]C[yithril [2d\]: and got owned
+]
+;B[jc]
+;W[hd]
+;B[ie]
+;W[gc]C[bourbaki [1k\]: ahh ok
+Shana [1k\]: shouldnt b probably f18?
+Shana [1k\]: instead of e18
+]
+(;B[gb]
+;W[hc]
+;B[he]
+;W[fd])
+(;B[ge]
+;W[fd]
+;B[fb]
+;W[he]
+;B[hf]
+;W[hc]
+;B[gf]
+;W[if]
+;B[je]
+;W[hg]C[bourbaki [1k\]: jeez
+yithril [2d\]: i just enjoyed the carnage
+yithril [2d\]: i wasnt going to show this one
+yithril [2d\]: cuz i didnt know all the lines
+HonFu [3k\]: how will we ever learn how to read 15 moves ahead?
+yithril [2d\]: its a neat piece of shape stuff
+Shana [1k\]: pros are just weird
+]))
+(;B[fb]C[yithril [2d\]: thats what i thought too
+]
+;W[eb]
+;B[ea]
+;W[jd]
+;B[jc]
+;W[hd]
+;B[ie]
+;W[gc]
+;B[ed]
+;W[dc]
+;B[he]))
+(;W[jd]))
+(;AE[dd][ce][de][ee][cf][df][ef][ff][dg][eg]AW[ec]C[Shana [1k\]: dont be modest
+yithril [2d\]: ok heres one from a joseki
+]
+;B[cd]
+;W[cf]
+;B[ed]
+;W[fd]
+;B[ee]
+;W[dc]
+;B[ce]
+;W[dg]
+;B[cc]
+;W[fg]C[yithril [2d\]: b to play
+MiracleArc [4d\]: todo what>>
+yithril [2d\]: he has to try and move out with his stones otehrwise he is sealed
+Sasaku [-\]: obviously, escape...
+HonFu [3k\]: cut?
+ChemBoy613 [7k\]: B can't cut
+yithril [2d\]: when i say go
+Jerque [25k?\]: i say tengen and hope for the best :/
+MiracleArc [4d\]: what does B do
+MiracleArc [4d\]: live?
+MiracleArc [4d\]: or escape
+yithril [2d\]: escape
+MiracleArc [4d\]: ok
+Shana [1k\]: ooh w wants to get on top of you... ur just gonna take that?
+ChemBoy613 [7k\]: <-- is embarrased he doesn't know this joseki
+MiracleArc [4d\]: E14?
+ChemBoy613 [7k\]: since white is normally agirl and she's hot, sure
+MiracleArc [4d\]: i don't know either
+MiracleArc [4d\]: E14?
+yithril [2d\]: go
+ConanHoye [?\]: push at e14 then g14 to escape
+vitorious [15k\]: G14
+MiracleArc [4d\]: E14
+HonFu [3k\]: cut
+MiracleArc [4d\]: E14
+Shana [1k\]: g13
+Carnubak [4k\]: F15?
+Sasaku [-\]: good point chem
+MiracleArc [4d\]: E14
+yithril [2d\]: okay first
+yithril [2d\]: this is a weird move
+MiracleArc [4d\]: E14 pl0x
+Mendez [1k?\]: G16? :(
+MiracleArc [4d\]: what.
+yithril [2d\]: it helps white
+]
+(;B[gg]C[Shana [1k\]: ahh wut da heck Mesars pl0x
+MiracleArc [4d\]: lol
+yithril [2d\]: this is the move
+HonFu [3k\]: !!!
+Sasaku [-\]: rofl
+MiracleArc [4d\]: wo lol
+bourbaki [1k\]: holy crap
+MiracleArc [4d\]: i thought this was joseki
+yithril [2d\]: this is
+volatile [10k\]: o.o
+yithril [2d\]: this tesuji is part of it
+MiracleArc [4d\]: this is joseki
+Sasaku [-\]: explain this
+MiracleArc [4d\]: ....
+vitorious [15k\]: downloaded them
+Sasaku [-\]: that move just is bizaree
+Shana [1k\]: maybe it wasnt called joseki back then
+yithril [2d\]: i just thought this move was very cool and mingjiu actually showed the reading behind it
+Shana [1k\]: i think f14 is better
+Sasaku [-\]: this move is just out their
+yithril [2d\]: its just very weird 
+yithril [2d\]: okay we went over time
+yithril [2d\]: so thats enough for today
+MiracleArc [4d\]: lol
+bourbaki [1k\]: was that the pro one?
+yithril [2d\]: no
+]
+(;W[ff]C[Sasaku [-\]: i dont understand this one, explain plz
+MiracleArc [4d\]: r u sure this is joseki
+nathanha0 [5k\]: weird
+yithril [2d\]: if we do this
+yithril [2d\]: extremely
+]
+;B[fe]
+;W[gd]C[DarthStian [6k\]: helps the opponent but gives 1 more stone for black on the outside
+]
+(;B[ge]C[yithril [2d\]: see like this
+MiracleArc [4d\]: ok funny move wins
+]
+;W[hd]
+;B[gf]C[yithril [2d\]: hurts his shape outside
+Sasaku [-\]: what if white doesnt push?
+])
+(;B[gf]C[MiracleArc [4d\]: white F15
+]))
+(;W[fe]C[Sasaku [-\]: this does the same help ur oponent thing
+nathanha0 [5k\]: lol
+]
+;B[ff]
+;W[ef]
+;B[gf]
+;W[hc]C[yithril [2d\]: important defense
+Korlon [3k\]: Not h17, g17
+MiracleArc [4d\]: G17 more stable
+]
+;B[fh]C[Korlon [3k\]: There's e18 for black
+yithril [2d\]: the thing is
+MiracleArc [4d\]: black doens't escape 
+MiracleArc [4d\]: >.>
+yithril [2d\]: but
+yithril [2d\]: lets say white tries to kill us
+]
+;W[be]
+;B[bd]C[MiracleArc [4d\]: lol
+]
+;W[bb]C[MiracleArc [4d\]: w go other direction pl0x
+Shana [1k\]: lets say w doesnt try to kill us
+]
+;B[bf]
+;W[bg]
+;B[ae]
+;W[cb]C[MiracleArc [4d\]: lol
+MiracleArc [4d\]: black diedc
+MiracleArc [4d\]: lol
+yithril [2d\]: no
+Korlon [3k\]: White can't read
+]
+;B[ch]
+;W[cg]
+;B[eg]
+;W[df]
+;B[dh]C[HonFu [3k\]: how did the ancients find these josekis?
+]
+;W[bh]C[MiracleArc [4d\]: yep
+bourbaki [1k\]: hmphdb10?
+bourbaki [1k\]: *b10?
+hidan18 [1d\]: y a14?
+MiracleArc [4d\]: hey unfair in a game u don't get undo
+]
+(;B[bi]C[Klejj [9k\]: i would be like "HEY! we helped you earlier with wrong tesuji moves, now dont kill me"
+HonFu [3k\]: who can read that thing out?
+MiracleArc [4d\]: wite B10
+MiracleArc [4d\]: white B10 lol
+]
+;W[bj]C[HonFu [3k\]: that was like 25 moves ahead
+Sasaku [-\]: u told us were supose to escape, but yet u dont escape and die in the corner?
+Sasaku [-\]: lol
+MiracleArc [4d\]: yeah ... lol
+Iink [-\]: xD
+Shana [1k\]: escaping is for sissies fight like a man
+yithril [2d\]: this was in a minjg jiu lecture
+]
+;B[ai]C[Klejj [9k\]: "die in a corner tesuji"
+]
+;W[ci]C[MiracleArc [4d\]: maybe he was wrong *gasps*
+yithril [2d\]: i dunno about that
+MiracleArc [4d\]: yeah
+Carnubak [4k\]: A13.
+MiracleArc [4d\]: so
+MiracleArc [4d\]: black dies in corner
+MiracleArc [4d\]: XD
+Sasaku [-\]: u told us to escape, u ended up not escaping, and dieing
+])
+(;B[bj]C[Klejj [9k\]: and while white ponders why we chose to die in the corner black proceed to take the rest of the board
+MiracleArc [4d\]: fight it like a man
+HonFu [3k\]: haha^
+Shana [1k\]: hey arc i said that first
+volatile [10k\]: wouldn't b11 still be okay for black?
+MiracleArc [4d\]: B11
+bourbaki [1k\]: becomes a question of liberties now
+Shana [1k\]: lol
+]
+;W[bi]C[bourbaki [1k\]: c10
+]
+;B[ci]C[MiracleArc [4d\]: A13
+]
+;W[ag]C[hidan18 [1d\]: a11
+MiracleArc [4d\]: ok we get the point
+Carnubak [4k\]: Black will connect.
+MiracleArc [4d\]: just go ahead
+volatile [10k\]: i think that even if black went to b11, it'll still be the same, semeai race
+Shana [1k\]: this is weird
+MiracleArc [4d\]: black doesn't escape but does something else lol
+]
+(;B[af]C[MiracleArc [4d\]: A17
+]
+;W[ac]C[MiracleArc [4d\]: w00t.
+])
+(;B[ai]C[bourbaki [1k\]: at least ko this way
+hidan18 [1d\]: ko?
+hidan18 [1d\]: white dead
+Shana [1k\]: no ko
+Carnubak [4k\]: NO ko.
+MiracleArc [4d\]: ok
+MiracleArc [4d\]: go back
+MiracleArc [4d\]: wait
+yithril [2d\]: this isnt joseki
+MiracleArc [4d\]: A10
+yithril [2d\]: obviously
+yithril [2d\]: so
+]
+;W[aj]
+;B[ak]C[MiracleArc [4d\]: ok
+MiracleArc [4d\]: that's all
+MiracleArc [4d\]: A17
+]
+;W[ac]
+(;B[ad]C[hidan18 [1d\]: a16
+MiracleArc [4d\]: but in a real ggame u don't get undoes lol
+Sasaku [-\]: ko
+]
+;W[af]
+;B[de]C[MiracleArc [4d\]: yeah
+]
+;W[be]C[MiracleArc [4d\]: but in real game u don't get undo
+yithril [2d\]: ok thx
+bourbaki [1k\]: 2 stage ko
+yithril [2d\]: i wouldnt want to do this as white
+Shana [1k\]: a10 instead of a16?
+])
+(;B[aj]C[MiracleArc [4d\]: ok.. lets go back again
+bourbaki [1k\]: yeah this looks ok too
+MiracleArc [4d\]: lol
+Shana [1k\]: a16 uses its own liberty=dumb
+MiracleArc [4d\]: next topic please
+]))))
+(;W[gd]C[yithril [2d\]: joseki continues like this
+Iink [-\]: like I say: to be a pro learn random moves tesuji
+Iink [-\]: =\]
+]
+;B[ff]
+;W[fh]
+;B[hf]C[MiracleArc [4d\]: what if white F15
+]))
+(;B[fe]C[yithril [2d\]: like this we do come out but
+]
+;W[gd]C[yithril [2d\]: we help our opponent
+yithril [2d\]: white gladly extends here
+Shana [1k\]: and we dont want that
+Sasaku [-\]: u didnt say we can't help our oponent
+Sasaku [-\]: u just siad escape
+Iink [-\]: >.>
+yithril [2d\]: dont be silly sasaku
+MiracleArc [4d\]: lolol
+Sasaku [-\]: lol
+]
+;B[ge]
+;W[hd])
+(;B[fc]C[DarthStian [6k\]: F17?
+HonFu [3k\]: the help the opponent tesuji
+]
+;W[gc]C[Shana [1k\]: lol
+]
+;B[fb]
+;W[gb]C[MiracleArc [4d\]: F17 dies.
+]
+;B[fe]
+;W[gd]C[Shana [1k\]: same thing
+MiracleArc [4d\]: well
+yithril [2d\]: more helping
+])
+(;B[ef]C[HonFu [3k\]: so f14?
+]
+;W[eg]C[Korlon [3k\]: g13 tesuji
+MiracleArc [4d\]: G15
+Shana [1k\]: g13 plocks
+]
+;B[ge]
+;W[gd]C[Sasaku [-\]: that helps ur oponent also..
+DarthStian [6k\]: hmmm
+MiracleArc [4d\]: G13
+]))
+(;AE[de][cf][df]AW[db][eb][fb][dc][gc][ed][fd][fe][gf][cg][fg][gg][ch][eh][fh][ci][di][fi][cj]AB[cc][ec][ce][ee][dg][eg][dh][ei][dj][ej][dk]C[MiracleArc [4d\]: tsumego?!?!
+yithril [2d\]: heres one
+yithril [2d\]: white to play
+MiracleArc [4d\]: is this tsumego
+bourbaki [1k\]: yes
+yithril [2d\]: yeah were doing problems
+ChemBoy613 [7k\]: D15
+Sasaku [-\]: throw in
+HonFu [3k\]: d15
+Shana [1k\]: omg arc ur 4d?
+]
+;B[]C[MiracleArc [4d\]: im not 4d but at least im at least 2d
+]
+;W[de]
+;B[df]C[MiracleArc [4d\]: more like 3d..but sure
+MiracleArc [4d\]: :D
+Sasaku [-\]: he isnt really 4d *cough*
+]
+;W[cf]
+;B[de]
+;W[be]C[ChemBoy613 [7k\]: ladder it looks like
+]
+;B[cd]C[ChemBoy613 [7k\]: dead
+]
+;W[bc]
+;B[cb]
+;W[bb])
+(;AE[ee][cf][df][ef][ff][dg][eg]AW[db][eb][ec][dd][ed][be]AB[ab][cb][cc][dc][bd][cd][bg][ch][eh]C[yithril [2d\]: ok
+Iink [-\]: =\]
+yithril [2d\]: was looking for the next one
+yithril [2d\]: this is harder
+yithril [2d\]: when i say go
+yithril [2d\]: whtie to play
+Shana [1k\]: ding dong
+SushiChef [17k?\]: for who?
+SushiChef [17k?\]: white?
+Shana [1k\]: whos there
+yithril [2d\]: and capture d15
+SushiChef [17k?\]: ok
+szchar: hard, but straight forward :)
+Shana [1k\]: a pumpkin
+SushiChef [17k?\]: ohhh
+Shana [1k\]: a pumpkin who
+SushiChef [17k?\]: i see
+yithril [2d\]: white to play and capture d 15
+Shana [1k\]: the pumpkin whos gonna kick ur ass
+Carnubak [4k\]: D14.
+HonFu [3k\]: d14, then f14
+SushiChef [17k?\]: ladder and net
+Sasaku [-\]: we have done them all hmm?
+MiracleArc [4d\]: tsumego?
+]
+;B[]C[SushiChef [17k?\]: realy???
+]
+;W[df]
+;B[ee]
+(;W[ef]
+;B[fe])
+(;W[ff]
+;B[fe]C[szchar: it will :)
+]
+;W[ge]C[Sasaku [-\]: that wont work
+Sasaku [-\]: lol
+Shana [1k\]: ooh did he say go?
+Sasaku [-\]: na it wont
+SushiChef [17k?\]: loose ladder
+Carnubak [4k\]: Yes, it will.
+Shana [1k\]: it will
+szchar: it will ;)
+yithril [2d\]: can someone give me the rest of the sequence?
+Korlon [3k\]: Start reading
+Sasaku [-\]: continue with it
+Carnubak [4k\]: F16, G16.
+Korlon [3k\]: f16 g16 f17 f18 g17 h17 g18 h18 
+HonFu [3k\]: turn around at f18
+szchar: q just needs to pay attention to f18
+]
+;B[fd]
+;W[gd]
+;B[fc]
+;W[fb]C[Carnubak [4k\]: F18.
+]
+;B[gc]
+;W[hc]
+;B[gb]C[Sasaku [-\]: ladder
+]
+;W[hb]C[Sasaku [-\]: nice
+yithril [2d\]: loose ladder
+SushiChef [17k?\]: yay me
+yithril [2d\]: very commonly overlooked tesuji
+Shana [1k\]: ya know my dad is a sushi chef too xD
+]
+;B[ga]
+;W[ef]))
+(;AW[ca][ha][cb][fb][hb][cc][fc][hc][ic][jc][ad][cd][fd][gd][hd][be][de][fe][ie][je][hf][if][gh][ih][di][ej][gj]AB[da][ea][fa][ga][db][gb][dc][gc][kc][ed][id][jd][kd][ld][ce][ee][ge][he][ke][le][bf][cf][gf][ch]C[Shana [1k\]: yup
+SushiChef [17k?\]: ahhhh lets trade dad
+Shana [1k\]: haha
+Sasaku [-\]: sushi chef isnt 17k
+yithril [2d\]: heres a harder one
+Sasaku [-\]: :)
+yithril [2d\]: when i say go
+yithril [2d\]: then yell and scream to your hearts content
+Carnubak [4k\]: White to play?
+bourbaki [1k\]: ooh i remember this game
+SushiChef [17k?\]: for who?
+HonFu [3k\]: I dont understand them
+]
+;B[jb]C[yithril [2d\]: black plahys here
+yithril [2d\]: trying to lower whites liberties
+yithril [2d\]: whtie to play
+yithril [2d\]: *white
+Sasaku [-\]: seki
+Shana [1k\]: i bet sum1 will blurt it out
+HonFu [3k\]: L18
+Korlon [3k\]: You bet right.
+Sasaku [-\]: ah nvm no seki
+Shana [1k\]: g13!!! roar
+yithril [2d\]: i didnt say go yet ;)
+HonFu [3k\]: oh ! oops ... #^^#
+DarthStian [6k\]: Is is just me who noticed the very dry irony in "When I say 'Go' "  ?
+Iink [-\]: can I say?
+yithril [2d\]: ok go
+vitorious [15k\]: G13
+Iink [-\]: l18 
+Korlon [3k\]: l18 
+yithril [2d\]: l18 is the tesuji
+Mendez [1k?\]: l18
+Sasaku [-\]: as long as it dies, does it matter/
+]
+(;W[kb]C[Sasaku [-\]: ?
+Sasaku [-\]: it dies both ways
+yithril [2d\]: this is important tesuji
+Shana [1k\]: lol yithril misread
+Sasaku [-\]: but it still dies
+yithril [2d\]: yes
+szchar: w can g13 first, just needs l18 later on somewhen
+szchar: before b can fill j19
+yithril [2d\]: the point
+yithril [2d\]: is that this move makes it so black cannot approach
+SushiChef [17k?\]: ack just had to dis connect
+Iink [-\]: not totally, the idea is, u have to go there some time
+]
+;B[lb]
+;W[gg]
+(;B[ka]
+;W[fg]
+;B[ia]
+;W[eb])
+(;B[ib]
+;W[fg]
+;B[ka]
+;W[eb]C[Sasaku [-\]: same result, just u lose 2 points
+Sasaku [-\]: to me
+Shana [1k\]: i still say only g13 works
+Sasaku [-\]: yea me too
+Shana [1k\]: this way w has to play it anyways
+]))
+(;W[gg]C[Shana [1k\]: who needs tesuji...
+yithril [2d\]: this is incorrect
+szchar: cause w can l18 now
+]
+(;B[ia]
+;W[fg]C[szchar: doesnt actually matter
+])
+(;B[ib])))
+(;AE[dd][de][ee][ef][ff][eg]AW[be][cg][bh][ai][bi][ci][bj][ak][al][bm][cm][dm]AB[ad][bd][cd][ce][df][dg][ch][dh][di][cj][bk][ck][ek][bl]C[yithril [2d\]: ok next one
+yithril [2d\]: when i say go
+yithril [2d\]: black to play
+Sasaku [-\]: to kill that whole chain?
+Shana [1k\]: b13
+Shana [1k\]: argh
+Mendez [1k?\]: lol
+Mendez [1k?\]: hahaha
+Shana [1k\]: dammit!
+yithril [2d\]: haha
+yithril [2d\]: okay go
+Iink [-\]: xD
+vitorious [15k\]: B13
+SushiChef [17k?\]: a-13
+Carnubak [4k\]: A13
+ConanHoye [?\]: b13
+DarthStian [6k\]: b13
+Iink [-\]: b13 
+HonFu [3k\]: b13?
+Mendez [1k?\]: LOL
+volatile [10k\]: lol
+yithril [2d\]: good
+Shana [1k\]: i was hoping to be first this time too
+SushiChef [17k?\]: wahhh
+]
+(;B[bf]
+;W[bg]
+;B[ae])
+(;B[bg]C[SushiChef [17k?\]: me wrong
+Mendez [1k?\]: I'm scary
+]
+;W[bf]
+;B[ag]C[yithril [2d\]: b will descend
+yithril [2d\]: and white doesnt have enough libs
+Shana [1k\]: sasaku i hate u
+Sasaku [-\]: :)
+yithril [2d\]: guo juan said this shape was the golden chicken standing on one leg in chinese before
+yithril [2d\]: i dont know if i believe her really
+szchar: noone hates me, i gotta spoil more :D
+yithril [2d\]: but still
+bourbaki [1k\]: i absolutely do not
+Shana [1k\]: chickens taste way better
+SushiChef [17k?\]: no sushi does
+]))
+(;AE[ce][de][cf][ef][dg][eg]AW[ff]AB[fd][df]C[Shana [1k\]: sushi doesnt have eyes
+Shana [1k\]: xD
+yithril [2d\]: heres anotehr one
+SushiChef [17k?\]: XD
+Sasaku [-\]: unplugged caught me with this tesuji
+Korlon [3k\]: I'm sure the taste of 4 stones is very tasty.
+szchar: tenuki :F
+DarthStian [6k\]: this is for white right?
+yithril [2d\]: b's move
+DarthStian [6k\]: ok
+Shana [1k\]: for b to connect
+Shana [1k\]: ooh did i just say that
+szchar: too slow to answer w e15 :D
+Iink [-\]: can we answer?
+Shana [1k\]: a1
+yithril [2d\]: go
+Carnubak [4k\]: C17.
+Korlon [3k\]: c17 
+Klejj [9k\]: c17?
+HonFu [3k\]: hmm ... c17?
+vitorious [15k\]: C17
+Iink [-\]: c17 
+]
+;B[cc]C[szchar: p17
+yithril [2d\]: depends on the situation but
+DarthStian [6k\]: Whoa this one I didn't know
+yithril [2d\]: this makes shape
+yithril [2d\]: good one to know
+]
+;W[ed]C[SushiChef [17k?\]: why c-17? blargh never see this before
+]
+;B[ec]C[volatile [10k\]: can't cut :D
+yithril [2d\]: you can just block here
+yithril [2d\]: and make tigers mouth
+SushiChef [17k?\]: ohh 
+]
+;W[de]
+;B[ce])
+(;AE[de][ee][ff][eg]AW[db][cc][fc][cg]AB[dc][ce][df]C[Sasaku [-\]: tho simply doing d15 also works
+yithril [2d\]: heres one from a joseki
+yithril [2d\]: black to play
+DarthStian [6k\]: looked abit artificial that last one does it appear often?
+bourbaki [1k\]: it has come up in my games
+yithril [2d\]: mine too
+bourbaki [1k\]: it also works if the two black stones are further apart
+volatile [10k\]: um...so what to do for this one?
+volatile [10k\]: black to play?
+yithril [2d\]: black to play
+volatile [10k\]: okay
+Shana [1k\]: for best result
+SushiChef [17k?\]: b-17?
+ChemBoy613 [7k\]: nee... i missed the begining XD  was watching anime...
+szchar: c18
+Shana [1k\]: anime is way better than this chem xD
+yithril [2d\]: okay go
+vitorious [15k\]: I wanna say b17 but hard to see why
+HonFu [3k\]: b18?
+yithril [2d\]: beautiful
+]
+(;B[bb]C[yithril [2d\]: peep here
+ChemBoy613 [7k\]: wow
+ChemBoy613 [7k\]: XD
+HonFu [3k\]: ^^
+Shana [1k\]: btw yith u know people can clone or view offline and see how it goes?
+volatile [10k\]: hm...how come?
+yithril [2d\]: ok
+yithril [2d\]: so they learn
+yithril [2d\]: thats the point
+]
+;W[cb]C[szchar: ups sry :)
+]
+;B[bc]C[szchar: cant w just connect?
+yithril [2d\]: how?
+szchar: i mean
+szchar: yeah but that way
+yithril [2d\]: white gets none of the corner
+yithril [2d\]: and instead has two groups to deal with
+ChemBoy613 [7k\]: white is split and b has the corner
+szchar: w e17 is sente
+HonFu [3k\]: wait
+HonFu [3k\]: wjat abpit c16 now?
+szchar: then w can j17 and b got like nothing
+]
+(;W[eg]
+;B[ff]
+;W[ic]
+;B[dj])
+(;W[be]C[szchar: i jsut like c18 better o_O
+]
+;B[cd]
+;W[bd]C[szchar: now w is out :S
+bourbaki [1k\]: not kill w stones necessarily
+]
+;B[eb]C[bourbaki [1k\]: the tesuji helps black make shape in the corner
+yithril [2d\]: this doesnt work
+])
+(;W[cd]
+;B[bd]C[szchar: just e18 then b has to connect
+yithril [2d\]: im showing there is no cutting
+szchar: then j17
+]
+(;W[be]
+;B[de]LB[eb:A][bf:B]C[yithril [2d\]: what about it?
+ChemBoy613 [7k\]: miai
+HonFu [3k\]: ah
+HonFu [3k\]: ^^
+szchar: why should w b15 o_O
+])
+(;W[eb]
+;B[bf]C[ChemBoy613 [7k\]: that's fine
+yithril [2d\]: ur other group szchar
+szchar: c16 not good either
+Iink [-\]: there a some few paths, all based on miai
+])))
+(;B[eb]
+;W[cb]
+;B[ec]
+;W[be])
+(;B[cb]
+;W[bb]C[DarthStian [6k\]: I assume you cannot kill here?
+]
+(;B[ca])
+(;B[eb]C[szchar: e18
+]
+;W[ca]
+;B[ec]
+;W[be]C[yithril [2d\]: umm
+szchar: h16
+ChemBoy613 [7k\]: white's corner is more effective than b's thickness
+yithril [2d\]: this needlessly gives white territory
+szchar: well
+szchar: b has a wall and lives
+Sasaku [-\]: wall?
+ChemBoy613 [7k\]: he did in the previous varriation too
+Sasaku [-\]: white has the corner and is free to expand
+bourbaki [1k\]: it's a little generous to call that a wall
+ChemBoy613 [7k\]: but white was much weaker
+yithril [2d\]: its more like a clump
+])))
+(;AE[ee][df][ef][ff][dg][eg]AW[ab][bb][cb][db][dc][dd][de]AB[bc][cc][cd][be][cf][cg]C[yithril [2d\]: heres an easy one
+yithril [2d\]: when i say go
+Sasaku [-\]: rofl
+yithril [2d\]: w to play
+Iink [-\]: I done this with arc :D
+Sasaku [-\]: too easy
+Sasaku [-\]: yea link did this on arc
+Iink [-\]: =\]
+yithril [2d\]: go
+HonFu [3k\]: b16
+vitorious [15k\]: b16
+yithril [2d\]: let me find the others
+Shana [1k\]: ?
+]
+;B[]
+(;W[bd]C[EmptyMind [1k\]: a19?
+]
+;B[ad]
+;W[ac]
+;B[bd]
+;W[bf]C[yithril [2d\]: a19 is too deep for me
+ChemBoy613 [7k\]: man this happened to me in a game, i'm embarrased XD
+yithril [2d\]: b dies
+])
+(;W[ac]
+;B[bd]))
+(;AE[ee][cf][df][ef][ff][dg][eg]AW[db][eb][fb][cc][dc][cd]AB[ec][fc]C[ChemBoy613 [7k\]: heh lol
+yithril [2d\]: ok here are some more
+ChemBoy613 [7k\]: now  did B let this shape happen? XD
+yithril [2d\]: same way you let it happen sometimes in your games
+EmptyMind [1k\]: so far w the only one with bad shape
+HonFu [3k\]: he was saving tesuji for this moment ^_°
+bourbaki [1k\]: he decided he wanted to solve an interesting go problem
+yithril [2d\]: plethora of options
+yithril [2d\]: but
+Sasaku [-\]: whites shape is rather heavy
+yithril [2d\]: the one i wanted to show
+ChemBoy613 [7k\]: yeah white can hane both ways
+yithril [2d\]: yah sure
+ChemBoy613 [7k\]: B's posistion is awful without F15
+Mendez [1k?\]: it's the shape vital point.
+yithril [2d\]: thats the moral of the story
+]
+(;B[]
+;W[fe]C[ChemBoy613 [7k\]: without this b's posistion collapses
+yithril [2d\]: how painful this could be
+yithril [2d\]: or just cut
+yithril [2d\]: common tesuji, very applicable in games
+DarthStian [6k\]: In this situation cutting is ok since the stone can not be netted isnt it?
+])
+(;B[fe]C[ChemBoy613 [7k\]: only move for black
+yithril [2d\]: was this one
+yithril [2d\]: the defensive move
+yithril [2d\]: also to demonstrate
+bourbaki [1k\]: remember tesujis don't always help you kill a group, sometiems its just to give your stones good shape
+]))
+(;AE[de][ee][cf][df][ef][ff][dg][eg]AW[ec][dd]C[Shana [1k\]: "why peep when you can cut"
+HonFu [3k\]: but F15 still painful, isnt it? cant white bend around on both sides?
+yithril [2d\]: here is another shape
+yithril [2d\]: b to play
+ChemBoy613 [7k\]: C17 is amazingly effective
+ChemBoy613 [7k\]: if i remember this
+]
+;B[cc]C[ChemBoy613 [7k\]: three crows, yes?
+yithril [2d\]: anotehr good attacking tesuji to remember
+yithril [2d\]: three crows yeah
+Sasaku [-\]: well since black has nothing surrounded, doesnt help, but its good if black has outter stones
+yithril [2d\]: no duh sasaku
+HonFu [3k\]: I dont know this one
+DarthStian [6k\]: can black actually live here?
+Klejj [9k\]: i read cows instead of crows first =P
+yithril [2d\]: haha
+yithril [2d\]: what helps
+yithril [2d\]: is that you first know this shape
+yithril [2d\]: and then it will help you
+])
+(;AE[ce][de][ee][df][ef][ff][dg][eg]AW[cb][db][fc][ic][ch][ck]AB[bb][cc][cf]C[yithril [2d\]: heres an application of it
+yithril [2d\]: white to play
+Sasaku [-\]: b16
+ChemBoy613 [7k\]: C16
+SushiChef [17k?\]: b-16
+HonFu [3k\]: b16
+ChemBoy613 [7k\]: B
+]
+;B[]
+;W[bd]C[ChemBoy613 [7k\]: gagh I was walking and typing the same tim
+yithril [2d\]: same shape
+ChemBoy613 [7k\]: that's just painful for black
+yithril [2d\]: severely attacks black
+yithril [2d\]: find moves like this in real games
+yithril [2d\]: familiarity with shape will help you read out moves
+]
+;B[bc]
+;W[ce]
+;B[de]
+;W[bf]C[ChemBoy613 [7k\]: ouch
+yithril [2d\]: white eats away blacks eyespace
+Klejj [9k\]: time to run for b
+])
+(;AE[dd][ce][de][ee][cf][df][ef][ff][dg][eg]AW[rq][qr][sr]AB[qo][qp][nq][oq][qq][rr]C[yithril [2d\]: blacks turn here
+Sasaku [-\]: s1
+Mendez [1k?\]: S1
+Carnubak [4k\]: S1
+ChemBoy613 [7k\]: S1
+yithril [2d\]: i think we did all of them
+blairz74 [3k\]: whoa...
+]
+;B[rs]C[DarthStian [6k\]: s1
+yithril [2d\]: extend
+HonFu [3k\]: where is our go game gone?
+DarthStian [6k\]: this is the first problem in hikaru no ho
+bourbaki [1k\]: i guess we're not saying "go" anymore:)
+DarthStian [6k\]: go
+DarthStian [6k\]: I thnk
+]
+(;W[rp]
+(;B[ro]
+;W[sp])
+(;B[pr]))
+(;W[qs]
+;B[rp]
+;W[ss]
+;B[pr]C[yithril [2d\]: theres just nothing after black extends
+]))
+(;AW[eb][kb][dc][ec][ic][jc][kc][cd][dd][id][be][ge][he][ef][ff][fg][hg][ng][eh][lh][ei][cj][hj][ij][jj][mj][ik][jk][gl][hl][il][kl][ml]AB[gb][ib][mb][fc][hc][mc][ed][gd][jd][kd][md][ee][fe][bf][cf][df][if][lf][dg][eg][jg][kg][dh][hi][ii][ji][ki][gj][kj][hk][kk][jl][jm]C[yithril [2d\]: ok heres a harder one
+yithril [2d\]: there are two answers
+yithril [2d\]: b to play
+ChemBoy613 [7k\]: there's a ladder here somewhere
+ChemBoy613 [7k\]: oh B to play
+yithril [2d\]: when i say go
+ChemBoy613 [7k\]: looks like ladder somewhere
+Sasaku [-\]: whats b trying to acomplish?
+yithril [2d\]: cut w
+Sasaku [-\]: trying to escape?
+DarthStian [6k\]: f12`
+SushiChef [17k?\]: g-12
+Shana [1k\]: lol
+ConanHoye [?\]: f12
+yithril [2d\]: both acceptable
+ChemBoy613 [7k\]: this is why you are strong!
+SushiChef [17k?\]: so this is from your game?
+yithril [2d\]: yeah
+SushiChef [17k?\]: ohhh
+DarthStian [6k\]: f12 does not work?
+ChemBoy613 [7k\]: OMG WHERE IS THE SUSHI!!!  I WANT SOME!!!
+Sasaku [-\]: well now, im sure we could al see this
+]
+(;B[gh]C[Shana [1k\]: did he say go?
+ChemBoy613 [7k\]: neee G14
+Iink [-\]: g14 >.>
+ChemBoy613 [7k\]: i was with link XD
+yithril [2d\]: in the game i played this
+Iink [-\]: =\]
+SushiChef [17k?\]: yay
+yithril [2d\]: after this
+yithril [2d\]: white is done for
+yithril [2d\]: this is just clean
+yithril [2d\]: threatens both of whites weaknesses
+HonFu [3k\]: this is clean and mean
+]
+;W[fh]C[Carnubak [4k\]: ThenG14, right?
+yithril [2d\]: lets say he blocks
+yithril [2d\]: now where?
+Carnubak [4k\]: G14.
+SushiChef [17k?\]: g-14
+Klejj [9k\]: g14
+Sasaku [-\]: g14
+]
+;B[gf]C[ChemBoy613 [7k\]: G14!\\
+HonFu [3k\]: nice
+yithril [2d\]: miai
+ChemBoy613 [7k\]: OUCH
+])
+(;B[fh]C[Sasaku [-\]: :)
+ChemBoy613 [7k\]: meh
+ChemBoy613 [7k\]: F12 might let white cut you
+yithril [2d\]: this seems fine to me
+yithril [2d\]: white cant kill the cutting stone
+HonFu [3k\]: g12 and so on?
+Iink [-\]: suchi is nice =\]
+]
+;W[gh]
+(;B[fi]
+;W[gi]
+;B[fj]C[HonFu [3k\]: on ce more
+SushiChef [17k?\]: black lost stones in that sequence
+]
+;W[ej]
+(;B[fk]
+;W[el]
+;B[ek]
+;W[dk])
+(;B[gf]C[HonFu [3k\]: yes
+yithril [2d\]: still this problem
+HonFu [3k\]: ah
+Jerque [25k?\]: what is it? spell it out for the newb?:)
+yithril [2d\]: only thing is
+]
+;W[gg]
+;B[hf]
+;W[fk]))
+(;B[gf]
+;W[fi]
+;B[hf])))
+(;AE[cf][ef][ff][dg][eg]AW[db][dc][fc][gc][cd][fd][hd][id][de]AB[cc][ec][ed][gd][ee][fe][ge]C[yithril [2d\]: alright
+yithril [2d\]: b to play
+yithril [2d\]: when i say go
+bourbaki [1k\]: this is a good one
+SushiChef [17k?\]: hmm
+vitorious [15k\]: C18
+SushiChef [17k?\]: lol
+vitorious [15k\]: omg so sorry
+Shana [1k\]: wrong anyways ^^
+Iink [-\]: yi is cruel xD
+ChemBoy613 [7k\]: i'm not sure what's best XD
+yithril [2d\]: go
+Sasaku [-\]: f18
+HonFu [3k\]: f18
+Carnubak [4k\]: F18?
+vitorious [15k\]: yea I didnt want to spoil it :)
+Iink [-\]: f18 
+Shana [1k\]: g18 
+]
+(;B[gb]C[Shana [1k\]: lol
+ChemBoy613 [7k\]: nee shana how you find this move?
+Sasaku [-\]: that works actually
+Shana [1k\]: skills
+bourbaki [1k\]: reading
+ChemBoy613 [7k\]: wow
+ChemBoy613 [7k\]: impressive
+yithril [2d\]: pretty move
+DarthStian [6k\]: W f18
+yithril [2d\]: this one
+SushiChef [17k?\]: ok
+]
+(;W[eb]
+;B[fb]C[ChemBoy613 [7k\]: this move is just beautiful
+]
+;W[hc]
+;B[cb]C[HonFu [3k\]: does f18 work?
+Iink [-\]: no
+])
+(;W[fb]
+;B[eb]C[DarthStian [6k\]: C18
+HonFu [3k\]: this is really a great one
+SushiChef [17k?\]: i dced?
+]
+(;W[ea]
+;B[hc]
+;W[fa]
+;B[ga]
+;W[da]
+;B[cb])
+(;W[cb]C[Sasaku [-\]: sacrifice two stones
+]
+;B[hc]C[Carnubak [4k\]: White answer F18 with G18, right?ç
+DarthStian [6k\]: oh 
+DarthStian [6k\]: right
+])
+(;W[hb]
+;B[cb]C[SushiChef [17k?\]: what was answer?
+])))
+(;B[fb]
+;W[gb]C[DarthStian [6k\]: F18 now for white? saves the groups ?
+Sasaku [-\]: tho u lose a stone their
+Sasaku [-\]: u lose nothing here
+]))
+(;AE[ce][de][ee][cf]AW[gd][ge][he][ef][ff][fh][gh][hi][ii]AB[gc][hc][ic][ed][fd][hd][ie][df][if][eg][hg][hh][gi][gj]TR[dg]C[yithril [2d\]: this one
+yithril [2d\]: is b to play
+ChemBoy613 [7k\]: GAGH tesuji is so obnoxious. how are you ever going to find something that crazy?
+yithril [2d\]: white just cut
+yithril [2d\]: this is from pianist vs chunga
+yithril [2d\]: pianist cut
+Shana [1k\]: aha
+yithril [2d\]: but it led to his downfall
+ChemBoy613 [7k\]: E12
+Sasaku [-\]: g14
+yithril [2d\]: good
+]
+;B[gf]C[Carnubak [4k\]: E12?
+Shana [1k\]: no go?
+yithril [2d\]: attack whites shape
+ChemBoy613 [7k\]: ooooooooooohhhhhhhhhhhh 
+ChemBoy613 [7k\]: :O!
+]
+;W[fe]
+;B[fg]
+;W[gg]
+;B[eh]C[yithril [2d\]: you can come out
+Sasaku [-\]: skills
+Sasaku [-\]: >>>
+HonFu [3k\]: wow 
+Mendez [1k?\]: ouch
+HonFu [3k\]: please everybody, wait longer
+ChemBoy613 [7k\]: impressive
+Shana [1k\]: ya takes real skills to say something while other people are waiting for him to say go xD
+]
+;W[fi]
+;B[ee])
+(;AE[dd][ee][ef][ff][eg]AW[cb][cc][cd][de][ch][bi]AB[bc][bd][ce][cf][cg][bh]C[yithril [2d\]: heres a basic one
+Sasaku [-\]: i got the answer, all that matters shana
+yithril [2d\]: black to play
+yithril [2d\]: when i say go
+Carnubak [4k\]: I know this one.
+yithril [2d\]: go
+vitorious [15k\]: B13
+ChemBoy613 [7k\]: A14 feels good :)
+HonFu [3k\]: a15?
+vitorious [15k\]: :(
+Mendez [1k?\]: C11
+Carnubak [4k\]: B14.
+Korlon [3k\]: C11 first
+]
+;B[ci]
+;W[dh]C[Shana [1k\]: c11 no good
+Mendez [1k?\]: B13
+yithril [2d\]: if you do this now what?
+vitorious [15k\]: I was playing white haha
+GoTraurig [15k\]: b10?
+]
+;B[bj]C[yithril [2d\]: okay
+yithril [2d\]: now what does white do?
+ChemBoy613 [7k\]: your stones die
+ChemBoy613 [7k\]: B13
+Mendez [1k?\]: I would fix my weakness :)
+DarthStian [6k\]: B13
+Carnubak [4k\]: B13.
+GoTraurig [15k\]: oh yeah
+yithril [2d\]: is to play here
+yithril [2d\]: forgetting about our liberties
+Sasaku [-\]: jumping on a 15k, should feel ashamed:)
+]
+;W[bg]
+;B[ai]
+;W[be]C[yithril [2d\]: this is what i wanted to show
+Mendez [1k?\]: the C11 stone leaves a good aji.,
+yithril [2d\]: common common common beginner mistake
+Jerque [25k?\]: heh, how mean
+])
+(;AE[dd][ee][ef][ff][dg][eg]AW[cc]AB[ec][cf]C[Shana [1k\]: heh
+volatile [10k\]: thanks yithril ^^
+Klejj [9k\]: thanks yithril, was some nice tesujis
+Sincere [9k\]: thanks
+HonFu [3k\]: thanks, Jon, it was very nice :-)
+hidan18 [1d\]: thx
+Sasaku [-\]: arigatou
+Iink [-\]: yhx =\]
+Iink [-\]: *thx
+yithril [2d\]: oh we didnt get t othis one
+yithril [2d\]: oh well ill leave it for your reading pleasure
+volatile [10k\]: lol
+Sincere [9k\]: lol xD
+bourbaki [1k\]: this is a good one to know, which is not to say i remember it
+Shana [1k\]: e15 ^^
+yithril [2d\]: b to play for a ladder if hes got the ladder
+bourbaki [1k\]: comes up in 5-4 joseki
+Korlon [3k\]: Yeah, this one's oddly misplaced
+yithril [2d\]: two ladders actually
+yithril [2d\]: but i have to go now
+yithril [2d\]: so bye!
+vitorious [15k\]: thank you
+Iink [-\]: bye
+Korlon [3k\]: bye
+volatile [10k\]: thanks and bye
+]
+(;B[ee]
+;W[cg]
+;B[bf]
+;W[be]
+(;B[bg]
+;W[dg]
+;B[ch])
+(;B[dg]
+;W[ef]
+;B[bg]
+;W[ch]
+;B[dh]))
+(;B[cd]
+;W[be]
+;B[ee]
+;W[dd]
+;B[dg]))
+(;AE[dd][ce][de][ee][cf][df][ef][ff][dg][eg]AW[qd][qf][rf][ng][og][pg][ph][qi][ri]AB[pe][pf][qg][rg][oh][oi][pi][pj][qj][rj]C[Klejj [9k\]: but in a beginner vs beginner game it would probably work =P
+yithril [2d\]: b to save his two stones
+Shana [1k\]: hane at head of tho stones :p
+Sasaku [-\]: yup
+yithril [2d\]: go
+HonFu [3k\]: T12
+DarthStian [6k\]: T11?
+hidan18 [1d\]: t12
+ChemBoy613 [7k\]: T14 then T11? XD\\\\
+Carnubak [4k\]: T11.
+Sincere [9k\]: ahh
+bourbaki [1k\]: i'm surprised you didn't throw in any edge squeezes
+blairz74 [3k\]: so many people
+Korlon [3k\]: Not the last one
+Sincere [9k\]: i missed all but 1
+Sincere [9k\]: xD
+yithril [2d\]: thanks everyone for coming we're waaay over time
+]
+(;B[si]C[yithril [2d\]: if this
+Korlon [3k\]: t12 only move
+Shana [1k\]: haha im laffing at whoever said t11
+]
+;W[sh]C[Carnubak [4k\]: R12.
+]
+;B[qh]
+;W[sj]C[Sasaku [-\]: lol
+yithril [2d\]: you cant atari me
+Carnubak [4k\]: Ah.
+])
+(;B[sh]C[yithril [2d\]: this is the move
+]
+;W[si]C[ChemBoy613 [7k\]: now does this crazy thing work
+yithril [2d\]: if we block
+Sasaku [-\]: yup
+yithril [2d\]: where to play now
+Hikarujr [3k\]: yup
+Sasaku [-\]: cut
+volatile [10k\]: cut :D
+]
+;B[qh]TR[rh]C[yithril [2d\]: white lacks liberties
+Carnubak [4k\]: I see.
+yithril [2d\]: so
+]
+;W[sf]
+;B[sj]C[Carnubak [4k\]: Nice one.
+yithril [2d\]: we kill
+]))
+(;B[ed]
+;W[fe]
+;B[ge]C[yithril [2d\]: here white is laddered
+yithril [2d\]: dead
+])
+(;AW[hc]C[SushiChef [17k?\]: net
+yithril [2d\]: where?
+SushiChef [17k?\]: f-16
+Shana [1k\]: thats what lunch is for
+DarthStian [6k\]: I see a combo of blocking he t13 pt with edge and the lack of liberties
+]
+(;B[fd]C[yithril [2d\]: good
+yithril [2d\]: net or geta tesuji
+yithril [2d\]: white cannot escape
+]
+;W[ed]
+;B[ec]
+;W[fe]
+;B[ge])
+(;AW[cd]C[yithril [2d\]: what happens if i change the diagram a little?
+Shana [1k\]: resign
+Carnubak [4k\]: Another net.
+volatile [10k\]: lol
+Sasaku [-\]: net fails
+yithril [2d\]: here the net fails
+Carnubak [4k\]: No, for the orignal net, I meant.
+]
+;B[fd]
+;W[ed]C[SushiChef [17k?\]: white will escape with atari
+]
+;B[dc]
+;W[ec]C[yithril [2d\]: oops
+yithril [2d\]: we throw out our net
+yithril [2d\]: but it has a hole in it
+yithril [2d\]: so all the fish escapes
+yithril [2d\]: and no dinner
+Carnubak [4k\]: F17?
+]
+;B[fc]
+;W[db]C[yithril [2d\]: okay die
+Sasaku [-\]: :)
+Shana [1k\]: psh who needs dinner
+])
+(;B[fc])
+(;AW[cd]AB[fc]C[yithril [2d\]: this one is ok too
+DarthStian [6k\]: oh this I ddin't notice
+volatile [10k\]: um...you sure?
+Shana [1k\]: f15?
+Sasaku [-\]: its complicated now, if its whites turn
+]
+;B[]C[Carnubak [4k\]: Ok.
+SushiChef [17k?\]: can black try a squeeze
+yithril [2d\]: we dont like weak nets
+]
+(;W[dc]
+;B[ed]C[yithril [2d\]: like this of course not
+])
+(;W[ed]
+;B[dc]C[yithril [2d\]: now we have a bigger net
+yithril [2d\]: but
+volatile [10k\]: f15 for white :D
+]
+(;W[ge]C[Shana [1k\]: too bad these nets aare cheap material xD
+yithril [2d\]: this wont word
+yithril [2d\]: *work
+volatile [10k\]: lol
+]
+;B[fe]
+;W[fd]
+;B[gd]C[yithril [2d\]: oops
+])
+(;W[ec]C[Klejj [9k\]: yay, dinner
+yithril [2d\]: what about this one though
+Carnubak [4k\]: E18.
+Shana [1k\]: no dinner
+Shana [1k\]: xD
+]
+;B[eb]
+;W[db]C[Sasaku [-\]: this makes it complicated
+]
+;B[cc]
+;W[cb]
+;B[bc]
+;W[fb]C[Shana [1k\]: not complicated simply no dinner
+SushiChef [17k?\]: white still escape
+Carnubak [4k\]: Right.
+yithril [2d\]: very easy to escape
+Shana [1k\]: agh im so hungry
+]
+;B[fd]
+;W[ea]C[Shana [1k\]: we like fish for some reason 
+]
+;B[fe]C[DarthStian [6k\]: :P
+]
+;W[eb]C[yithril [2d\]: doesnt have any effect
+SushiChef [17k?\]: ok
+yithril [2d\]: but im glad you noticed the squeeze
+Korlon [3k\]: Even if you sacrifice two stones instead of one, it doesn't work
+Shana [1k\]: next problem xD
+DarthStian [6k\]: I want to be white in this game ok?
+])))))
