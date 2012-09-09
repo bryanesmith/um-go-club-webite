@@ -243,15 +243,28 @@ acronym {
 
 .section .button {
   display: block;
-  text-align: center;
-  text-decoration: none;
-  background: #ddd;
+  margin: 1.75em 0 .25em 0;
   padding: .5em;
   -webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-  text-transform: uppercase;
+
+  text-align: center;
+  text-decoration: none;
+  font-size: .8em;
+  font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
+  text-transform: uppercase;
+
+  background: #ccc;
+  color: #222;
+
+  -moz-box-shadow: 10px 5px 15px #aaa;
+  -webkit-box-shadow: 10px 5px 15px #aaa;
+  box-shadow: 2px 2px 4px #666;
+
+  text-shadow: 1px 1px #fff;
+
 }
 
 .section .button:hover {
